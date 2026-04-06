@@ -1,0 +1,906 @@
+
+################################################################################
+# ENGLISH SENTENCES - SPACY ANALYSIS
+################################################################################
+
+================================================================================
+SENTENCE 1
+================================================================================
+Original: Cherry blossoms, or sakura, bloom throughout Japan during spring, attracting millions of visitors.
+
+Tokens: ['Cherry', 'blossoms', ',', 'or', 'sakura', ',', 'bloom', 'throughout', 'Japan', 'during', 'spring', ',', 'attracting', 'millions', 'of', 'visitors', '.']
+
+Lemmas: ['cherry', 'blossom', ',', 'or', 'sakura', ',', 'bloom', 'throughout', 'Japan', 'during', 'spring', ',', 'attract', 'million', 'of', 'visitor', '.']
+
+POS Tags:
+  1. Cherry: NOUN (NN)
+  2. blossoms: NOUN (NNS)
+  3. ,: PUNCT (,)
+  4. or: CCONJ (CC)
+  5. sakura: NOUN (NN)
+  6. ,: PUNCT (,)
+  7. bloom: NOUN (NN)
+  8. throughout: ADP (IN)
+  9. Japan: PROPN (NNP)
+  10. during: ADP (IN)
+  11. spring: NOUN (NN)
+  12. ,: PUNCT (,)
+  13. attracting: VERB (VBG)
+  14. millions: NOUN (NNS)
+  15. of: ADP (IN)
+  16. visitors: NOUN (NNS)
+  17. .: PUNCT (.)
+
+Dependency Relations:
+  Cherry --[compound]--> blossoms (NOUN)
+  blossoms --[nsubj]--> bloom (NOUN)
+  , --[punct]--> blossoms (NOUN)
+  or --[cc]--> blossoms (NOUN)
+  sakura --[conj]--> blossoms (NOUN)
+  , --[punct]--> blossoms (NOUN)
+  bloom --[ROOT]--> bloom (NOUN)
+  throughout --[prep]--> bloom (NOUN)
+  Japan --[pobj]--> throughout (ADP)
+  during --[prep]--> bloom (NOUN)
+  spring --[pobj]--> during (ADP)
+  , --[punct]--> bloom (NOUN)
+  attracting --[advcl]--> bloom (NOUN)
+  millions --[dobj]--> attracting (VERB)
+  of --[prep]--> millions (NOUN)
+  visitors --[pobj]--> of (ADP)
+  . --[punct]--> bloom (NOUN)
+
+Named Entities:
+  Japan: GPE - Countries, cities, states
+  spring: DATE - Absolute or relative dates or periods
+  millions: CARDINAL - Numerals that do not fall under another type
+
+================================================================================
+SENTENCE 2
+================================================================================
+Original: The Japanese tea ceremony, known as chanoyu, is a traditional ritual emphasizing harmony and respect.
+
+Tokens: ['The', 'Japanese', 'tea', 'ceremony', ',', 'known', 'as', 'chanoyu', ',', 'is', 'a', 'traditional', 'ritual', 'emphasizing', 'harmony', 'and', 'respect', '.']
+
+Lemmas: ['the', 'japanese', 'tea', 'ceremony', ',', 'know', 'as', 'chanoyu', ',', 'be', 'a', 'traditional', 'ritual', 'emphasizing', 'harmony', 'and', 'respect', '.']
+
+POS Tags:
+  1. The: DET (DT)
+  2. Japanese: ADJ (JJ)
+  3. tea: NOUN (NN)
+  4. ceremony: NOUN (NN)
+  5. ,: PUNCT (,)
+  6. known: VERB (VBN)
+  7. as: ADP (IN)
+  8. chanoyu: NOUN (NN)
+  9. ,: PUNCT (,)
+  10. is: AUX (VBZ)
+  11. a: DET (DT)
+  12. traditional: ADJ (JJ)
+  13. ritual: ADJ (JJ)
+  14. emphasizing: NOUN (NN)
+  15. harmony: NOUN (NN)
+  16. and: CCONJ (CC)
+  17. respect: NOUN (NN)
+  18. .: PUNCT (.)
+
+Dependency Relations:
+  The --[det]--> ceremony (NOUN)
+  Japanese --[amod]--> ceremony (NOUN)
+  tea --[compound]--> ceremony (NOUN)
+  ceremony --[nsubj]--> is (AUX)
+  , --[punct]--> ceremony (NOUN)
+  known --[acl]--> ceremony (NOUN)
+  as --[prep]--> known (VERB)
+  chanoyu --[pobj]--> as (ADP)
+  , --[punct]--> ceremony (NOUN)
+  is --[ROOT]--> is (AUX)
+  a --[det]--> harmony (NOUN)
+  traditional --[amod]--> harmony (NOUN)
+  ritual --[amod]--> emphasizing (NOUN)
+  emphasizing --[compound]--> harmony (NOUN)
+  harmony --[attr]--> is (AUX)
+  and --[cc]--> harmony (NOUN)
+  respect --[conj]--> harmony (NOUN)
+  . --[punct]--> is (AUX)
+
+Named Entities:
+  Japanese: NORP - Nationalities or religious or political groups
+
+================================================================================
+SENTENCE 3
+================================================================================
+Original: Mount Fuji is Japan's highest mountain and a sacred symbol of natural beauty.
+
+Tokens: ['Mount', 'Fuji', 'is', 'Japan', "'s", 'highest', 'mountain', 'and', 'a', 'sacred', 'symbol', 'of', 'natural', 'beauty', '.']
+
+Lemmas: ['Mount', 'Fuji', 'be', 'Japan', "'s", 'high', 'mountain', 'and', 'a', 'sacred', 'symbol', 'of', 'natural', 'beauty', '.']
+
+POS Tags:
+  1. Mount: PROPN (NNP)
+  2. Fuji: PROPN (NNP)
+  3. is: AUX (VBZ)
+  4. Japan: PROPN (NNP)
+  5. 's: PART (POS)
+  6. highest: ADJ (JJS)
+  7. mountain: NOUN (NN)
+  8. and: CCONJ (CC)
+  9. a: DET (DT)
+  10. sacred: ADJ (JJ)
+  11. symbol: NOUN (NN)
+  12. of: ADP (IN)
+  13. natural: ADJ (JJ)
+  14. beauty: NOUN (NN)
+  15. .: PUNCT (.)
+
+Dependency Relations:
+  Mount --[compound]--> Fuji (PROPN)
+  Fuji --[nsubj]--> is (AUX)
+  is --[ROOT]--> is (AUX)
+  Japan --[poss]--> mountain (NOUN)
+  's --[case]--> Japan (PROPN)
+  highest --[amod]--> mountain (NOUN)
+  mountain --[attr]--> is (AUX)
+  and --[cc]--> mountain (NOUN)
+  a --[det]--> symbol (NOUN)
+  sacred --[amod]--> symbol (NOUN)
+  symbol --[conj]--> mountain (NOUN)
+  of --[prep]--> symbol (NOUN)
+  natural --[amod]--> beauty (NOUN)
+  beauty --[pobj]--> of (ADP)
+  . --[punct]--> is (AUX)
+
+Named Entities:
+  Mount Fuji: LOC - Non-GPE locations, mountain ranges, bodies of water
+  Japan: GPE - Countries, cities, states
+
+================================================================================
+SENTENCE 4
+================================================================================
+Original: Origami is the ancient Japanese art of paper folding that creates intricate designs.
+
+Tokens: ['Origami', 'is', 'the', 'ancient', 'Japanese', 'art', 'of', 'paper', 'folding', 'that', 'creates', 'intricate', 'designs', '.']
+
+Lemmas: ['Origami', 'be', 'the', 'ancient', 'japanese', 'art', 'of', 'paper', 'folding', 'that', 'create', 'intricate', 'design', '.']
+
+POS Tags:
+  1. Origami: PROPN (NNP)
+  2. is: AUX (VBZ)
+  3. the: DET (DT)
+  4. ancient: ADJ (JJ)
+  5. Japanese: ADJ (JJ)
+  6. art: NOUN (NN)
+  7. of: ADP (IN)
+  8. paper: NOUN (NN)
+  9. folding: NOUN (NN)
+  10. that: PRON (WDT)
+  11. creates: VERB (VBZ)
+  12. intricate: ADJ (JJ)
+  13. designs: NOUN (NNS)
+  14. .: PUNCT (.)
+
+Dependency Relations:
+  Origami --[nsubj]--> is (AUX)
+  is --[ROOT]--> is (AUX)
+  the --[det]--> art (NOUN)
+  ancient --[amod]--> art (NOUN)
+  Japanese --[amod]--> art (NOUN)
+  art --[attr]--> is (AUX)
+  of --[prep]--> art (NOUN)
+  paper --[compound]--> folding (NOUN)
+  folding --[pobj]--> of (ADP)
+  that --[nsubj]--> creates (VERB)
+  creates --[relcl]--> folding (NOUN)
+  intricate --[amod]--> designs (NOUN)
+  designs --[dobj]--> creates (VERB)
+  . --[punct]--> is (AUX)
+
+Named Entities:
+  Origami: PERSON - People, including fictional
+  Japanese: NORP - Nationalities or religious or political groups
+
+================================================================================
+SENTENCE 5
+================================================================================
+Original: Samurai warriors followed the bushido code of honor and loyalty.
+
+Tokens: ['Samurai', 'warriors', 'followed', 'the', 'bushido', 'code', 'of', 'honor', 'and', 'loyalty', '.']
+
+Lemmas: ['Samurai', 'warrior', 'follow', 'the', 'bushido', 'code', 'of', 'honor', 'and', 'loyalty', '.']
+
+POS Tags:
+  1. Samurai: PROPN (NNP)
+  2. warriors: NOUN (NNS)
+  3. followed: VERB (VBD)
+  4. the: DET (DT)
+  5. bushido: PROPN (NNP)
+  6. code: NOUN (NN)
+  7. of: ADP (IN)
+  8. honor: NOUN (NN)
+  9. and: CCONJ (CC)
+  10. loyalty: NOUN (NN)
+  11. .: PUNCT (.)
+
+Dependency Relations:
+  Samurai --[compound]--> warriors (NOUN)
+  warriors --[nsubj]--> followed (VERB)
+  followed --[ROOT]--> followed (VERB)
+  the --[det]--> code (NOUN)
+  bushido --[compound]--> code (NOUN)
+  code --[dobj]--> followed (VERB)
+  of --[prep]--> code (NOUN)
+  honor --[pobj]--> of (ADP)
+  and --[cc]--> honor (NOUN)
+  loyalty --[conj]--> honor (NOUN)
+  . --[punct]--> followed (VERB)
+
+Named Entities: None found
+
+================================================================================
+SENTENCE 6
+================================================================================
+Original: Anime and manga have become incredibly popular forms of entertainment worldwide.
+
+Tokens: ['Anime', 'and', 'manga', 'have', 'become', 'incredibly', 'popular', 'forms', 'of', 'entertainment', 'worldwide', '.']
+
+Lemmas: ['anime', 'and', 'manga', 'have', 'become', 'incredibly', 'popular', 'form', 'of', 'entertainment', 'worldwide', '.']
+
+POS Tags:
+  1. Anime: NOUN (NN)
+  2. and: CCONJ (CC)
+  3. manga: NOUN (NN)
+  4. have: AUX (VBP)
+  5. become: VERB (VBN)
+  6. incredibly: ADV (RB)
+  7. popular: ADJ (JJ)
+  8. forms: NOUN (NNS)
+  9. of: ADP (IN)
+  10. entertainment: NOUN (NN)
+  11. worldwide: ADV (RB)
+  12. .: PUNCT (.)
+
+Dependency Relations:
+  Anime --[nsubj]--> become (VERB)
+  and --[cc]--> Anime (NOUN)
+  manga --[conj]--> Anime (NOUN)
+  have --[aux]--> become (VERB)
+  become --[ROOT]--> become (VERB)
+  incredibly --[advmod]--> popular (ADJ)
+  popular --[amod]--> forms (NOUN)
+  forms --[attr]--> become (VERB)
+  of --[prep]--> forms (NOUN)
+  entertainment --[pobj]--> of (ADP)
+  worldwide --[advmod]--> become (VERB)
+  . --[punct]--> become (VERB)
+
+Named Entities: None found
+
+================================================================================
+SENTENCE 7
+================================================================================
+Original: Japanese gardens emphasize harmony, balance, and the beauty of nature.
+
+Tokens: ['Japanese', 'gardens', 'emphasize', 'harmony', ',', 'balance', ',', 'and', 'the', 'beauty', 'of', 'nature', '.']
+
+Lemmas: ['japanese', 'garden', 'emphasize', 'harmony', ',', 'balance', ',', 'and', 'the', 'beauty', 'of', 'nature', '.']
+
+POS Tags:
+  1. Japanese: ADJ (JJ)
+  2. gardens: NOUN (NNS)
+  3. emphasize: VERB (VBP)
+  4. harmony: NOUN (NN)
+  5. ,: PUNCT (,)
+  6. balance: NOUN (NN)
+  7. ,: PUNCT (,)
+  8. and: CCONJ (CC)
+  9. the: DET (DT)
+  10. beauty: NOUN (NN)
+  11. of: ADP (IN)
+  12. nature: NOUN (NN)
+  13. .: PUNCT (.)
+
+Dependency Relations:
+  Japanese --[amod]--> gardens (NOUN)
+  gardens --[nsubj]--> emphasize (VERB)
+  emphasize --[ROOT]--> emphasize (VERB)
+  harmony --[dobj]--> emphasize (VERB)
+  , --[punct]--> harmony (NOUN)
+  balance --[conj]--> harmony (NOUN)
+  , --[punct]--> balance (NOUN)
+  and --[cc]--> balance (NOUN)
+  the --[det]--> beauty (NOUN)
+  beauty --[conj]--> balance (NOUN)
+  of --[prep]--> beauty (NOUN)
+  nature --[pobj]--> of (ADP)
+  . --[punct]--> emphasize (VERB)
+
+Named Entities:
+  Japanese: NORP - Nationalities or religious or political groups
+
+================================================================================
+SENTENCE 8
+================================================================================
+Original: The kimono is a traditional Japanese garment featuring beautiful and elegant designs.
+
+Tokens: ['The', 'kimono', 'is', 'a', 'traditional', 'Japanese', 'garment', 'featuring', 'beautiful', 'and', 'elegant', 'designs', '.']
+
+Lemmas: ['the', 'kimono', 'be', 'a', 'traditional', 'japanese', 'garment', 'feature', 'beautiful', 'and', 'elegant', 'design', '.']
+
+POS Tags:
+  1. The: DET (DT)
+  2. kimono: PROPN (NNP)
+  3. is: AUX (VBZ)
+  4. a: DET (DT)
+  5. traditional: ADJ (JJ)
+  6. Japanese: ADJ (JJ)
+  7. garment: NOUN (NN)
+  8. featuring: VERB (VBG)
+  9. beautiful: ADJ (JJ)
+  10. and: CCONJ (CC)
+  11. elegant: ADJ (JJ)
+  12. designs: NOUN (NNS)
+  13. .: PUNCT (.)
+
+Dependency Relations:
+  The --[det]--> kimono (PROPN)
+  kimono --[nsubj]--> is (AUX)
+  is --[ROOT]--> is (AUX)
+  a --[det]--> garment (NOUN)
+  traditional --[amod]--> garment (NOUN)
+  Japanese --[amod]--> garment (NOUN)
+  garment --[attr]--> is (AUX)
+  featuring --[acl]--> garment (NOUN)
+  beautiful --[amod]--> designs (NOUN)
+  and --[cc]--> beautiful (ADJ)
+  elegant --[conj]--> beautiful (ADJ)
+  designs --[dobj]--> featuring (VERB)
+  . --[punct]--> is (AUX)
+
+Named Entities:
+  Japanese: NORP - Nationalities or religious or political groups
+
+================================================================================
+SENTENCE 9
+================================================================================
+Original: Sushi and ramen are iconic Japanese dishes enjoyed by people globally.
+
+Tokens: ['Sushi', 'and', 'ramen', 'are', 'iconic', 'Japanese', 'dishes', 'enjoyed', 'by', 'people', 'globally', '.']
+
+Lemmas: ['Sushi', 'and', 'raman', 'be', 'iconic', 'japanese', 'dish', 'enjoy', 'by', 'people', 'globally', '.']
+
+POS Tags:
+  1. Sushi: PROPN (NNP)
+  2. and: CCONJ (CC)
+  3. ramen: NOUN (NNS)
+  4. are: AUX (VBP)
+  5. iconic: ADJ (JJ)
+  6. Japanese: ADJ (JJ)
+  7. dishes: NOUN (NNS)
+  8. enjoyed: VERB (VBN)
+  9. by: ADP (IN)
+  10. people: NOUN (NNS)
+  11. globally: ADV (RB)
+  12. .: PUNCT (.)
+
+Dependency Relations:
+  Sushi --[nsubj]--> are (AUX)
+  and --[cc]--> Sushi (PROPN)
+  ramen --[conj]--> Sushi (PROPN)
+  are --[ROOT]--> are (AUX)
+  iconic --[amod]--> dishes (NOUN)
+  Japanese --[amod]--> dishes (NOUN)
+  dishes --[attr]--> are (AUX)
+  enjoyed --[acl]--> dishes (NOUN)
+  by --[agent]--> enjoyed (VERB)
+  people --[pobj]--> by (ADP)
+  globally --[advmod]--> enjoyed (VERB)
+  . --[punct]--> are (AUX)
+
+Named Entities:
+  Japanese: NORP - Nationalities or religious or political groups
+
+================================================================================
+SENTENCE 10
+================================================================================
+Original: Zen Buddhism has deeply influenced Japanese culture, art, and aesthetics.
+
+Tokens: ['Zen', 'Buddhism', 'has', 'deeply', 'influenced', 'Japanese', 'culture', ',', 'art', ',', 'and', 'aesthetics', '.']
+
+Lemmas: ['Zen', 'Buddhism', 'have', 'deeply', 'influence', 'japanese', 'culture', ',', 'art', ',', 'and', 'aesthetic', '.']
+
+POS Tags:
+  1. Zen: PROPN (NNP)
+  2. Buddhism: PROPN (NNP)
+  3. has: AUX (VBZ)
+  4. deeply: ADV (RB)
+  5. influenced: VERB (VBN)
+  6. Japanese: ADJ (JJ)
+  7. culture: NOUN (NN)
+  8. ,: PUNCT (,)
+  9. art: NOUN (NN)
+  10. ,: PUNCT (,)
+  11. and: CCONJ (CC)
+  12. aesthetics: NOUN (NNS)
+  13. .: PUNCT (.)
+
+Dependency Relations:
+  Zen --[compound]--> Buddhism (PROPN)
+  Buddhism --[nsubj]--> influenced (VERB)
+  has --[aux]--> influenced (VERB)
+  deeply --[advmod]--> influenced (VERB)
+  influenced --[ROOT]--> influenced (VERB)
+  Japanese --[amod]--> culture (NOUN)
+  culture --[dobj]--> influenced (VERB)
+  , --[punct]--> culture (NOUN)
+  art --[conj]--> culture (NOUN)
+  , --[punct]--> art (NOUN)
+  and --[cc]--> art (NOUN)
+  aesthetics --[conj]--> art (NOUN)
+  . --[punct]--> influenced (VERB)
+
+Named Entities:
+  Japanese: NORP - Nationalities or religious or political groups
+
+################################################################################
+# ROMANIAN SENTENCES - SPACY ANALYSIS
+################################################################################
+
+================================================================================
+SENTENCE 1
+================================================================================
+Original: Florile de cireș, sau sakura, înfloresc în toată Japonia în timpul primăverii, atrăgând milioane de vizitatori.
+
+Tokens: ['Florile', 'de', 'cireș', ',', 'sau', 'sakura', ',', 'înfloresc', 'în', 'toată', 'Japonia', 'în', 'timpul', 'primăverii', ',', 'atrăgând', 'milioane', 'de', 'vizitatori', '.']
+
+Lemmas: ['Florile', 'de', 'cireș', ',', 'sau', 'sakură', ',', 'înflori', 'în', 'tot', 'Japonia', 'în', 'timp', 'primăvere', ',', 'atrăga', 'milion', 'de', 'vizitator', '.']
+
+POS Tags:
+  1. Florile: NOUN (Ncfpry)
+  2. de: ADP (Spsa)
+  3. cireș: NOUN (Ncfsrn)
+  4. ,: PUNCT (COMMA)
+  5. sau: CCONJ (Ccssp)
+  6. sakura: NOUN (Ncfsry)
+  7. ,: PUNCT (COMMA)
+  8. înfloresc: AUX (Vmip3p)
+  9. în: ADP (Spsa)
+  10. toată: DET (Di3fsr)
+  11. Japonia: PROPN (Np)
+  12. în: ADP (Spsa)
+  13. timpul: NOUN (Ncmsry)
+  14. primăverii: NOUN (Ncfsoy)
+  15. ,: PUNCT (COMMA)
+  16. atrăgând: AUX (Vmg)
+  17. milioane: NUM (Mcfprln)
+  18. de: ADP (Spsa)
+  19. vizitatori: NOUN (Ncmp-n)
+  20. .: PUNCT (PERIOD)
+
+Dependency Relations:
+  Florile --[ROOT]--> Florile (NOUN)
+  de --[case]--> cireș (NOUN)
+  cireș --[nmod]--> Florile (NOUN)
+  , --[punct]--> sakura (NOUN)
+  sau --[cc]--> sakura (NOUN)
+  sakura --[conj]--> Florile (NOUN)
+  , --[punct]--> înfloresc (AUX)
+  înfloresc --[acl]--> Florile (NOUN)
+  în --[case]--> Japonia (PROPN)
+  toată --[det]--> Japonia (PROPN)
+  Japonia --[obl]--> înfloresc (AUX)
+  în --[case]--> primăverii (NOUN)
+  timpul --[fixed]--> în (ADP)
+  primăverii --[obl]--> înfloresc (AUX)
+  , --[punct]--> atrăgând (AUX)
+  atrăgând --[acl]--> Florile (NOUN)
+  milioane --[nummod]--> vizitatori (NOUN)
+  de --[case]--> milioane (NUM)
+  vizitatori --[obj]--> atrăgând (AUX)
+  . --[punct]--> Florile (NOUN)
+
+Named Entities:
+  Japonia: GPE - Countries, cities, states
+  milioane: NUMERIC_VALUE - None
+  vizitatori: PERSON - People, including fictional
+
+================================================================================
+SENTENCE 2
+================================================================================
+Original: Ceremonia japoneză a ceaiului, cunoscută sub numele de chanoyu, este un ritual tradițional ce subliniază armonia și respectul.
+
+Tokens: ['Ceremonia', 'japoneză', 'a', 'ceaiului', ',', 'cunoscută', 'sub', 'numele', 'de', 'chanoyu', ',', 'este', 'un', 'ritual', 'tradițional', 'ce', 'subliniază', 'armonia', 'și', 'respectul', '.']
+
+Lemmas: ['ceremonie', 'japonez', 'al', 'ceai', ',', 'cunoscu', 'sub', 'nume', 'de', 'chanoyu', ',', 'fi', 'un', 'ritual', 'tradițional', 'ce', 'sublinia', 'armonie', 'și', 'respect', '.']
+
+POS Tags:
+  1. Ceremonia: NOUN (Ncfsry)
+  2. japoneză: ADJ (Afpfsrn)
+  3. a: DET (Tsfs)
+  4. ceaiului: NOUN (Ncmsoy)
+  5. ,: PUNCT (COMMA)
+  6. cunoscută: VERB (Vmp--sf)
+  7. sub: ADP (Spsa)
+  8. numele: NOUN (Ncmsry)
+  9. de: ADP (Spsa)
+  10. chanoyu: NOUN (Ncms-n)
+  11. ,: PUNCT (COMMA)
+  12. este: AUX (Vaip3s)
+  13. un: DET (Timsr)
+  14. ritual: NOUN (Ncms-n)
+  15. tradițional: ADJ (Afpms-n)
+  16. ce: PRON (Pw3--r)
+  17. subliniază: VERB (Vmip3)
+  18. armonia: NOUN (Ncfsry)
+  19. și: CCONJ (Crssp)
+  20. respectul: NOUN (Ncmsry)
+  21. .: PUNCT (PERIOD)
+
+Dependency Relations:
+  Ceremonia --[nsubj]--> ritual (NOUN)
+  japoneză --[amod]--> Ceremonia (NOUN)
+  a --[det]--> ceaiului (NOUN)
+  ceaiului --[nmod]--> Ceremonia (NOUN)
+  , --[punct]--> cunoscută (VERB)
+  cunoscută --[acl]--> Ceremonia (NOUN)
+  sub --[case]--> numele (NOUN)
+  numele --[obl]--> cunoscută (VERB)
+  de --[case]--> chanoyu (NOUN)
+  chanoyu --[nmod]--> numele (NOUN)
+  , --[punct]--> cunoscută (VERB)
+  este --[cop]--> ritual (NOUN)
+  un --[det]--> ritual (NOUN)
+  ritual --[ROOT]--> ritual (NOUN)
+  tradițional --[amod]--> ritual (NOUN)
+  ce --[nsubj]--> subliniază (VERB)
+  subliniază --[acl]--> ritual (NOUN)
+  armonia --[obj]--> subliniază (VERB)
+  și --[cc]--> respectul (NOUN)
+  respectul --[conj]--> armonia (NOUN)
+  . --[punct]--> ritual (NOUN)
+
+Named Entities:
+  japoneză: NAT_REL_POL - None
+  ceaiului: PERSON - People, including fictional
+  respectul: PRODUCT - Objects, vehicles, foods, etc. (not services)
+
+================================================================================
+SENTENCE 3
+================================================================================
+Original: Muntele Fuji este cel mai înalt munte din Japonia și un simbol sacru al frumuseții naturale.
+
+Tokens: ['Muntele', 'Fuji', 'este', 'cel', 'mai', 'înalt', 'munte', 'din', 'Japonia', 'și', 'un', 'simbol', 'sacru', 'al', 'frumuseții', 'naturale', '.']
+
+Lemmas: ['Muntele', 'Fuji', 'fi', 'cel', 'mai', 'înalt', 'munte', 'din', 'Japonia', 'și', 'un', 'simbol', 'sacru', 'al', 'frumusețe', 'natural', '.']
+
+POS Tags:
+  1. Muntele: NOUN (Ncmsry)
+  2. Fuji: NOUN (Ncmsoy)
+  3. este: AUX (Vaip3s)
+  4. cel: DET (Tdmsr)
+  5. mai: ADV (Rp)
+  6. înalt: ADJ (Afpms-n)
+  7. munte: NOUN (Ncms-n)
+  8. din: ADP (Spsa)
+  9. Japonia: PROPN (Np)
+  10. și: CCONJ (Crssp)
+  11. un: DET (Timsr)
+  12. simbol: NOUN (Ncms-n)
+  13. sacru: ADJ (Afpms-n)
+  14. al: DET (Tsms)
+  15. frumuseții: NOUN (Ncfsoy)
+  16. naturale: ADJ (Afpfson)
+  17. .: PUNCT (PERIOD)
+
+Dependency Relations:
+  Muntele --[nsubj]--> munte (NOUN)
+  Fuji --[nmod]--> Muntele (NOUN)
+  este --[cop]--> munte (NOUN)
+  cel --[det]--> înalt (ADJ)
+  mai --[advmod]--> înalt (ADJ)
+  înalt --[amod]--> munte (NOUN)
+  munte --[ROOT]--> munte (NOUN)
+  din --[case]--> Japonia (PROPN)
+  Japonia --[nmod]--> munte (NOUN)
+  și --[cc]--> simbol (NOUN)
+  un --[det]--> simbol (NOUN)
+  simbol --[conj]--> Japonia (PROPN)
+  sacru --[amod]--> simbol (NOUN)
+  al --[det]--> frumuseții (NOUN)
+  frumuseții --[nmod]--> simbol (NOUN)
+  naturale --[amod]--> frumuseții (NOUN)
+  . --[punct]--> munte (NOUN)
+
+Named Entities:
+  Muntele Fuji: FACILITY - Buildings, airports, highways, bridges, etc.
+  Japonia: GPE - Countries, cities, states
+  frumuseții naturale: ORGANIZATION - None
+
+================================================================================
+SENTENCE 4
+================================================================================
+Original: Origami este arta japoneză antică de pliere a hârtiei care creează modele complexe.
+
+Tokens: ['Origami', 'este', 'arta', 'japoneză', 'antică', 'de', 'pliere', 'a', 'hârtiei', 'care', 'creează', 'modele', 'complexe', '.']
+
+Lemmas: ['Origami', 'fi', 'artă', 'japonez', 'antic', 'de', 'pliere', 'al', 'hârtie', 'care', 'crea', 'model', 'complex', '.']
+
+POS Tags:
+  1. Origami: PROPN (Np)
+  2. este: AUX (Vaip3s)
+  3. arta: NOUN (Ncfsry)
+  4. japoneză: ADJ (Afpfsrn)
+  5. antică: ADJ (Afpfsrn)
+  6. de: ADP (Spsa)
+  7. pliere: NOUN (Ncfsrn)
+  8. a: DET (Tsfs)
+  9. hârtiei: NOUN (Ncfsoy)
+  10. care: PRON (Pw3--r)
+  11. creează: VERB (Vmip3)
+  12. modele: NOUN (Ncfp-n)
+  13. complexe: ADJ (Afpfp-n)
+  14. .: PUNCT (PERIOD)
+
+Dependency Relations:
+  Origami --[nsubj]--> arta (NOUN)
+  este --[cop]--> arta (NOUN)
+  arta --[ROOT]--> arta (NOUN)
+  japoneză --[amod]--> arta (NOUN)
+  antică --[amod]--> arta (NOUN)
+  de --[case]--> pliere (NOUN)
+  pliere --[obl]--> antică (ADJ)
+  a --[det]--> hârtiei (NOUN)
+  hârtiei --[nmod]--> arta (NOUN)
+  care --[nsubj]--> creează (VERB)
+  creează --[acl]--> hârtiei (NOUN)
+  modele --[obj]--> creează (VERB)
+  complexe --[amod]--> modele (NOUN)
+  . --[punct]--> arta (NOUN)
+
+Named Entities:
+  japoneză: NAT_REL_POL - None
+
+================================================================================
+SENTENCE 5
+================================================================================
+Original: Războinicii samurai urmau codul de onoare bushido și loialitate.
+
+Tokens: ['Războinicii', 'samurai', 'urmau', 'codul', 'de', 'onoare', 'bushido', 'și', 'loialitate', '.']
+
+Lemmas: ['Războinicii', 'samurai', 'urma', 'cod', 'de', 'onoare', 'bushido', 'și', 'loialitate', '.']
+
+POS Tags:
+  1. Războinicii: NOUN (Ncmpry)
+  2. samurai: PROPN (Np)
+  3. urmau: VERB (Vmii3p)
+  4. codul: NOUN (Ncmsry)
+  5. de: ADP (Spsa)
+  6. onoare: NOUN (Ncfsrn)
+  7. bushido: PROPN (Np)
+  8. și: CCONJ (Crssp)
+  9. loialitate: NOUN (Ncfsrn)
+  10. .: PUNCT (PERIOD)
+
+Dependency Relations:
+  Războinicii --[nsubj]--> urmau (VERB)
+  samurai --[nmod]--> Războinicii (NOUN)
+  urmau --[ROOT]--> urmau (VERB)
+  codul --[obj]--> urmau (VERB)
+  de --[case]--> onoare (NOUN)
+  onoare --[nmod]--> codul (NOUN)
+  bushido --[amod]--> codul (NOUN)
+  și --[cc]--> loialitate (NOUN)
+  loialitate --[conj]--> bushido (PROPN)
+  . --[punct]--> urmau (VERB)
+
+Named Entities: None found
+
+================================================================================
+SENTENCE 6
+================================================================================
+Original: Anime și manga au devenit forme de divertisment incredibil de populare în întreaga lume.
+
+Tokens: ['Anime', 'și', 'manga', 'au', 'devenit', 'forme', 'de', 'divertisment', 'incredibil', 'de', 'populare', 'în', 'întreaga', 'lume', '.']
+
+Lemmas: ['Anime', 'și', 'mangă', 'avea', 'deveni', 'formă', 'de', 'divertisment', 'incredibil', 'de', 'populare', 'în', 'întreg', 'lume', '.']
+
+POS Tags:
+  1. Anime: PROPN (Np)
+  2. și: CCONJ (Crssp)
+  3. manga: NOUN (Ncfsry)
+  4. au: AUX (Va--3p)
+  5. devenit: VERB (Vmp--sm)
+  6. forme: NOUN (Ncfp-n)
+  7. de: ADP (Spsa)
+  8. divertisment: NOUN (Ncms-n)
+  9. incredibil: ADJ (Afpms-n)
+  10. de: ADP (Spsa)
+  11. populare: NOUN (Ncfsrn)
+  12. în: ADP (Spsa)
+  13. întreaga: ADJ (Afpfsry)
+  14. lume: NOUN (Ncfsrn)
+  15. .: PUNCT (PERIOD)
+
+Dependency Relations:
+  Anime --[nsubj]--> devenit (VERB)
+  și --[cc]--> manga (NOUN)
+  manga --[conj]--> Anime (PROPN)
+  au --[aux]--> devenit (VERB)
+  devenit --[ROOT]--> devenit (VERB)
+  forme --[xcomp]--> devenit (VERB)
+  de --[case]--> divertisment (NOUN)
+  divertisment --[nmod]--> forme (NOUN)
+  incredibil --[amod]--> forme (NOUN)
+  de --[case]--> populare (NOUN)
+  populare --[nmod]--> forme (NOUN)
+  în --[case]--> lume (NOUN)
+  întreaga --[amod]--> lume (NOUN)
+  lume --[nmod]--> forme (NOUN)
+  . --[punct]--> devenit (VERB)
+
+Named Entities:
+  Anime: PERSON - People, including fictional
+
+================================================================================
+SENTENCE 7
+================================================================================
+Original: Grădinile japoneze subliniază armonia, echilibrul și frumusețea naturii.
+
+Tokens: ['Grădinile', 'japoneze', 'subliniază', 'armonia', ',', 'echilibrul', 'și', 'frumusețea', 'naturii', '.']
+
+Lemmas: ['Grădinile', 'japonez', 'sublinia', 'armonie', ',', 'echilibru', 'și', 'frumusețe', 'natură', '.']
+
+POS Tags:
+  1. Grădinile: NOUN (Ncfpry)
+  2. japoneze: PROPN (Np)
+  3. subliniază: VERB (Vmip3)
+  4. armonia: NOUN (Ncfsry)
+  5. ,: PUNCT (COMMA)
+  6. echilibrul: NOUN (Ncmsry)
+  7. și: CCONJ (Crssp)
+  8. frumusețea: NOUN (Ncfsry)
+  9. naturii: NOUN (Ncfsoy)
+  10. .: PUNCT (PERIOD)
+
+Dependency Relations:
+  Grădinile --[nsubj]--> subliniază (VERB)
+  japoneze --[amod]--> Grădinile (NOUN)
+  subliniază --[ROOT]--> subliniază (VERB)
+  armonia --[obj]--> subliniază (VERB)
+  , --[punct]--> echilibrul (NOUN)
+  echilibrul --[conj]--> subliniază (VERB)
+  și --[cc]--> frumusețea (NOUN)
+  frumusețea --[conj]--> echilibrul (NOUN)
+  naturii --[nmod]--> echilibrul (NOUN)
+  . --[punct]--> subliniază (VERB)
+
+Named Entities:
+  japoneze: NAT_REL_POL - None
+  echilibrul: PERSON - People, including fictional
+
+================================================================================
+SENTENCE 8
+================================================================================
+Original: Kimono-ul este un vestment tradițional japonez cu designuri frumoase și elegante.
+
+Tokens: ['Kimono', '-ul', 'este', 'un', 'vestment', 'tradițional', 'japonez', 'cu', 'designuri', 'frumoase', 'și', 'elegante', '.']
+
+Lemmas: ['Kimono', '-ul', 'fi', 'un', 'vestment', 'tradițional', 'japonez', 'cu', 'design', 'frumos', 'și', 'elegant', '.']
+
+POS Tags:
+  1. Kimono: PROPN (Np)
+  2. -ul: DET (Tfmsry)
+  3. este: AUX (Vaip3s)
+  4. un: DET (Timsr)
+  5. vestment: NOUN (Ncms-n)
+  6. tradițional: ADJ (Afpms-n)
+  7. japonez: ADJ (Afpms-n)
+  8. cu: ADP (Spsa)
+  9. designuri: NOUN (Ncfp-n)
+  10. frumoase: ADJ (Afpfp-n)
+  11. și: CCONJ (Crssp)
+  12. elegante: ADJ (Afpfp-n)
+  13. .: PUNCT (PERIOD)
+
+Dependency Relations:
+  Kimono --[nsubj]--> vestment (NOUN)
+  -ul --[det]--> Kimono (PROPN)
+  este --[cop]--> vestment (NOUN)
+  un --[det]--> vestment (NOUN)
+  vestment --[ROOT]--> vestment (NOUN)
+  tradițional --[amod]--> vestment (NOUN)
+  japonez --[amod]--> vestment (NOUN)
+  cu --[case]--> designuri (NOUN)
+  designuri --[nmod]--> vestment (NOUN)
+  frumoase --[amod]--> designuri (NOUN)
+  și --[cc]--> elegante (ADJ)
+  elegante --[conj]--> frumoase (ADJ)
+  . --[punct]--> vestment (NOUN)
+
+Named Entities:
+  japonez: NAT_REL_POL - None
+
+================================================================================
+SENTENCE 9
+================================================================================
+Original: Sushi și ramen sunt preparate japoneze iconice apreciate de oameni la nivel global.
+
+Tokens: ['Sushi', 'și', 'ramen', 'sunt', 'preparate', 'japoneze', 'iconice', 'apreciate', 'de', 'oameni', 'la', 'nivel', 'global', '.']
+
+Lemmas: ['Sushi', 'și', 'ramen', 'fi', 'prepara', 'japoneză', 'iconic', 'aprecia', 'de', 'om', 'la', 'nivel', 'global', '.']
+
+POS Tags:
+  1. Sushi: PROPN (Np)
+  2. și: CCONJ (Crssp)
+  3. ramen: NOUN (Ncms-n)
+  4. sunt: AUX (Vaip3p)
+  5. preparate: VERB (Vmp--pf)
+  6. japoneze: NOUN (Ncfp-n)
+  7. iconice: ADJ (Afpfp-n)
+  8. apreciate: VERB (Vmp--pf)
+  9. de: ADP (Spsa)
+  10. oameni: NOUN (Ncmp-n)
+  11. la: ADP (Spsa)
+  12. nivel: NOUN (Ncms-n)
+  13. global: ADJ (Afpms-n)
+  14. .: PUNCT (PERIOD)
+
+Dependency Relations:
+  Sushi --[nsubj:pass]--> preparate (VERB)
+  și --[cc]--> ramen (NOUN)
+  ramen --[conj]--> Sushi (PROPN)
+  sunt --[aux:pass]--> preparate (VERB)
+  preparate --[ROOT]--> preparate (VERB)
+  japoneze --[nsubj:pass]--> preparate (VERB)
+  iconice --[amod]--> japoneze (NOUN)
+  apreciate --[acl]--> japoneze (NOUN)
+  de --[case]--> oameni (NOUN)
+  oameni --[obl:agent]--> apreciate (VERB)
+  la --[case]--> nivel (NOUN)
+  nivel --[obl]--> apreciate (VERB)
+  global --[amod]--> nivel (NOUN)
+  . --[punct]--> preparate (VERB)
+
+Named Entities:
+  japoneze: NAT_REL_POL - None
+
+================================================================================
+SENTENCE 10
+================================================================================
+Original: Buddhismul Zen a influențat profund cultura, arta și estetica japoneză.
+
+Tokens: ['Buddhismul', 'Zen', 'a', 'influențat', 'profund', 'cultura', ',', 'arta', 'și', 'estetica', 'japoneză', '.']
+
+Lemmas: ['buddhismu', 'Zen', 'avea', 'influența', 'profund', 'cultură', ',', 'artă', 'și', 'estetică', 'japonez', '.']
+
+POS Tags:
+  1. Buddhismul: NOUN (Ncmsry)
+  2. Zen: PROPN (Np)
+  3. a: AUX (Va--3s)
+  4. influențat: VERB (Vmp--sm)
+  5. profund: ADV (Rgp)
+  6. cultura: NOUN (Ncfsry)
+  7. ,: PUNCT (COMMA)
+  8. arta: NOUN (Ncfsry)
+  9. și: CCONJ (Crssp)
+  10. estetica: NOUN (Ncfsry)
+  11. japoneză: ADJ (Afpfsrn)
+  12. .: PUNCT (PERIOD)
+
+Dependency Relations:
+  Buddhismul --[nsubj]--> influențat (VERB)
+  Zen --[flat]--> Buddhismul (NOUN)
+  a --[aux]--> influențat (VERB)
+  influențat --[ROOT]--> influențat (VERB)
+  profund --[advmod]--> influențat (VERB)
+  cultura --[obj]--> influențat (VERB)
+  , --[punct]--> arta (NOUN)
+  arta --[conj]--> cultura (NOUN)
+  și --[cc]--> estetica (NOUN)
+  estetica --[conj]--> cultura (NOUN)
+  japoneză --[amod]--> estetica (NOUN)
+  . --[punct]--> influențat (VERB)
+
+Named Entities:
+  Buddhismul Zen: PRODUCT - Objects, vehicles, foods, etc. (not services)
+  arta: LOC - Non-GPE locations, mountain ranges, bodies of water
+  japoneză: NAT_REL_POL - None
