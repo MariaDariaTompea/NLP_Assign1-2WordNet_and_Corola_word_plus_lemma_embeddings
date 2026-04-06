@@ -1,0 +1,681 @@
+
+################################################################################
+# ENGLISH SENTENCES - NLTK ANALYSIS
+################################################################################
+
+================================================================================
+SENTENCE 1
+================================================================================
+Original: Cherry blossoms, or sakura, bloom throughout Japan during spring, attracting millions of visitors.
+
+Tokens: ['Cherry', 'blossoms', ',', 'or', 'sakura', ',', 'bloom', 'throughout', 'Japan', 'during', 'spring', ',', 'attracting', 'millions', 'of', 'visitors', '.']
+
+Stems: ['cherri', 'blossom', ',', 'or', 'sakura', ',', 'bloom', 'throughout', 'japan', 'dure', 'spring', ',', 'attract', 'million', 'of', 'visitor', '.']
+
+Lemmas: ['Cherry', 'blossom', ',', 'or', 'sakura', ',', 'bloom', 'throughout', 'Japan', 'during', 'spring', ',', 'attracting', 'million', 'of', 'visitor', '.']
+
+POS Tags:
+  1. Cherry: NNP
+  2. blossoms: NNS
+  3. ,: ,
+  4. or: CC
+  5. sakura: NN
+  6. ,: ,
+  7. bloom: NN
+  8. throughout: IN
+  9. Japan: NNP
+  10. during: IN
+  11. spring: NN
+  12. ,: ,
+  13. attracting: VBG
+  14. millions: NNS
+  15. of: IN
+  16. visitors: NNS
+  17. .: .
+
+Chunks:
+  [NP] Cherry blossoms
+  [NP] sakura
+  [NP] bloom
+  [PP] throughout Japan
+  [PP] during spring
+  [NP] millions
+  [PP] of visitors
+
+Named Entities:
+  Cherry: GPE
+  Japan: GPE
+
+================================================================================
+SENTENCE 2
+================================================================================
+Original: The Japanese tea ceremony, known as chanoyu, is a traditional ritual emphasizing harmony and respect.
+
+Tokens: ['The', 'Japanese', 'tea', 'ceremony', ',', 'known', 'as', 'chanoyu', ',', 'is', 'a', 'traditional', 'ritual', 'emphasizing', 'harmony', 'and', 'respect', '.']
+
+Stems: ['the', 'japanes', 'tea', 'ceremoni', ',', 'known', 'as', 'chanoyu', ',', 'is', 'a', 'tradit', 'ritual', 'emphas', 'harmoni', 'and', 'respect', '.']
+
+Lemmas: ['The', 'Japanese', 'tea', 'ceremony', ',', 'known', 'a', 'chanoyu', ',', 'is', 'a', 'traditional', 'ritual', 'emphasizing', 'harmony', 'and', 'respect', '.']
+
+POS Tags:
+  1. The: DT
+  2. Japanese: JJ
+  3. tea: NN
+  4. ceremony: NN
+  5. ,: ,
+  6. known: VBN
+  7. as: IN
+  8. chanoyu: NN
+  9. ,: ,
+  10. is: VBZ
+  11. a: DT
+  12. traditional: JJ
+  13. ritual: JJ
+  14. emphasizing: NN
+  15. harmony: NN
+  16. and: CC
+  17. respect: NN
+  18. .: .
+
+Chunks:
+  [NP] The Japanese tea ceremony
+  [PP] as chanoyu
+  [NP] a traditional ritual emphasizing harmony
+  [NP] respect
+
+Named Entities:
+  Japanese: GPE
+
+================================================================================
+SENTENCE 3
+================================================================================
+Original: Mount Fuji is Japan's highest mountain and a sacred symbol of natural beauty.
+
+Tokens: ['Mount', 'Fuji', 'is', 'Japan', "'s", 'highest', 'mountain', 'and', 'a', 'sacred', 'symbol', 'of', 'natural', 'beauty', '.']
+
+Stems: ['mount', 'fuji', 'is', 'japan', "'s", 'highest', 'mountain', 'and', 'a', 'sacr', 'symbol', 'of', 'natur', 'beauti', '.']
+
+Lemmas: ['Mount', 'Fuji', 'is', 'Japan', "'s", 'highest', 'mountain', 'and', 'a', 'sacred', 'symbol', 'of', 'natural', 'beauty', '.']
+
+POS Tags:
+  1. Mount: NNP
+  2. Fuji: NNP
+  3. is: VBZ
+  4. Japan: NNP
+  5. 's: POS
+  6. highest: JJS
+  7. mountain: NN
+  8. and: CC
+  9. a: DT
+  10. sacred: JJ
+  11. symbol: NN
+  12. of: IN
+  13. natural: JJ
+  14. beauty: NN
+  15. .: .
+
+Chunks:
+  [NP] Mount Fuji
+  [NP] Japan
+  [NP] mountain
+  [NP] a sacred symbol
+  [PP] of natural beauty
+
+Named Entities:
+  Mount: PERSON
+  Fuji: ORGANIZATION
+  Japan: GPE
+
+================================================================================
+SENTENCE 4
+================================================================================
+Original: Origami is the ancient Japanese art of paper folding that creates intricate designs.
+
+Tokens: ['Origami', 'is', 'the', 'ancient', 'Japanese', 'art', 'of', 'paper', 'folding', 'that', 'creates', 'intricate', 'designs', '.']
+
+Stems: ['origami', 'is', 'the', 'ancient', 'japanes', 'art', 'of', 'paper', 'fold', 'that', 'creat', 'intric', 'design', '.']
+
+Lemmas: ['Origami', 'is', 'the', 'ancient', 'Japanese', 'art', 'of', 'paper', 'folding', 'that', 'creates', 'intricate', 'design', '.']
+
+POS Tags:
+  1. Origami: NNP
+  2. is: VBZ
+  3. the: DT
+  4. ancient: JJ
+  5. Japanese: JJ
+  6. art: NN
+  7. of: IN
+  8. paper: NN
+  9. folding: NN
+  10. that: WDT
+  11. creates: VBZ
+  12. intricate: JJ
+  13. designs: NNS
+  14. .: .
+
+Chunks:
+  [NP] Origami
+  [NP] the ancient Japanese art
+  [PP] of paper folding
+  [NP] intricate designs
+
+Named Entities:
+  Origami: GPE
+  Japanese: GPE
+
+================================================================================
+SENTENCE 5
+================================================================================
+Original: Samurai warriors followed the bushido code of honor and loyalty.
+
+Tokens: ['Samurai', 'warriors', 'followed', 'the', 'bushido', 'code', 'of', 'honor', 'and', 'loyalty', '.']
+
+Stems: ['samurai', 'warrior', 'follow', 'the', 'bushido', 'code', 'of', 'honor', 'and', 'loyalti', '.']
+
+Lemmas: ['Samurai', 'warrior', 'followed', 'the', 'bushido', 'code', 'of', 'honor', 'and', 'loyalty', '.']
+
+POS Tags:
+  1. Samurai: NNP
+  2. warriors: NNS
+  3. followed: VBD
+  4. the: DT
+  5. bushido: NN
+  6. code: NN
+  7. of: IN
+  8. honor: NN
+  9. and: CC
+  10. loyalty: NN
+  11. .: .
+
+Chunks:
+  [NP] Samurai warriors
+  [NP] the bushido code
+  [PP] of honor
+  [NP] loyalty
+
+Named Entities:
+  Samurai: GPE
+
+================================================================================
+SENTENCE 6
+================================================================================
+Original: Anime and manga have become incredibly popular forms of entertainment worldwide.
+
+Tokens: ['Anime', 'and', 'manga', 'have', 'become', 'incredibly', 'popular', 'forms', 'of', 'entertainment', 'worldwide', '.']
+
+Stems: ['anim', 'and', 'manga', 'have', 'becom', 'incred', 'popular', 'form', 'of', 'entertain', 'worldwid', '.']
+
+Lemmas: ['Anime', 'and', 'manga', 'have', 'become', 'incredibly', 'popular', 'form', 'of', 'entertainment', 'worldwide', '.']
+
+POS Tags:
+  1. Anime: NNP
+  2. and: CC
+  3. manga: NNS
+  4. have: VBP
+  5. become: VBN
+  6. incredibly: RB
+  7. popular: JJ
+  8. forms: NNS
+  9. of: IN
+  10. entertainment: NN
+  11. worldwide: NN
+  12. .: .
+
+Chunks:
+  [NP] Anime
+  [NP] manga
+  [NP] popular forms
+  [PP] of entertainment worldwide
+
+Named Entities:
+  Anime: GPE
+
+================================================================================
+SENTENCE 7
+================================================================================
+Original: Japanese gardens emphasize harmony, balance, and the beauty of nature.
+
+Tokens: ['Japanese', 'gardens', 'emphasize', 'harmony', ',', 'balance', ',', 'and', 'the', 'beauty', 'of', 'nature', '.']
+
+Stems: ['japanes', 'garden', 'emphas', 'harmoni', ',', 'balanc', ',', 'and', 'the', 'beauti', 'of', 'natur', '.']
+
+Lemmas: ['Japanese', 'garden', 'emphasize', 'harmony', ',', 'balance', ',', 'and', 'the', 'beauty', 'of', 'nature', '.']
+
+POS Tags:
+  1. Japanese: JJ
+  2. gardens: NNS
+  3. emphasize: VBP
+  4. harmony: NN
+  5. ,: ,
+  6. balance: NN
+  7. ,: ,
+  8. and: CC
+  9. the: DT
+  10. beauty: NN
+  11. of: IN
+  12. nature: NN
+  13. .: .
+
+Chunks:
+  [NP] Japanese gardens
+  [NP] harmony
+  [NP] balance
+  [NP] the beauty
+  [PP] of nature
+
+Named Entities:
+  Japanese: GPE
+
+================================================================================
+SENTENCE 8
+================================================================================
+Original: The kimono is a traditional Japanese garment featuring beautiful and elegant designs.
+
+Tokens: ['The', 'kimono', 'is', 'a', 'traditional', 'Japanese', 'garment', 'featuring', 'beautiful', 'and', 'elegant', 'designs', '.']
+
+Stems: ['the', 'kimono', 'is', 'a', 'tradit', 'japanes', 'garment', 'featur', 'beauti', 'and', 'eleg', 'design', '.']
+
+Lemmas: ['The', 'kimono', 'is', 'a', 'traditional', 'Japanese', 'garment', 'featuring', 'beautiful', 'and', 'elegant', 'design', '.']
+
+POS Tags:
+  1. The: DT
+  2. kimono: NN
+  3. is: VBZ
+  4. a: DT
+  5. traditional: JJ
+  6. Japanese: JJ
+  7. garment: NN
+  8. featuring: VBG
+  9. beautiful: JJ
+  10. and: CC
+  11. elegant: JJ
+  12. designs: NNS
+  13. .: .
+
+Chunks:
+  [NP] The kimono
+  [NP] a traditional Japanese garment
+  [NP] elegant designs
+
+Named Entities:
+  Japanese: GPE
+
+================================================================================
+SENTENCE 9
+================================================================================
+Original: Sushi and ramen are iconic Japanese dishes enjoyed by people globally.
+
+Tokens: ['Sushi', 'and', 'ramen', 'are', 'iconic', 'Japanese', 'dishes', 'enjoyed', 'by', 'people', 'globally', '.']
+
+Stems: ['sushi', 'and', 'ramen', 'are', 'icon', 'japanes', 'dish', 'enjoy', 'by', 'peopl', 'global', '.']
+
+Lemmas: ['Sushi', 'and', 'ramen', 'are', 'iconic', 'Japanese', 'dish', 'enjoyed', 'by', 'people', 'globally', '.']
+
+POS Tags:
+  1. Sushi: NNP
+  2. and: CC
+  3. ramen: NNS
+  4. are: VBP
+  5. iconic: JJ
+  6. Japanese: JJ
+  7. dishes: NNS
+  8. enjoyed: VBN
+  9. by: IN
+  10. people: NNS
+  11. globally: RB
+  12. .: .
+
+Chunks:
+  [NP] Sushi
+  [NP] ramen
+  [NP] iconic Japanese dishes
+  [PP] by people
+
+Named Entities:
+  Sushi: GPE
+  Japanese: GPE
+
+================================================================================
+SENTENCE 10
+================================================================================
+Original: Zen Buddhism has deeply influenced Japanese culture, art, and aesthetics.
+
+Tokens: ['Zen', 'Buddhism', 'has', 'deeply', 'influenced', 'Japanese', 'culture', ',', 'art', ',', 'and', 'aesthetics', '.']
+
+Stems: ['zen', 'buddhism', 'ha', 'deepli', 'influenc', 'japanes', 'cultur', ',', 'art', ',', 'and', 'aesthet', '.']
+
+Lemmas: ['Zen', 'Buddhism', 'ha', 'deeply', 'influenced', 'Japanese', 'culture', ',', 'art', ',', 'and', 'aesthetic', '.']
+
+POS Tags:
+  1. Zen: NNP
+  2. Buddhism: NNP
+  3. has: VBZ
+  4. deeply: RB
+  5. influenced: VBN
+  6. Japanese: JJ
+  7. culture: NN
+  8. ,: ,
+  9. art: NN
+  10. ,: ,
+  11. and: CC
+  12. aesthetics: NNS
+  13. .: .
+
+Chunks:
+  [NP] Zen Buddhism
+  [NP] Japanese culture
+  [NP] art
+  [NP] aesthetics
+
+Named Entities:
+  Zen: PERSON
+  Buddhism: ORGANIZATION
+  Japanese: GPE
+
+################################################################################
+# ROMANIAN SENTENCES - NLTK ANALYSIS
+################################################################################
+
+================================================================================
+SENTENCE 1
+================================================================================
+Original: Florile de cireș, sau sakura, înfloresc în toată Japonia în timpul primăverii, atrăgând milioane de vizitatori.
+
+Tokens: ['Florile', 'de', 'cireș', ',', 'sau', 'sakura', ',', 'înfloresc', 'în', 'toată', 'Japonia', 'în', 'timpul', 'primăverii', ',', 'atrăgând', 'milioane', 'de', 'vizitatori', '.']
+
+POS Tags:
+  1. Florile: NNP
+  2. de: FW
+  3. cireș: NN
+  4. ,: ,
+  5. sau: NN
+  6. sakura: NN
+  7. ,: ,
+  8. înfloresc: NNP
+  9. în: NNP
+  10. toată: NN
+  11. Japonia: NNP
+  12. în: NNP
+  13. timpul: NN
+  14. primăverii: NN
+  15. ,: ,
+  16. atrăgând: JJ
+  17. milioane: NN
+  18. de: IN
+  19. vizitatori: FW
+  20. .: .
+
+Chunks:
+  [NP] Florile
+  [NP] cireș
+  [NP] sau sakura
+  [NP] înfloresc în toată Japonia în timpul primăverii
+  [NP] atrăgând milioane
+
+Named Entities: None found
+
+================================================================================
+SENTENCE 2
+================================================================================
+Original: Ceremonia japoneză a ceaiului, cunoscută sub numele de chanoyu, este un ritual tradițional ce subliniază armonia și respectul.
+
+Tokens: ['Ceremonia', 'japoneză', 'a', 'ceaiului', ',', 'cunoscută', 'sub', 'numele', 'de', 'chanoyu', ',', 'este', 'un', 'ritual', 'tradițional', 'ce', 'subliniază', 'armonia', 'și', 'respectul', '.']
+
+POS Tags:
+  1. Ceremonia: NNP
+  2. japoneză: VBZ
+  3. a: DT
+  4. ceaiului: NN
+  5. ,: ,
+  6. cunoscută: NN
+  7. sub: NN
+  8. numele: FW
+  9. de: FW
+  10. chanoyu: FW
+  11. ,: ,
+  12. este: NN
+  13. un: JJ
+  14. ritual: JJ
+  15. tradițional: JJ
+  16. ce: NN
+  17. subliniază: NN
+  18. armonia: NN
+  19. și: NNP
+  20. respectul: NN
+  21. .: .
+
+Chunks:
+  [NP] Ceremonia
+  [NP] a ceaiului
+  [NP] cunoscută sub
+  [NP] este
+  [NP] un ritual tradițional ce subliniază armonia și respectul
+
+Named Entities: None found
+
+================================================================================
+SENTENCE 3
+================================================================================
+Original: Muntele Fuji este cel mai înalt munte din Japonia și un simbol sacru al frumuseții naturale.
+
+Tokens: ['Muntele', 'Fuji', 'este', 'cel', 'mai', 'înalt', 'munte', 'din', 'Japonia', 'și', 'un', 'simbol', 'sacru', 'al', 'frumuseții', 'naturale', '.']
+
+POS Tags:
+  1. Muntele: NNP
+  2. Fuji: NNP
+  3. este: NN
+  4. cel: NN
+  5. mai: NN
+  6. înalt: NNP
+  7. munte: NNP
+  8. din: NN
+  9. Japonia: NNP
+  10. și: NNP
+  11. un: JJ
+  12. simbol: NN
+  13. sacru: NN
+  14. al: NN
+  15. frumuseții: JJ
+  16. naturale: NN
+  17. .: .
+
+Chunks:
+  [NP] Muntele Fuji este cel mai înalt munte din Japonia și
+  [NP] un simbol sacru al
+  [NP] frumuseții naturale
+
+Named Entities: None found
+
+================================================================================
+SENTENCE 4
+================================================================================
+Original: Origami este arta japoneză antică de pliere a hârtiei care creează modele complexe.
+
+Tokens: ['Origami', 'este', 'arta', 'japoneză', 'antică', 'de', 'pliere', 'a', 'hârtiei', 'care', 'creează', 'modele', 'complexe', '.']
+
+POS Tags:
+  1. Origami: NNP
+  2. este: NN
+  3. arta: NN
+  4. japoneză: NN
+  5. antică: NN
+  6. de: IN
+  7. pliere: FW
+  8. a: DT
+  9. hârtiei: NN
+  10. care: NN
+  11. creează: NN
+  12. modele: NN
+  13. complexe: NN
+  14. .: .
+
+Chunks:
+  [NP] Origami este arta japoneză antică
+  [NP] a hârtiei care creează modele complexe
+
+Named Entities: None found
+
+================================================================================
+SENTENCE 5
+================================================================================
+Original: Războinicii samurai urmau codul de onoare bushido și loialitate.
+
+Tokens: ['Războinicii', 'samurai', 'urmau', 'codul', 'de', 'onoare', 'bushido', 'și', 'loialitate', '.']
+
+POS Tags:
+  1. Războinicii: NNP
+  2. samurai: NN
+  3. urmau: JJ
+  4. codul: NN
+  5. de: IN
+  6. onoare: FW
+  7. bushido: JJ
+  8. și: NN
+  9. loialitate: NN
+  10. .: .
+
+Chunks:
+  [NP] Războinicii samurai
+  [NP] urmau codul
+  [NP] bushido și loialitate
+
+Named Entities: None found
+
+================================================================================
+SENTENCE 6
+================================================================================
+Original: Anime și manga au devenit forme de divertisment incredibil de populare în întreaga lume.
+
+Tokens: ['Anime', 'și', 'manga', 'au', 'devenit', 'forme', 'de', 'divertisment', 'incredibil', 'de', 'populare', 'în', 'întreaga', 'lume', '.']
+
+POS Tags:
+  1. Anime: NNP
+  2. și: NNP
+  3. manga: NN
+  4. au: NN
+  5. devenit: NN
+  6. forme: NN
+  7. de: FW
+  8. divertisment: FW
+  9. incredibil: FW
+  10. de: FW
+  11. populare: FW
+  12. în: FW
+  13. întreaga: FW
+  14. lume: NN
+  15. .: .
+
+Chunks:
+  [NP] Anime și manga au devenit forme
+  [NP] lume
+
+Named Entities: None found
+
+================================================================================
+SENTENCE 7
+================================================================================
+Original: Grădinile japoneze subliniază armonia, echilibrul și frumusețea naturii.
+
+Tokens: ['Grădinile', 'japoneze', 'subliniază', 'armonia', ',', 'echilibrul', 'și', 'frumusețea', 'naturii', '.']
+
+POS Tags:
+  1. Grădinile: NNP
+  2. japoneze: NN
+  3. subliniază: NN
+  4. armonia: NN
+  5. ,: ,
+  6. echilibrul: JJ
+  7. și: NNP
+  8. frumusețea: NN
+  9. naturii: NN
+  10. .: .
+
+Chunks:
+  [NP] Grădinile japoneze subliniază armonia
+  [NP] echilibrul și frumusețea naturii
+
+Named Entities: None found
+
+================================================================================
+SENTENCE 8
+================================================================================
+Original: Kimono-ul este un vestment tradițional japonez cu designuri frumoase și elegante.
+
+Tokens: ['Kimono-ul', 'este', 'un', 'vestment', 'tradițional', 'japonez', 'cu', 'designuri', 'frumoase', 'și', 'elegante', '.']
+
+POS Tags:
+  1. Kimono-ul: NNP
+  2. este: NN
+  3. un: JJ
+  4. vestment: JJ
+  5. tradițional: JJ
+  6. japonez: NN
+  7. cu: NN
+  8. designuri: NN
+  9. frumoase: NN
+  10. și: NNP
+  11. elegante: NN
+  12. .: .
+
+Chunks:
+  [NP] Kimono-ul este
+  [NP] un vestment tradițional japonez cu designuri frumoase și elegante
+
+Named Entities: None found
+
+================================================================================
+SENTENCE 9
+================================================================================
+Original: Sushi și ramen sunt preparate japoneze iconice apreciate de oameni la nivel global.
+
+Tokens: ['Sushi', 'și', 'ramen', 'sunt', 'preparate', 'japoneze', 'iconice', 'apreciate', 'de', 'oameni', 'la', 'nivel', 'global', '.']
+
+POS Tags:
+  1. Sushi: NNP
+  2. și: NNP
+  3. ramen: NNS
+  4. sunt: VBP
+  5. preparate: NN
+  6. japoneze: NN
+  7. iconice: NN
+  8. apreciate: NN
+  9. de: IN
+  10. oameni: FW
+  11. la: FW
+  12. nivel: FW
+  13. global: JJ
+  14. .: .
+
+Chunks:
+  [NP] Sushi și ramen
+  [NP] preparate japoneze iconice apreciate
+
+Named Entities: None found
+
+================================================================================
+SENTENCE 10
+================================================================================
+Original: Buddhismul Zen a influențat profund cultura, arta și estetica japoneză.
+
+Tokens: ['Buddhismul', 'Zen', 'a', 'influențat', 'profund', 'cultura', ',', 'arta', 'și', 'estetica', 'japoneză', '.']
+
+POS Tags:
+  1. Buddhismul: NNP
+  2. Zen: NNP
+  3. a: DT
+  4. influențat: NN
+  5. profund: NN
+  6. cultura: NN
+  7. ,: ,
+  8. arta: JJ
+  9. și: NNP
+  10. estetica: NN
+  11. japoneză: NN
+  12. .: .
+
+Chunks:
+  [NP] Buddhismul Zen
+  [NP] a influențat profund cultura
+  [NP] arta și estetica japoneză
+
+Named Entities: None found
