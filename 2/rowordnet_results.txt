@@ -1,0 +1,3136 @@
+NLP Assignment Part 1: RoWordNet Analysis
+============================================================
+
+Cuvânt: casă (noun)
+----------------------------------------
+  Sense 1 (ID: ENG30-08078020-n):
+    Definiție: Totalitatea celor care locuiesc împreună, (formând o familie
+    Literals: casă, familie
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-08189659-n (unitate)
+      - near_eng_derivat: ENG30-02459633-v ()
+      - near_eng_derivat: ENG30-10182499-n (proprietar)
+      - hyponym: ENG30-07973653-n (familie_extinsă)
+      - hyponym: ENG30-07973782-n (familie_adoptivă)
+      - hyponym: ENG30-07973868-n (școală_de_corecție)
+      - hyponym: ENG30-08078453-n (menage_a_trois)
+
+  Sense 2 (ID: ENG30-03953416-n):
+    Definiție: O clădire în care membrii unei congregații se adună pentru rugăciune
+    Literals: casă_de_rugăciune, casa_Domnului
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02913152-n (clădire, construcție, zidire)
+      - hyponym: ENG30-02833040-n (capelă)
+      - hyponym: ENG30-03007130-n (capelă, paraclis)
+      - hyponym: ENG30-03028079-n (biserică, casa_Domnului)
+      - hyponym: ENG30-03724756-n (moschee)
+      - hyponym: ENG30-03788195-n (moschee)
+      - hyponym: ENG30-04210390-n (altar)
+      - hyponym: ENG30-04374735-n (sinagogă, havră)
+      - hyponym: ENG30-04407435-n (templu)
+
+  Sense 3 (ID: ENG30-02919792-n):
+    Definiție: Locuință din lemn sau din împletitură de trestie, fără etaj, înconjurată de verande și vegetație.
+    Literals: bungalou, casă_cu_verandă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03544360-n (casă)
+
+  Sense 4 (ID: ENG30-07487594-n):
+    Definiție: dorință puternică de a se întoarce acasă, de a-i vedea pe cei de acasă.
+    Literals: dor_de-acasă, dor_de_casă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-07487375-n (nostalgie)
+
+  Sense 5 (ID: ENG30-10391086-n):
+    Definiție: (în evul mediu, mai ales în Europa apuseană) tânăr nobil care se afla în serviciul unui senior, al unui rege, al unui principe etc. pentru a învăța meșteșugul armelor și pentru a se deprinde cu manierele de la curte
+    Literals: copil_de_casă, paj
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-09821831-n (îngrijitor, asistent)
+
+  Sense 6 (ID: ENG30-04581595-n):
+    Definiție: Casă în care se practică prostituția.
+    Literals: bordel, lupanar, casă_de_prostituție, casă_de_toleranță
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02913152-n (clădire, construcție, zidire)
+
+  Sense 7 (ID: ENG30-04581595-n):
+    Definiție: Casă în care se practică prostituția.
+    Literals: bordel, lupanar, casă_de_prostituție, casă_de_toleranță
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02913152-n (clădire, construcție, zidire)
+
+  Sense 8 (ID: ENG30-03999160-n):
+    Definiție: casă parohială (catolică)
+    Literals: prezbiteriu, casă_parohială
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02913152-n (clădire, construcție, zidire)
+      - part_holonym: ENG30-03028079-n (biserică, casa_Domnului)
+
+  Sense 9 (ID: ENG30-03901974-n):
+    Definiție: întreprindere de credit specializată în acordarea de credite pe baza amanetării obiectelor de uz personal; casă de lombard
+    Literals: amanet, casă_de_amanet, casă_de_lombard, munte, munte_de_pietate
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-04202417-n (magazin, prăvălie)
+
+  Sense 10 (ID: ENG30-03901974-n):
+    Definiție: întreprindere de credit specializată în acordarea de credite pe baza amanetării obiectelor de uz personal; casă de lombard
+    Literals: amanet, casă_de_amanet, casă_de_lombard, munte, munte_de_pietate
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-04202417-n (magazin, prăvălie)
+
+  Sense 11 (ID: ENG30-02885882-n):
+    Definiție: Birou la care se vând bilete
+    Literals: casă_de_bilete
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03841666-n (birou)
+      - part_holonym: ENG30-04417809-n (teatru)
+
+  Sense 12 (ID: ENG30-02977438-n):
+    Definiție: Lădiță de fier în care sunt ținuți banii, prevăzută cu un sistem special prin care se calculează sumele încasate și, eventual, suma de restituit, și care tipărește un bon, folosită în magazine.
+    Literals: casă_de_bani
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02976939-n (casetă_pentru_bani, casă)
+      - part_meronym: ENG30-02679257-n (adiator, aritmometru)
+
+  Sense 13 (ID: ENG30-03892557-n):
+    Definiție: Rezidență oficială oferită de Biserică preotului paroh.
+    Literals: casă_parohială
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-04079244-n (reședință)
+
+  Sense 14 (ID: ENG30-07971449-n):
+    Definiție: familie aristocrată
+    Literals: casă, neam, familie
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-07970721-n (casă, familie, neam, viță)
+      - hyponym: ENG30-08153437-n (casă_regală)
+      - hyponym: ENG30-08485281-n (Medici)
+
+  Sense 15 (ID: ENG30-08153437-n):
+    Definiție: Familia regală
+    Literals: casă_regală
+    PNO Scores: P=0.125, N=0.0, O=0.875
+    Relații semantice:
+      - hypernym: ENG30-07971449-n (casă, neam, familie)
+      - hyponym: ENG30-08155765-n (Lancaster, casa_Lancaster)
+      - hyponym: ENG30-08157672-n (Romanov, familia_Romanov)
+      - hyponym: ENG30-08159924-n (York, Casa_York)
+      - member_meronym: ENG30-10175090-n (Mărie)
+      - member_meronym: ENG30-10231515-n (monarh, rege, suveran)
+      - member_meronym: ENG30-10472799-n (prinț)
+      - member_meronym: ENG30-10474064-n (prințesă, principesă)
+      - member_meronym: ENG30-10499355-n (regină, suverană)
+      - member_meronym: ENG30-10499857-n (regină)
+
+  Sense 16 (ID: ENG30-10282672-n):
+    Definiție: Femeie angajată pentru a munci în familia sau în gospodăria altuia.
+    Literals: femeie_în_casă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-10024119-n (servitor)
+      - hyponym: ENG30-09906293-n (cameristă)
+
+  Sense 17 (ID: ENG30-08059870-n):
+    Definiție: Personalul unei organizații comerciale sau de afaceri.
+    Literals: casă, companie, firmă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-08061042-n (întreprindere, afacere, firmă)
+      - hyponym: ENG30-08059412-n (breaslă, corporație)
+      - hyponym: ENG30-08062326-n (firmă_de_contabilitate)
+      - hyponym: ENG30-08062464-n (firmă_de_consultanță)
+      - hyponym: ENG30-08062623-n (editură)
+      - hyponym: ENG30-08063446-n (dealer)
+      - hyponym: ENG30-08064039-n (firmă_de_avocatură)
+      - hyponym: ENG30-08076946-n (casă_de_licitații)
+
+  Sense 18 (ID: ENG30-07989373-n):
+    Definiție: două persoane căsătorite
+    Literals: casă, căsătorie, căsnicie, menaj, mariaj
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-07970406-n (familie)
+      - hyponym: ENG30-07990158-n (mariaj_mixt, căsătorie_mixtă)
+      - member_meronym: ENG30-10640620-n (soț, partener)
+
+  Sense 19 (ID: ENG30-07970721-n):
+    Definiție: Totalitatea persoanelor care se trag dintr-un strămoș comun (rude de sânge); neam, descendență.
+    Literals: casă, familie, neam, viță
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-08101937-n (descendență, familie)
+      - hyponym: ENG30-07971141-n (familie, neam, rudă, viță)
+      - hyponym: ENG30-07971449-n (casă, neam, familie)
+      - hyponym: ENG30-07971582-n (dinastie)
+      - hyponym: ENG30-07972279-n (nume)
+
+  Sense 20 (ID: ENG30-08381296-n):
+    Definiție: Conducerea unui cazinou.
+    Literals: casă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-08381165-n (administrație, conducere)
+
+  Sense 21 (ID: ENG30-03544360-n):
+    Definiție: construcție destinată pentru a servi de locuință uneia sau mai multor familii
+    Literals: casă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03259505-n (domiciliu, locuință, sălaș)
+      - hypernym: ENG30-02913152-n (clădire, construcție, zidire)
+      - near_eng_derivat: ENG30-02459173-v (găzdui, oploși, aciua)
+      - hyponym: ENG30-02857477-n (pensiune)
+      - hyponym: ENG30-02919792-n (bungalou, casă_cu_verandă)
+      - hyponym: ENG30-02932400-n (cabană)
+      - hyponym: ENG30-03002816-n (chalet)
+      - hyponym: ENG30-03007297-n ()
+      - hyponym: ENG30-03118969-n (casă_la_țară)
+      - hyponym: ENG30-03180865-n (casă_simplă)
+      - hyponym: ENG30-03322836-n (casă_țărănească)
+      - hyponym: ENG30-03428090-n (gheretă)
+      - hyponym: ENG30-03465605-n (casa_oaspeților, casa_pentru_musafiri)
+      - hyponym: ENG30-03474352-n (hacienda)
+      - part_meronym: ENG30-03660909-n (bibliotecă)
+      - hyponym: ENG30-03685486-n (cabană_de_vânătoare)
+      - hyponym: ENG30-03685820-n (pensiune)
+      - part_meronym: ENG30-03686130-n (pod)
+      - hyponym: ENG30-03713151-n (căscioară, căsuță)
+      - hyponym: ENG30-03719053-n (conac, curte)
+      - part_meronym: ENG30-03984381-n (pridvor)
+      - hyponym: ENG30-04079244-n (reședință)
+      - hyponym: ENG30-04115256-n (casă_tip)
+      - hyponym: ENG30-04125541-n (casă_conspirativă, loc_sigur)
+      - part_meronym: ENG30-04345028-n (cameră_de_lucru)
+
+  Sense 22 (ID: ENG30-13280008-n):
+    Definiție: Cazare și masă asigurate în afară de banii pentru un job
+    Literals: casă_și_masă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-13279262-n (leafă, remunerație, retribuție, salariu)
+
+  Sense 23 (ID: ENG30-08422714-n):
+    Definiție: instituție de economii căreia i se cere ca un anumit procent din împrumuturi să fie constituit din ipoteci
+    Literals: casă_de_ajutor_reciproc
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-08422524-n (instituție_de_depozit)
+
+  Sense 24 (ID: ENG30-01737875-n):
+    Definiție: specie de șarpe neveninos, lung de circa 1, 60 m, cu două pete galbene pe ceafă, care trăiește mai ales în regiunile inundabile, pe lângă casă.
+    Literals: șarpe, șarpe_de_casă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01737021-n (șarpe_de_apă)
+
+  Sense 25 (ID: ENG30-03856012-n):
+    Definiție: Așezământ, instituție de caritate pentru creșterea copiilor orfani
+    Literals: orfelinat, casă_de_copii, leagăn
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03574555-n (institut)
+      - near_eng_derivat: ENG30-02315277-v (orfan)
+
+  Sense 26 (ID: ENG30-01945685-n):
+    Definiție: melc fără cochilie
+    Literals: limax, melc_fără_casă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01942177-n (gasteropod)
+      - member_holonym: ENG30-01945443-n (Limacidae, familia_Limacidae)
+
+  Sense 27 (ID: ENG30-03322836-n):
+    Definiție: Casa în care trăiește un țăran și familia sa
+    Literals: casă_țărănească
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03544360-n (casă)
+      - part_holonym: ENG30-03322099-n (fermă)
+
+  Sense 28 (ID: ENG30-03963813-n):
+    Definiție: casă de dimensiuni reduse (amenajată în parcurile de joacă pentru copii) prin care copiii se pot juca
+    Literals: căsuță, casă_de_păpuși
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03964744-n (jucărie)
+
+  Sense 29 (ID: ENG30-13358151-n):
+    Definiție: Trezoreria unei instituții publice sau a unui ordin religios
+    Literals: visterie, vistierie, casă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-13356985-n (tezaur)
+
+  Sense 30 (ID: ENG30-04115256-n):
+    Definiție: Casă identică cu altele aflate în același complex rezidențial
+    Literals: casă_tip
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03544360-n (casă)
+      - hyponym: ENG30-02907873-n ()
+      - hyponym: ENG30-04413969-n ()
+
+  Sense 31 (ID: ENG30-08478261-n):
+    Definiție: firmă care produce și vinde înregistrări muzicale
+    Literals: casă_de_discuri
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-08058098-n (companie)
+
+  Sense 32 (ID: ENG30-03180865-n):
+    Definiție: casă care este clădită ca o singură unitate locativă
+    Literals: casă_simplă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03544360-n (casă)
+
+  Sense 33 (ID: ENG30-03529629-n):
+    Definiție: Casă cu ceva pământ și acareturi
+    Literals: casă_de_țară
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03259505-n (domiciliu, locuință, sălaș)
+
+  Sense 34 (ID: ENG30-08255109-n):
+    Definiție: Petrecere dată pentru a sărbători mutarea într-o casă nouă
+    Literals: petrecere_de_casă_nouă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-08252602-n (petrecere)
+
+  Sense 35 (ID: ENG30-10077394-n):
+    Definiție: Persoană căsătorită, pentru care familia are un rol foarte important
+    Literals: familist, om_de_casă
+    PNO Scores: P=0.125, N=0.0, O=0.875
+    Relații semantice:
+      - hypernym: ENG30-10193967-n (bărbat, gospodar, soț)
+
+  Sense 36 (ID: ENG30-08076946-n):
+    Definiție: Firmă care organizează licitații
+    Literals: casă_de_licitații
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-08059870-n (casă, companie, firmă)
+
+  Sense 37 (ID: ENG30-10181799-n):
+    Definiție: Persoană care cumpără o casă
+    Literals: cumpărător_de_casă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-09885145-n (client, cumpărător, mușteriu)
+
+  Sense 38 (ID: ENG30-02833140-n):
+    Definiție: Loc unde se pot face pariuri
+    Literals: casă_de_pariuri
+    PNO Scores: P=0.0, N=0.5, O=0.5
+    Relații semantice:
+      - hypernym: ENG30-04202417-n (magazin, prăvălie)
+      - domain_REGION: ENG30-08860123-n (Marea_Britanie, Regatul_Unit_al_Marii_Britanii_și_al_Irlandei_de_Nord)
+
+  Sense 39 (ID: ENG30-08002125-n):
+    Definiție: instituție la biroul căreia poate fi schimbată monedă străină
+    Literals: casă_de_schimb_valutar, casă_de_schimb
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-08058098-n (companie)
+      - domain_REGION: ENG30-08929922-n (Franța)
+
+  Sense 40 (ID: ENG30-08002125-n):
+    Definiție: instituție la biroul căreia poate fi schimbată monedă străină
+    Literals: casă_de_schimb_valutar, casă_de_schimb
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-08058098-n (companie)
+      - domain_REGION: ENG30-08929922-n (Franța)
+
+  Sense 41 (ID: ENG30-04354026-n):
+    Definiție: Casă situată la țară sau într-o zonă turistică, unde proprietarii își pot petrece vacanțele
+    Literals: casă_de_vacanță
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03118969-n (casă_la_țară)
+
+  Sense 42 (ID: ENG30-04125541-n):
+    Definiție: locuință folosită ca ascunzătoare sau refugiu pentru membrii anumitor organizații
+    Literals: casă_conspirativă, loc_sigur
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03544360-n (casă)
+      - hypernym: ENG30-04071102-n (adăpost, azil, refugiu)
+
+  Sense 43 (ID: ENG30-03545961-n):
+    Definiție: locul unde își execută pedeapsa infractorii minori
+    Literals: casă_de_corecție
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03592245-n (închisoare, ocnă, pușcărie, temniță)
+
+  Sense 44 (ID: ENG30-02332156-n):
+    Definiție: șoarece gri-maro, dăunător obișnuit în toată lumea
+    Literals: șoarecele_de_casă, Mus_musculus
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02330245-n (șoarece)
+      - member_holonym: ENG30-02331960-n (Mus)
+
+  Sense 45 (ID: ENG30-03181667-n):
+    Definiție: instituție în care își execută pedeapsa infractorii minori
+    Literals: casă_de_corecție
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03111690-n (instituție_corecțională)
+
+  Sense 46 (ID: ENG30-13405166-n):
+    Definiție: Registru în care se notează tranzacțiile în ordinea în care se efectuează
+    Literals: registru_de_casă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-13404248-n (registru_contabil, registru_de_contabilitate)
+
+  Sense 47 (ID: ENG30-10607933-n):
+    Definiție: Femeie angajată pentru a munci în familia sau în gospodăria altuia
+    Literals: fată_în_casă, slujnică
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-10024119-n (servitor)
+      - domain_REGION: ENG30-08860123-n (Marea_Britanie, Regatul_Unit_al_Marii_Britanii_și_al_Irlandei_de_Nord)
+
+  Sense 48 (ID: ENG30-06851516-n):
+    Definiție: denumire comercială a unei companii de înregistrări muzicale
+    Literals: casă_de_discuri
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-06845599-n (marcă)
+
+  Sense 49 (ID: ENG30-03529444-n):
+    Definiție: țesătură grosolană, făcută în casă
+    Literals: țesătură_de_casă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03309808-n (țesătură, material)
+      - near_eng_derivat: ENG30-02240795-a (aspru)
+      - hyponym: ENG30-04121342-n ()
+
+  Sense 50 (ID: ENG30-04241394-n):
+    Definiție: papuc fără toc purtat de obicei prin casă
+    Literals: papuc_de_casă
+    PNO Scores: P=0.0, N=0.375, O=0.625
+    Relații semantice:
+      - hypernym: ENG30-03380867-n (încălțăminte, încălțare)
+      - hyponym: ENG30-02873733-n (botoșel, ghetuță)
+
+  Sense 51 (ID: ENG30-03118969-n):
+    Definiție: Casă boierească la țară, pe o moșie.
+    Literals: casă_la_țară
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03544360-n (casă)
+      - hyponym: ENG30-04354026-n (casă_de_vacanță)
+      - hyponym: ENG30-04535252-n (conac)
+
+  Sense 52 (ID: ENG30-03545150-n):
+    Definiție: Construcție în care adăpostit sau plasat ceva
+    Literals: casă, clădire
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02913152-n (clădire, construcție, zidire)
+      - near_eng_derivat: ENG30-02459173-v (găzdui, oploși, aciua)
+      - hyponym: ENG30-02806875-n (baie_publică)
+      - hyponym: ENG30-03121298-n (tribunal)
+      - hyponym: ENG30-04022708-n (casa_pompelor, sala_pompelor, camera_pompelor)
+      - hyponym: ENG30-04246731-n (afumătoare)
+
+  Sense 53 (ID: ENG30-04572800-n):
+    Definiție: Încăpere specială care străbate etajele unei clădiri, având o anumită destinație
+    Literals: casă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-04182890-n (coloană, puț)
+
+  Sense 54 (ID: ENG30-02820085-n):
+    Definiție: Casă, restaurant în care se oferă cuiva, în schimbul unei sume de bani, găzduire completă sau numai masă.
+    Literals: pensiune, casă_și_masă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02857477-n (pensiune)
+
+  Sense 55 (ID: ENG30-03011741-n):
+    Definiție: Masă, pupitru sau birou într-un magazin, unde se achită costul cumpărăturilor
+    Literals: casă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03116530-n (tejghea, tarabă)
+
+  Sense 56 (ID: ENG30-02976939-n):
+    Definiție: Masă, pupitru sau birou într-un magazin, unde se achită costul cumpărăturilor.
+    Literals: casetă_pentru_bani, casă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-04340750-n (seif, casă_de_bani)
+      - hyponym: ENG30-02977438-n (casă_de_bani)
+
+  Sense 57 (ID: ENG30-04125021-n):
+    Definiție: Dulap sau ladă de fier în care se păstrează, de obicei într-o instituție bancară, bani, hârtii și obiecte de valoare
+    Literals: casă_de_bani, seif
+    PNO Scores: P=0.625, N=0.0, O=0.375
+    Relații semantice:
+      - hypernym: ENG30-04340750-n (seif, casă_de_bani)
+
+  Sense 58 (ID: ENG30-04340750-n):
+    Definiție: Dulap sau ladă de fier în care se păstrează, de obicei într-o instituție bancară, bani, hârtii și obiecte de valoare.
+    Literals: seif, casă_de_bani
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02883344-n (cutie)
+      - hyponym: ENG30-02976939-n (casetă_pentru_bani, casă)
+      - hyponym: ENG30-04125021-n (casă_de_bani, seif)
+      - hyponym: ENG30-04125257-n (casetă_de_valori)
+
+  Sense 59 (ID: ENG30-02820798-n):
+    Definiție: Clinică pentru alienați mintal
+    Literals: casă_de_nebuni, balamuc, bălăceanca
+    PNO Scores: P=0.0, N=0.25, O=0.75
+    Relații semantice:
+      - hypernym: ENG30-03746574-n (ospiciu)
+
+  Sense 60 (ID: ENG30-01539925-n):
+    Definiție: pasăre mică (15 cm) ce se întâlnește atât în natură, cât și în preajma locuințelor ca specie antropofilă
+    Literals: vrabie_de_casă, Passer_domesticus
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01539573-n (vrabie)
+      - member_holonym: ENG30-01539772-n (Passer)
+
+  Sense 61 (ID: ENG30-00098605-r):
+    Definiție: În direcția casei
+    Literals: spre_casă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      Nicio relație găsită.
+
+  Sense 62 (ID: ENG30-01734808-n):
+    Definiție: șarpe neveninos des întânit
+    Literals: șarpe_de_casă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01734418-n (șarpe_regal)
+
+
+Cuvânt: om (noun)
+----------------------------------------
+  Sense 1 (ID: ENG30-09882007-n):
+    Definiție: Persoană implicată în activități comerciale sau industriale (de obicei ca proprietar sau director).
+    Literals: om_de_afaceri
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-09882716-n (afacerist)
+      - hyponym: ENG30-09840217-n (magnat, mogul, mare_industriaș)
+      - hyponym: ENG30-10204177-n (fabricant, industriaș)
+      - hyponym: ENG30-10378780-n (operator)
+      - hyponym: ENG30-10388924-n (proprietar)
+      - hyponym: ENG30-10613052-n (mic_comerciant)
+      - hyponym: ENG30-10723597-n ()
+      - instance_hyponym: ENG30-10911288-n (Ezra_Cornell, Cornell)
+      - instance_hyponym: ENG30-11050057-n (James_Jerome_Hill)
+      - instance_hyponym: ENG30-11157422-n (Marks, Simon_Marks, First_Baron_Marks_of_Broughton)
+      - instance_hyponym: ENG30-11373897-n (Ward, Montgomery_Ward, Asron_Montgomery_Ward)
+
+  Sense 2 (ID: ENG30-10249459-n):
+    Definiție: Persoană în atribuțiile căreia intră verificarea respectării legii de către semeni.
+    Literals: om_al_legii
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-09614684-n (apărător)
+      - hyponym: ENG30-09822830-n (procuror_general)
+      - hyponym: ENG30-09867311-n (grănicer, polițist_de_frontieră)
+      - hyponym: ENG30-09959142-n (ajutor_de_șerif)
+      - hyponym: ENG30-10005548-n (substitut_de_șef_de_post)
+      - hyponym: ENG30-10149867-n (temnicer)
+      - hyponym: ENG30-10295951-n (mareșal)
+      - hyponym: ENG30-10317500-n (polițist_militar)
+      - hyponym: ENG30-10345302-n (polițist_anti-drog)
+      - hyponym: ENG30-10448983-n (polițist)
+      - hyponym: ENG30-10449521-n (sergent_de_poliție)
+      - hyponym: ENG30-10589140-n (șerif)
+      - hyponym: ENG30-10767154-n (director_de_închisoare)
+      - hyponym: ENG30-10767265-n (temnicer)
+
+  Sense 3 (ID: ENG30-04251983-n):
+    Definiție: O imitație a figurii umane făcută din zăpadă
+    Literals: om_de_zăpadă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03335600-n (figură)
+
+  Sense 4 (ID: ENG30-09627462-n):
+    Definiție: Persoană care aparține începuturilor civilizației.
+    Literals: om_primitiv
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00007846-n (individ, om, persoană)
+      - near_eng_derivat: ENG30-00817731-a (arhaic, primitiv)
+      - near_eng_derivat: ENG30-00413432-a (arhaic, primitiv, străvechi, vechi)
+      - hyponym: ENG30-09635823-n (arian)
+      - hyponym: ENG30-09902731-n (troglodit, omul_cavernei)
+      - hyponym: ENG30-10322801-n (verigă_lipsă, om-maimuță)
+      - hyponym: ENG30-10553402-n (barbar, primitiv, sălbatic)
+
+  Sense 5 (ID: ENG30-09605289-n):
+    Definiție: (persoană) aflată în perioada de la 17-18 ani până la 50 de ani.
+    Literals: adult, om_matur
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00007846-n (individ, om, persoană)
+      - near_eng_derivat: ENG30-01488616-a (adult, dezvoltat, matur)
+      - near_eng_derivat: ENG30-15152817-n (maturitate)
+      - near_eng_derivat: ENG30-14425103-n (maturitate)
+      - near_antonym: ENG30-09622049-n (persoană_juvenilă, tânăr)
+      - part_meronym: ENG30-05219561-n (trup_adult, corp_adult)
+      - hyponym: ENG30-09895561-n (îngrijitor)
+      - hyponym: ENG30-09900981-n (partidă)
+      - hyponym: ENG30-09904837-n (centrist)
+      - hyponym: ENG30-09909060-n (caracter, caz)
+      - hyponym: ENG30-09957156-n (conservator)
+      - hyponym: ENG30-10048218-n (senior)
+      - hyponym: ENG30-10187130-n (amfitrion, gazdă)
+      - hyponym: ENG30-10200781-n (persoană_importantă, persoană_influentă)
+      - hyponym: ENG30-10256756-n (liberal)
+      - hyponym: ENG30-10257084-n (liberal)
+      - hyponym: ENG30-10287213-n (bărbat)
+      - hyponym: ENG30-10316013-n (militarist)
+      - hyponym: ENG30-10376523-n (bătrân, persoană_în_vârstă, vârstnic)
+      - hyponym: ENG30-10390199-n (pacifist)
+      - hyponym: ENG30-10441534-n (amanetar)
+      - hyponym: ENG30-10480253-n (profesionist)
+      - hyponym: ENG30-10625285-n (persoană_versată)
+      - hyponym: ENG30-10658867-n (stoic)
+      - hyponym: ENG30-10709358-n (bine-crescut, manierat)
+      - hyponym: ENG30-10787470-n (femeie, muiere)
+
+  Sense 6 (ID: ENG30-01389022-a):
+    Definiție: potrivit cu statura unui om
+    Literals: de_mărimea_unui_om
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - similar_to: ENG30-01382086-a (mare)
+      - domain_USAGE: ENG30-07075172-n (colocvialism, colocvialitate)
+
+  Sense 7 (ID: ENG30-00494198-a):
+    Definiție: (sport) despre sistemul de joc în care un singur jucător apărător marchează un singur jucător atacant
+    Literals: om_la_om
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - similar_to: ENG30-00493460-a (individual)
+      - domain_TOPIC: ENG30-00523513-n (atletism)
+
+  Sense 8 (ID: ENG30-00494198-a):
+    Definiție: (sport) despre sistemul de joc în care un singur jucător apărător marchează un singur jucător atacant
+    Literals: om_la_om
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - similar_to: ENG30-00493460-a (individual)
+      - domain_TOPIC: ENG30-00523513-n (atletism)
+
+  Sense 9 (ID: ENG30-10154601-n):
+    Definiție: Om care muncește din greu
+    Literals: om_de_corvoadă
+    PNO Scores: P=0.0, N=0.25, O=0.75
+    Relații semantice:
+      - hypernym: ENG30-09632274-n (persoană_necalifcată)
+      - near_eng_derivat: ENG30-02419773-v (osteni, trudi)
+      - hyponym: ENG30-10442417-n ()
+
+  Sense 10 (ID: ENG30-10560637-n):
+    Definiție: persoană cu cunoștințe vaste și temeinice în urma unor studii îndelungate, care creează în domeniul științei
+    Literals: om_de_știință, savant
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00007846-n (individ, om, persoană)
+      - near_eng_derivat: ENG30-05999797-n (știință, disciplină)
+      - hyponym: ENG30-09855630-n (biolog)
+      - hyponym: ENG30-09913824-n (chimist)
+      - hyponym: ENG30-09951070-n (informatician)
+      - hyponym: ENG30-10127689-n (geolog)
+      - hyponym: ENG30-10264437-n (lingvist)
+      - hyponym: ENG30-10301261-n (matematician)
+      - hyponym: ENG30-10306004-n (specialist_în_științe_medicale)
+      - hyponym: ENG30-10319996-n (mineralog)
+      - hyponym: ENG30-10394786-n (paleontolog)
+      - hyponym: ENG30-10428004-n (fizician)
+      - hyponym: ENG30-10475163-n (cercetător_principal)
+      - hyponym: ENG30-10488865-n (psiholog)
+      - hyponym: ENG30-10523076-n (cercetător)
+      - hyponym: ENG30-10619642-n (sociolog)
+      - instance_hyponym: ENG30-10830731-n (Roger_Bacon, Bacon)
+      - instance_hyponym: ENG30-10979079-n (Benjamin_Franklin)
+
+  Sense 11 (ID: ENG30-10450303-n):
+    Definiție: Persoană activă într-un partid politic
+    Literals: om_politic
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-09623038-n (conducător)
+      - near_eng_derivat: ENG30-13840719-n (politică)
+      - near_eng_derivat: ENG30-00611972-n (politică)
+      - hyponym: ENG30-09889691-n (candidat)
+      - hyponym: ENG30-09945603-n (comunist)
+      - hyponym: ENG30-10001481-n (demagog)
+      - hyponym: ENG30-10002151-n (democrat)
+      - hyponym: ENG30-10242328-n (laburist)
+      - hyponym: ENG30-10403162-n (lider, șef, bos)
+      - hyponym: ENG30-10403633-n (membru_de_partid, politruc)
+      - hyponym: ENG30-10522633-n (republican)
+      - hyponym: ENG30-10618848-n (socialist)
+      - hyponym: ENG30-10650162-n (lider_național)
+      - hyponym: ENG30-10696672-n (tehnocrat)
+      - instance_hyponym: ENG30-10826717-n (Nancy_Witcher_Astor)
+      - instance_hyponym: ENG30-10839791-n (William_Maxwell_Aitken)
+      - instance_hyponym: ENG30-10869385-n (William_Jennings_Bryan)
+      - instance_hyponym: ENG30-10874162-n (Burr, Aaron_Burr)
+      - instance_hyponym: ENG30-10899951-n (Clay, Henry_Clay, the_Great_Compromiser)
+      - instance_hyponym: ENG30-11076566-n (Jesse_Jackson, Jesse_Louis_Jackson, Jackson)
+      - instance_hyponym: ENG30-11077195-n (Glenda_Jackson)
+      - instance_hyponym: ENG30-11228039-n (Robert_Peel, Peel)
+      - instance_hyponym: ENG30-11270772-n (Ross, Nellie_Ross, Nellie_Tayloe_Ross)
+
+  Sense 12 (ID: ENG30-02472293-n):
+    Definiție: reprezentant al familiei Hominidae
+    Literals: om, ființă_umană
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02471762-n (hominid)
+      - member_holonym: ENG30-02472012-n (genul_Homo)
+      - near_eng_derivat: ENG30-01258617-a (uman)
+      - part_meronym: ENG30-02463403-n (șale)
+      - hyponym: ENG30-02472987-n (lume, omenime, omenire, rasă_umană, umanitate)
+      - hyponym: ENG30-02474777-n (homo_sapiens)
+      - hyponym: ENG30-02475078-n (omul_de_Neanderthal, omul_de_Neandertal, Homo_sapiens_neanderthalensis, neandertalian)
+      - domain_member_TOPIC: ENG30-05216365-n (corp, trup)
+      - part_meronym: ENG30-05217168-n (corp_omenesc)
+      - part_meronym: ENG30-05255578-n (pilozitate)
+      - part_meronym: ENG30-05256085-n (chică, coamă)
+      - part_meronym: ENG30-05539138-n (căpățână, hârcă, scăfârlie, tigvă, țeastă, cutie_craniană, cap_uman)
+      - domain_member_TOPIC: ENG30-05551318-n (parte)
+      - part_meronym: ENG30-05563266-n (membru_inferior, picior)
+      - part_meronym: ENG30-05563770-n (braț, mână)
+      - part_meronym: ENG30-05564590-n (mână, palmă)
+      - part_meronym: ENG30-05600637-n (față, obraz)
+      - domain_member_TOPIC: ENG30-06135915-n (nutriție)
+      - domain_member_TOPIC: ENG30-14471926-n (sindactilie)
+
+  Sense 13 (ID: ENG30-10289176-n):
+    Definiție: Persoană care se află în slujba cuiva.
+    Literals: om
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-10669991-n (subaltern)
+
+  Sense 14 (ID: ENG30-00007846-n):
+    Definiție: Individ al speciei umane, om considerat prin totalitatea însușirilor sale fizice și psihice
+    Literals: individ, om, persoană
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00004475-n (organism, ființă)
+      - hypernym: ENG30-00007347-n (agent_cauzator, cauză)
+      - member_holonym: ENG30-07942152-n (oameni)
+      - near_eng_derivat: ENG30-00388065-v (personaliza, individualiza)
+      - near_eng_derivat: ENG30-00727573-v (personifica)
+      - part_meronym: ENG30-04617562-n (personalitate)
+      - part_meronym: ENG30-05217168-n (corp_omenesc)
+      - hyponym: ENG30-09604981-n (sine, eu)
+      - hyponym: ENG30-09605289-n (adult, om_matur)
+      - hyponym: ENG30-09606009-n (aventurier)
+      - hyponym: ENG30-09606527-n (persoană_neobișnuită)
+      - hyponym: ENG30-09607280-n (solicitant)
+      - hyponym: ENG30-09607630-n ()
+      - hyponym: ENG30-09609232-n (capitalist)
+      - hyponym: ENG30-09609561-n ()
+      - hyponym: ENG30-09609871-n (modificator)
+      - hyponym: ENG30-09610405-n (om_obișnuit)
+      - hyponym: ENG30-09610660-n (locutor, vorbitor)
+      - hyponym: ENG30-09613191-n (competitor, concurent)
+      - hyponym: ENG30-09614047-n (laș)
+      - hyponym: ENG30-09614315-n (făcător, realizator)
+      - hyponym: ENG30-09615465-n (polemist)
+      - hyponym: ENG30-09615807-n (inginer)
+      - hyponym: ENG30-09616922-n (animator, însuflețitor)
+      - hyponym: ENG30-09617867-n (cunoscător, expert, specialist)
+      - hyponym: ENG30-09618957-n (chip, față, figură)
+      - hyponym: ENG30-09619168-n (femeie, muiere)
+      - hyponym: ENG30-09619824-n (individualist)
+      - hyponym: ENG30-09620078-n (locuitor)
+      - hyponym: ENG30-09620794-n (aborigen, autohton, băștinaș, indigen, pământean)
+      - hyponym: ENG30-09621359-n (inocent)
+      - hyponym: ENG30-09621545-n (intelectual)
+      - hyponym: ENG30-09622049-n (persoană_juvenilă, tânăr)
+      - hyponym: ENG30-09622302-n (amorez, drăguț, iubit, ibovnic)
+      - hyponym: ENG30-09623038-n (conducător)
+      - hyponym: ENG30-09624168-n (bărbat)
+      - hyponym: ENG30-09624980-n (administrator, gestionar, vechil)
+      - hyponym: ENG30-09625401-n (supus)
+      - hyponym: ENG30-09625789-n (persoană_nereligioasă)
+      - hyponym: ENG30-09626031-n ()
+      - hyponym: ENG30-09626238-n (egal)
+      - hyponym: ENG30-09626589-n (observator)
+      - hyponym: ENG30-09627117-n (precursor)
+      - hyponym: ENG30-09627462-n (om_primitiv)
+      - hyponym: ENG30-09628382-n (credincios)
+      - hyponym: ENG30-09629246-n (senzualist)
+      - hyponym: ENG30-09629752-n (călător)
+      - hyponym: ENG30-09630641-n (nefericit, nenorocit)
+      - hyponym: ENG30-09631129-n (persona_non_grata, persoană_nedorită)
+      - hyponym: ENG30-09632274-n (persoană_necalifcată)
+      - hyponym: ENG30-09632518-n (lucrător, muncitor)
+      - hyponym: ENG30-09634494-n (african)
+      - hyponym: ENG30-09636106-n (persoană_de_culoare)
+      - hyponym: ENG30-09636339-n (negru)
+      - hyponym: ENG30-09638875-n (alb, caucazian)
+      - hyponym: ENG30-09644820-n (amerindian)
+      - hyponym: ENG30-09676884-n (slav)
+      - hyponym: ENG30-09681351-n (evreu, israelit)
+      - hyponym: ENG30-09752246-n (berbec)
+      - hyponym: ENG30-09752381-n (taur)
+      - hyponym: ENG30-09752519-n (geamăn, gemeni)
+      - hyponym: ENG30-09752795-n (leu)
+      - hyponym: ENG30-09753204-n (Scorpion)
+      - hyponym: ENG30-09757944-n (abstinent)
+      - hyponym: ENG30-09762821-n (câștigător, învingător)
+      - hyponym: ENG30-09763784-n (cunoștință, cunoscut)
+      - hyponym: ENG30-09764201-n (câștigător)
+      - hyponym: ENG30-09764900-n (persoană_activă)
+      - hyponym: ENG30-09767197-n ()
+      - hyponym: ENG30-09769636-n (judecător)
+      - hyponym: ENG30-09771664-n (admirator)
+      - hyponym: ENG30-09772330-n (copil_adoptiv)
+      - hyponym: ENG30-09773245-n (oponent, opozant)
+      - hyponym: ENG30-09774783-n (avocat, exponent)
+      - hyponym: ENG30-09779124-n (agnostic)
+      - hyponym: ENG30-09786585-n (amator, diletant, neprofesionist)
+      - hyponym: ENG30-09801102-n ()
+      - hyponym: ENG30-09810364-n (arogant)
+      - hyponym: ENG30-09824609-n (autoritate, for)
+      - hyponym: ENG30-09825413-n (autodidact)
+      - hyponym: ENG30-09831856-n (personaj_negativ)
+      - hyponym: ENG30-09831962-n (rău)
+      - hyponym: ENG30-09833997-n (rebel)
+      - hyponym: ENG30-09836160-n (toreador, torero)
+      - hyponym: ENG30-09843602-n ()
+      - hyponym: ENG30-09846265-n ()
+      - hyponym: ENG30-09851165-n (cel_mai_bun, cel_mai_tare)
+      - hyponym: ENG30-09857852-n (mușcător)
+      - hyponym: ENG30-09860506-n (blond)
+      - hyponym: ENG30-09862845-n (culturist)
+      - hyponym: ENG30-09864536-n ()
+      - hyponym: ENG30-09877856-n (brun, brunet, negricios, oacheș)
+      - hyponym: ENG30-09890749-n (candidat, pretendent)
+      - hyponym: ENG30-09898892-n (caz)
+      - hyponym: ENG30-09902954-n (celebrator)
+      - hyponym: ENG30-09910374-n (persoană_fermecătoare)
+      - hyponym: ENG30-09918554-n (copil)
+      - hyponym: ENG30-09931267-n (neajutorat, neîndemânatic, nepriceput, stângaci)
+      - hyponym: ENG30-09936620-n (colecționar, culegător)
+      - hyponym: ENG30-09939313-n (combatant, luptător)
+      - hyponym: ENG30-09950457-n (maniac)
+      - hyponym: ENG30-09951274-n (utilizator_al_computerului)
+      - hyponym: ENG30-09960315-n (contemplativ)
+      - hyponym: ENG30-09962414-n (convertit)
+      - hyponym: ENG30-09964411-n (imitator)
+      - hyponym: ENG30-09969491-n (numărător)
+      - hyponym: ENG30-09976429-n (făptură_omenească)
+      - hyponym: ENG30-09976728-n (creditor)
+      - hyponym: ENG30-09978889-n (olog, schilod)
+      - hyponym: ENG30-09990415-n (dansator)
+      - hyponym: ENG30-09994943-n (decedat, defunct, dispărut, mort, răposat)
+      - hyponym: ENG30-09996481-n (hipoacuzic)
+      - hyponym: ENG30-09997622-n (datornic, debitor)
+      - hyponym: ENG30-10000007-n ()
+      - hyponym: ENG30-10000616-n ()
+      - hyponym: ENG30-10001058-n ()
+      - hyponym: ENG30-10001647-n (pretendent)
+      - hyponym: ENG30-10012815-n ()
+      - hyponym: ENG30-10018021-n (disident)
+      - hyponym: ENG30-10024362-n (pereche)
+      - hyponym: ENG30-10027246-n (dublură)
+      - hyponym: ENG30-10033663-n (bălos)
+      - hyponym: ENG30-10036266-n (consumator_de_droguri)
+      - hyponym: ENG30-10046527-n (efectuator)
+      - hyponym: ENG30-10052843-n (persoană_emotivă)
+      - hyponym: ENG30-10059162-n (înscris)
+      - hyponym: ENG30-10072708-n (explorator)
+      - hyponym: ENG30-10074841-n (extravertit)
+      - hyponym: ENG30-10076778-n ()
+      - hyponym: ENG30-10080337-n ()
+      - hyponym: ENG30-10086074-n (custode)
+      - hyponym: ENG30-10099375-n (următor)
+      - hyponym: ENG30-10109662-n ()
+      - hyponym: ENG30-10112591-n (amic, prieten)
+      - hyponym: ENG30-10115082-n (fugar)
+      - hyponym: ENG30-10117511-n (câștigător)
+      - hyponym: ENG30-10117739-n ()
+      - hyponym: ENG30-10118844-n (parior)
+      - hyponym: ENG30-10138369-n (personaj_pozitiv)
+      - hyponym: ENG30-10138767-n (binefăcător)
+      - hyponym: ENG30-10143725-n (donator)
+      - hyponym: ENG30-10150794-n (ghicitor)
+      - hyponym: ENG30-10158756-n (handicapat, persoană_handicapată)
+      - hyponym: ENG30-10162194-n (invidios, pizmaș, ranchiunos)
+      - hyponym: ENG30-10173895-n (heterosexual, persoană_heterosexuală)
+      - hyponym: ENG30-10182913-n (homosexual, invertit, pederast)
+      - hyponym: ENG30-10183157-n (homunculus)
+      - hyponym: ENG30-10184946-n (speranță)
+      - hyponym: ENG30-10185148-n ()
+      - hyponym: ENG30-10191001-n ()
+      - hyponym: ENG30-10199783-n (imun)
+      - hyponym: ENG30-10209888-n (asigurat, persoană_asigurată)
+      - hyponym: ENG30-10212780-n (interpret)
+      - hyponym: ENG30-10213429-n (introvertit)
+      - hyponym: ENG30-10221656-n (giuvaier, odor)
+      - hyponym: ENG30-10227266-n ()
+      - hyponym: ENG30-10231087-n (asasin, criminal, ucigaș)
+      - hyponym: ENG30-10235549-n (neam, rubedenie, rudă, rudenie)
+      - hyponym: ENG30-10238272-n (îngenunchiat)
+      - hyponym: ENG30-10240082-n (știutor, cunoscător)
+      - hyponym: ENG30-10247044-n (supraponderal)
+      - hyponym: ENG30-10247880-n (latin)
+      - hyponym: ENG30-10251779-n (învățăcel, școlar, elev)
+      - hyponym: ENG30-10253122-n (stângaci)
+      - hyponym: ENG30-10260706-n (viață_omenească)
+      - hyponym: ENG30-10264219-n (poliglot)
+      - hyponym: ENG30-10266328-n (literat, persoană_cu_carte, persoană_cultivată)
+      - hyponym: ENG30-10270878-n (însetat, setos)
+      - hyponym: ENG30-10278666-n (mașină)
+      - hyponym: ENG30-10284965-n (nemulțumit, nesatisfăcut)
+      - hyponym: ENG30-10289039-n (ființă, om, persoană)
+      - hyponym: ENG30-10291110-n (manipulator, mânuitor)
+      - hyponym: ENG30-10299700-n (onanist, labagiu)
+      - hyponym: ENG30-10308066-n (nemembru)
+      - hyponym: ENG30-10311823-n ()
+      - hyponym: ENG30-10314182-n (om_normal)
+      - hyponym: ENG30-10323999-n (metis)
+      - hyponym: ENG30-10326551-n (modern)
+      - hyponym: ENG30-10341955-n (mutilator)
+      - hyponym: ENG30-10344922-n (omonim, tiz)
+      - hyponym: ENG30-10351625-n (neglijent)
+      - hyponym: ENG30-10352299-n (vecin)
+      - hyponym: ENG30-10355142-n (persoană_neutră)
+      - hyponym: ENG30-10361060-n (persoană_insignifiantă)
+      - hyponym: ENG30-10362319-n (nefumător)
+      - hyponym: ENG30-10365399-n (nud)
+      - hyponym: ENG30-10370381-n (ocultist)
+      - hyponym: ENG30-10380126-n (optimist)
+      - hyponym: ENG30-10386618-n ()
+      - hyponym: ENG30-10389398-n (posesor, proprietar, stăpân)
+      - hyponym: ENG30-10395390-n (alintător, dezmierdător)
+      - hyponym: ENG30-10399299-n (iertător, îngăduitor, indulgent)
+      - hyponym: ENG30-10402417-n (partener)
+      - hyponym: ENG30-10402824-n (parte)
+      - hyponym: ENG30-10418101-n (încarnare, întruchipare, personificare)
+      - hyponym: ENG30-10438172-n (planificator)
+      - hyponym: ENG30-10466918-n (păstrător)
+      - hyponym: ENG30-10498699-n (om)
+      - hyponym: ENG30-10502046-n ()
+      - hyponym: ENG30-10503452-n (radicalist)
+      - hyponym: ENG30-10509605-n (realist)
+      - hyponym: ENG30-10513823-n (roșcat)
+      - hyponym: ENG30-10518349-n (alinător)
+      - hyponym: ENG30-10521470-n ()
+      - hyponym: ENG30-10522759-n (salvator)
+      - hyponym: ENG30-10524973-n ()
+      - hyponym: ENG30-10525134-n (controlor)
+      - hyponym: ENG30-10529231-n (avut, bogat, bogătaș)
+      - hyponym: ENG30-10530959-n (dreptaci)
+      - hyponym: ENG30-10538154-n (neastâmpărat, nebunatic, zburdalnic)
+      - hyponym: ENG30-10541229-n (șef, cârmuitor, conducător, hegemon)
+      - hyponym: ENG30-10543795-n (grăbit, repezit)
+      - hyponym: ENG30-10560637-n (om_de_știință, savant)
+      - hyponym: ENG30-10575787-n (căutător)
+      - hyponym: ENG30-10597234-n (semnatar)
+      - hyponym: ENG30-10599354-n (prost)
+      - hyponym: ENG30-10605088-n (patinator)
+      - hyponym: ENG30-10609325-n (rob, sclav)
+      - hyponym: ENG30-10611541-n (somnoros)
+      - hyponym: ENG30-10613505-n (persoană_scundă)
+      - hyponym: ENG30-10614363-n (surâzător, zâmbitor)
+      - hyponym: ENG30-10616578-n ()
+      - hyponym: ENG30-10616670-n ()
+      - hyponym: ENG30-10626722-n (tip, fel, soi)
+      - hyponym: ENG30-10636874-n (scuipător)
+      - hyponym: ENG30-10656223-n ()
+      - hyponym: ENG30-10659762-n (gârbov, gârbovit, încovoiat)
+      - hyponym: ENG30-10668666-n (subiect, cobai, caz)
+      - hyponym: ENG30-10679998-n ()
+      - hyponym: ENG30-10681060-n (supraviețuitor)
+      - hyponym: ENG30-10681383-n (suspect)
+      - hyponym: ENG30-10699752-n (seducător)
+      - hyponym: ENG30-10702615-n (amenințare)
+      - hyponym: ENG30-10708797-n (pricăjit, sfrijit, slăbănog, costeliv, piele_și_os)
+      - hyponym: ENG30-10709529-n (aruncător)
+      - hyponym: ENG30-10717589-n ()
+      - hyponym: ENG30-10724372-n (transfer)
+      - hyponym: ENG30-10725734-n (transsexual)
+      - hyponym: ENG30-10726031-n (travestit)
+      - hyponym: ENG30-10728998-n ()
+      - hyponym: ENG30-10737431-n (deschizător)
+      - hyponym: ENG30-10741590-n (utilizator)
+      - hyponym: ENG30-10746346-n (dispărut)
+      - hyponym: ENG30-10752480-n (credul, naiv, prost)
+      - hyponym: ENG30-10756641-n (vizionar)
+      - hyponym: ENG30-10763725-n ()
+      - hyponym: ENG30-10763878-n ()
+      - hyponym: ENG30-10766025-n (doritor, râvnitor)
+      - hyponym: ENG30-10767020-n ()
+      - hyponym: ENG30-10768585-n (luptător, războinic)
+      - hyponym: ENG30-10771636-n (slăbit, mort)
+      - hyponym: ENG30-10781236-n (agitat, neastâmpărat)
+      - hyponym: ENG30-10783539-n ()
+      - hyponym: ENG30-10785695-n (zgârcit)
+      - hyponym: ENG30-10786517-n (martor)
+
+  Sense 15 (ID: ENG30-09610405-n):
+    Definiție: Om care nu are nici un titlu sau ceva special
+    Literals: om_obișnuit
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00007846-n (individ, om, persoană)
+      - hyponym: ENG30-09869830-n (burghez)
+      - hyponym: ENG30-09923418-n (nulitate, zero)
+      - hyponym: ENG30-10067793-n (unul, oarecine, careva, oareșicine, cineva, oarecare)
+      - hyponym: ENG30-10223744-n (om_normal)
+      - hyponym: ENG30-10250527-n (profan, nespecialist)
+      - hyponym: ENG30-10441251-n (plebeu, plebeian)
+      - hyponym: ENG30-10481711-n (lucrător, muncitor)
+      - hyponym: ENG30-10544232-n (țăran)
+
+  Sense 16 (ID: ENG30-10291942-n):
+    Definiție: Persoană devotată literaturii și studiului ei
+    Literals: om_de_litere
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-10191192-n (umanist)
+
+  Sense 17 (ID: ENG30-10094046-n):
+    Definiție: Individ care rezolvă problemele pe căi neortodoxe (mită, trafic de influență, etc.)
+    Literals: om_uns_cu_toate_alifiile
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-10200781-n (persoană_importantă, persoană_influentă)
+
+  Sense 18 (ID: ENG30-10111023-n):
+    Definiție: persoană care nu este șerb sau sclav
+    Literals: om_liber
+    PNO Scores: P=0.0, N=0.625, O=0.375
+    Relații semantice:
+      - hypernym: ENG30-09923673-n (cetățean)
+
+  Sense 19 (ID: ENG30-09985978-n):
+    Definiție: personaj din literatura de anticipație, hibrid creier-mașină-microprocesor
+    Literals: om_bionic, cyborg
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-10278666-n (mașină)
+
+  Sense 20 (ID: ENG30-10188146-n):
+    Definiție: Persoană care își susține ideile cu violență
+    Literals: om_bătăios
+    PNO Scores: P=0.0, N=0.25, O=0.75
+    Relații semantice:
+      - hypernym: ENG30-09606009-n (aventurier)
+
+  Sense 21 (ID: ENG30-10505347-n):
+    Definiție: Șaman amerindian care invocă ploaia
+    Literals: om_care_aduce_ploaia
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-10626439-n (vraci, șaman)
+
+  Sense 22 (ID: ENG30-10381804-n):
+    Definiție: Persoană dintr-un spital care are obligații nemedicale
+    Literals: om_de_serviciu
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-09821831-n (îngrijitor, asistent)
+
+  Sense 23 (ID: ENG30-10802842-n):
+    Definiție: Om angajat pentru o zi, pentru muncile câmpului sau de pe lângă casă
+    Literals: om_cu_ziua
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-10241300-n (muncitor)
+
+  Sense 24 (ID: ENG30-10077394-n):
+    Definiție: Persoană căsătorită, pentru care familia are un rol foarte important
+    Literals: familist, om_de_casă
+    PNO Scores: P=0.125, N=0.0, O=0.875
+    Relații semantice:
+      - hypernym: ENG30-10193967-n (bărbat, gospodar, soț)
+
+  Sense 25 (ID: ENG30-10245507-n):
+    Definiție: (antonim al termenului marinar) persoană care trăiește și lucrează pe uscat
+    Literals: om_de_uscat
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-09620078-n (locuitor)
+
+  Sense 26 (ID: ENG30-10223744-n):
+    Definiție: Omul mediu, de pe stradă
+    Literals: om_normal
+    PNO Scores: P=0.125, N=0.25, O=0.625
+    Relații semantice:
+      - hypernym: ENG30-09610405-n (om_obișnuit)
+
+  Sense 27 (ID: ENG30-10642705-n):
+    Definiție: Persoană onestă dar care nu strălucește
+    Literals: om_normal
+    PNO Scores: P=0.25, N=0.125, O=0.625
+    Relații semantice:
+      - hypernym: ENG30-10138767-n (binefăcător)
+      - near_antonym: ENG30-10256537-n (mincinos)
+
+  Sense 28 (ID: ENG30-10291822-n):
+    Definiție: persoană înclinată să acționeze mai întâi, și abia după aceea să se gândească
+    Literals: om_de_acțiune
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-09767197-n ()
+
+  Sense 29 (ID: ENG30-10314182-n):
+    Definiție: Persoană care nu este nici intelectual nici analfabet
+    Literals: om_normal
+    PNO Scores: P=0.125, N=0.0, O=0.875
+    Relații semantice:
+      - hypernym: ENG30-00007846-n (individ, om, persoană)
+      - domain_USAGE: ENG30-07075172-n (colocvialism, colocvialitate)
+
+  Sense 30 (ID: ENG30-10289039-n):
+    Definiție: Ființă superioară, socială, care se caracterizează prin gândire, limbaj articulat și prin capacitatea de a făuri unelte cu ajutorul cărora transformă realitatea înconjurătoare
+    Literals: ființă, om, persoană
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00007846-n (individ, om, persoană)
+
+  Sense 31 (ID: ENG30-02475669-n):
+    Definiție: Ființă superioară, socială, care se caracterizează prin gândire, limbaj articulat și prin capacitatea de a făuri unelte cu ajutorul cărora transformă realitatea înconjurătoare.
+    Literals: Homo_sapiens_sapiens, om
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02474777-n (homo_sapiens)
+      - member_holonym: ENG30-02472012-n (genul_Homo)
+
+  Sense 32 (ID: ENG30-10439727-n):
+    Definiție: Persoană care caută plăcerile
+    Literals: om_de_lume
+    PNO Scores: P=0.125, N=0.0, O=0.875
+    Relații semantice:
+      - hypernym: ENG30-10168183-n (hedonist)
+
+  Sense 33 (ID: ENG30-10498699-n):
+    Definiție: persoană nespecificată
+    Literals: om
+    PNO Scores: P=0.0, N=0.25, O=0.75
+    Relații semantice:
+      - hypernym: ENG30-00007846-n (individ, om, persoană)
+
+  Sense 34 (ID: ENG30-09976551-n):
+    Definiție: (figurativ) Persoană care execută orbește ceea ce I se cere.
+    Literals: păpușă, marionetă, om_de_paie
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-10609325-n (rob, sclav)
+
+
+Cuvânt: timp (noun)
+----------------------------------------
+  Sense 1 (ID: ENG30-00028270-n):
+    Definiție: Dimensiune a Universului după care se ordonează succesiunea ireversibilă a fenomenelor
+    Literals: timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00024264-n (însușire, atribut, calitate, caracteristică, notă, particularitate, proprietate, trăsătură)
+      - hyponym: ENG30-15116283-n (timp_geologic)
+      - hyponym: ENG30-15116532-n (ceas_biologic)
+      - hyponym: ENG30-15116724-n (timp_cosmic)
+      - hyponym: ENG30-15116910-n (oră_oficială, oră_locală)
+      - hyponym: ENG30-15117246-n (oră_de_vară)
+      - hyponym: ENG30-15119536-n (actualitate, contemporaneitate, prezent)
+      - hyponym: ENG30-15120823-n (trecut)
+      - hyponym: ENG30-15121625-n (viitor, viitorime)
+      - hyponym: ENG30-15122011-n (timp, bătaie)
+      - hyponym: ENG30-15123754-n (continuum)
+      - hyponym: ENG30-15130205-n (Timp_Universal, ora_Greenwich, Greenwich_Mean_Time, GMT)
+      - hyponym: ENG30-15243976-n (eternitate, vecie, veșnicie)
+
+  Sense 2 (ID: ENG30-06329506-n):
+    Definiție: Fiecare dintre formele flexionare ale verbului, prin care se exprimă categoria gramaticală a timpului.;
+    Literals: timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-06309383-n (categorie_gramaticală, categorie_sintactică)
+      - hyponym: ENG30-06329734-n (prezent)
+      - hyponym: ENG30-06330037-n (aorist)
+      - hyponym: ENG30-06330262-n (perfect, trecut)
+      - hyponym: ENG30-06330401-n (viitor)
+      - hyponym: ENG30-13805734-n (timp_verbal_continuu)
+      - hyponym: ENG30-13806140-n (perfect, timp_perfect)
+
+  Sense 3 (ID: ENG30-15245515-n):
+    Definiție: Timp (considerat) prielnic pentru desfășurarea unei acțiuni
+    Literals: timp, vreme
+    PNO Scores: P=0.75, N=0.0, O=0.25
+    Relații semantice:
+      - hypernym: ENG30-15244650-n (ceas, clipă, clipită, minut, moment)
+      - near_eng_derivat: ENG30-01661529-a (oportun, potrivit)
+      - near_eng_derivat: ENG30-00296973-v (sincroniza)
+      - near_eng_derivat: ENG30-00678547-v (planifica, programa)
+      - hyponym: ENG30-15245711-n (ultima_clipă, ultimul_moment)
+      - hyponym: ENG30-15245829-n (ocazie)
+
+  Sense 4 (ID: ENG30-15118228-n):
+    Definiție: o perioadă de timp când ți se cere să muncești
+    Literals: timp_de_lucru
+    PNO Scores: P=0.125, N=0.0, O=0.875
+    Relații semantice:
+      - hypernym: ENG30-15113229-n (durată, interval_de_timp, perioadă, timp)
+      - near_antonym: ENG30-15118453-n (liber, pauză)
+      - hyponym: ENG30-15118100-n (zi)
+      - hyponym: ENG30-15135996-n (săptămână_de_lucru)
+      - hyponym: ENG30-15136453-n (zi)
+      - hyponym: ENG30-15137194-n (oră_suplimentară)
+      - hyponym: ENG30-15137295-n ()
+
+  Sense 5 (ID: ENG30-15154774-n):
+    Definiție: unitate de măsurare a timpului
+    Literals: unitate_de_timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00033615-n (cantitate, câtime)
+      - hyponym: ENG30-15155220-n (24_de_ore, zi)
+      - hyponym: ENG30-15155747-n (noapte)
+      - hyponym: ENG30-15206296-n (lună)
+      - hyponym: ENG30-15208333-n (zi_siderală)
+      - hyponym: ENG30-15227846-n (ceas, oră)
+      - hyponym: ENG30-15228162-n (jumătate_de_oră)
+      - hyponym: ENG30-15228267-n (sfert_de_oră, 15_minute)
+      - hyponym: ENG30-15234764-n (minut)
+      - hyponym: ENG30-15234942-n (sfert)
+      - hyponym: ENG30-15235126-n (secundă)
+      - hyponym: ENG30-15235540-n (atosecundă)
+      - hyponym: ENG30-15236176-n (microsecundă)
+      - hyponym: ENG30-15236338-n (milisecundă)
+
+  Sense 6 (ID: ENG30-15208162-n):
+    Definiție: măsurat de mișcarea diurnă a stelelor
+    Literals: timp_sideral
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15116724-n (timp_cosmic)
+      - hyponym: ENG30-15208333-n (zi_siderală)
+      - hyponym: ENG30-15208898-n (an_sideral)
+      - hyponym: ENG30-15209174-n (lună_siderală)
+
+  Sense 7 (ID: ENG30-15116724-n):
+    Definiție: timp acoperit de formarea fizică și dezvoltarea universului
+    Literals: timp_cosmic
+    PNO Scores: P=0.0, N=0.125, O=0.875
+    Relații semantice:
+      - hypernym: ENG30-00028270-n (timp)
+      - hyponym: ENG30-15208162-n (timp_sideral)
+      - hyponym: ENG30-15221818-n (solstițiu)
+      - hyponym: ENG30-15223343-n (echinocțiu)
+
+  Sense 8 (ID: ENG30-15180082-n):
+    Definiție: momentul în care o activitate trebuie sa fie terminată
+    Literals: timp_limită
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15180528-n (clipă, moment, secundă)
+
+  Sense 9 (ID: ENG30-15116283-n):
+    Definiție: perioada formării și evoluției Pământului.
+    Literals: timp_geologic
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00028270-n (timp)
+      - hyponym: ENG30-15243730-n (eon)
+      - hyponym: ENG30-15247518-n (perioadă)
+      - hyponym: ENG30-15248020-n (eră, eră_geologică)
+      - hyponym: ENG30-15248269-n (epocă)
+
+  Sense 10 (ID: ENG30-15242955-n):
+    Definiție: Perioadă foarte lungă.
+    Literals: timp_îndelungat, veșnicie
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15113229-n (durată, interval_de_timp, perioadă, timp)
+      - hyponym: ENG30-15243202-n (secol, veac)
+      - hyponym: ENG30-15243590-n (eon)
+
+  Sense 11 (ID: ENG30-05046009-n):
+    Definiție: timpul în care se întâmplă ceva
+    Literals: interval_de_timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-05044673-n (ordine_temporală, ordine_pe_axa_temporală)
+      - near_eng_derivat: ENG30-00678547-v (planifica, programa)
+      - attribute: ENG30-00125711-a (precedent, premergător)
+      - attribute: ENG30-00127296-a (următor)
+      - attribute: ENG30-00812952-a (timpuriu)
+      - attribute: ENG30-00815941-a (mijloc, miez, toi)
+      - attribute: ENG30-00816481-a (întârziat, tardiv, târziu)
+      - attribute: ENG30-01727926-a (trecut)
+      - attribute: ENG30-01731351-a (actual, curent, prezent)
+      - attribute: ENG30-01732270-a (viitor)
+      - hyponym: ENG30-05046471-n (apropiere, venire)
+      - hyponym: ENG30-05046659-n (caracter_prematur)
+      - hyponym: ENG30-05047059-n (lipsă_de_punctualitate)
+      - hyponym: ENG30-05047778-n (punctualitate)
+      - hyponym: ENG30-05048123-n (concomitență, simultaneitate, sincronism)
+      - hyponym: ENG30-05049253-n (oportunitate)
+      - hyponym: ENG30-05049930-n (perspectivă, viitor)
+      - hyponym: ENG30-05050115-n ()
+      - hyponym: ENG30-05051088-n (scânteie, avans)
+
+  Sense 12 (ID: ENG30-11440012-n):
+    Definiție: Perioadă cu vreme foarte rece.
+    Literals: vreme_rece, timp_rece
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-11524662-n (vreme)
+      - hyponym: ENG30-11440521-n (ger, îngheț)
+
+  Sense 13 (ID: ENG30-15297672-n):
+    Definiție: timpul necesar prelucrării finite a unui material etc.
+    Literals: timp_de_prelucrare
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15269513-n (interval, răstimp, interval_de_timp)
+      - hyponym: ENG30-15298011-n (timp_de_procesare)
+
+  Sense 14 (ID: ENG30-15298011-n):
+    Definiție: (informatică) timpul de procesare pentru executarea unei comenzi
+    Literals: timp_de_procesare
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15297672-n (timp_de_prelucrare)
+      - part_holonym: ENG30-15171857-n (timp_de_acces)
+      - domain_TOPIC: ENG30-06128570-n (știința_calculatoarelor)
+
+  Sense 15 (ID: ENG30-15265518-n):
+    Definiție: Momentul începerii unei curse sportive, indicat de starter.
+    Literals: plecare, timp_de_start, timp_de_început
+    PNO Scores: P=0.125, N=0.0, O=0.875
+    Relații semantice:
+      - hypernym: ENG30-15180528-n (clipă, moment, secundă)
+      - near_eng_derivat: ENG30-02395782-v (iniția)
+      - near_eng_derivat: ENG30-02379528-v ()
+      - near_eng_derivat: ENG30-01650610-v (deschide, porni)
+      - near_eng_derivat: ENG30-01628449-v (iniția, deschide, înființa)
+      - near_eng_derivat: ENG30-02608347-v (începe, porni)
+      - near_eng_derivat: ENG30-00348746-v (începe)
+      - near_eng_derivat: ENG30-00345761-v (începe, |se| porni)
+      - near_antonym: ENG30-15266685-n ()
+      - near_antonym: ENG30-15266911-n (capăt, final, fine, încheiere, sfârșit)
+      - hyponym: ENG30-15142167-n (naștere)
+      - hyponym: ENG30-15266164-n (punct_de_plecare)
+      - hyponym: ENG30-15268993-n (prag)
+
+  Sense 16 (ID: ENG30-15265518-n):
+    Definiție: Momentul începerii unei curse sportive, indicat de starter.
+    Literals: plecare, timp_de_start, timp_de_început
+    PNO Scores: P=0.125, N=0.0, O=0.875
+    Relații semantice:
+      - hypernym: ENG30-15180528-n (clipă, moment, secundă)
+      - near_eng_derivat: ENG30-02395782-v (iniția)
+      - near_eng_derivat: ENG30-02379528-v ()
+      - near_eng_derivat: ENG30-01650610-v (deschide, porni)
+      - near_eng_derivat: ENG30-01628449-v (iniția, deschide, înființa)
+      - near_eng_derivat: ENG30-02608347-v (începe, porni)
+      - near_eng_derivat: ENG30-00348746-v (începe)
+      - near_eng_derivat: ENG30-00345761-v (începe, |se| porni)
+      - near_antonym: ENG30-15266685-n ()
+      - near_antonym: ENG30-15266911-n (capăt, final, fine, încheiere, sfârșit)
+      - hyponym: ENG30-15142167-n (naștere)
+      - hyponym: ENG30-15266164-n (punct_de_plecare)
+      - hyponym: ENG30-15268993-n (prag)
+
+  Sense 17 (ID: ENG30-15249236-n):
+    Definiție: Perioadă de existență sau de influență.
+    Literals: timp, vreme, zi
+    PNO Scores: P=0.125, N=0.0, O=0.875
+    Relații semantice:
+      - hypernym: ENG30-15248564-n (epocă, eră, ev)
+
+  Sense 18 (ID: ENG30-15113229-n):
+    Definiție: perioadă de timp
+    Literals: durată, interval_de_timp, perioadă, timp
+    PNO Scores: P=0.125, N=0.125, O=0.75
+    Relații semantice:
+      - hypernym: ENG30-13575869-n (cantitate_fundamentală)
+      - hyponym: ENG30-15115926-n (perioadă_de_probă)
+      - hyponym: ENG30-15116095-n (interval_de_timp)
+      - hyponym: ENG30-15117516-n (ceas_întreg, oră, oră_întreagă)
+      - hyponym: ENG30-15117809-n (timp_de_funcționare)
+      - hyponym: ENG30-15118228-n (timp_de_lucru)
+      - hyponym: ENG30-15118453-n (liber, pauză)
+      - hyponym: ENG30-15119185-n (spitalizare)
+      - hyponym: ENG30-15122231-n (timp)
+      - hyponym: ENG30-15131123-n (timp_scurs, timp_consumat)
+      - hyponym: ENG30-15133621-n (durată)
+      - hyponym: ENG30-15136147-n (săptămână)
+      - hyponym: ENG30-15140405-n (durată_de_viață)
+      - hyponym: ENG30-15140744-n (viață)
+      - hyponym: ENG30-15140892-n (viață)
+      - hyponym: ENG30-15141213-n (mileniu)
+      - hyponym: ENG30-15141486-n (ocupație)
+      - hyponym: ENG30-15141693-n (trecut)
+      - hyponym: ENG30-15141894-n (termen_de_garanție)
+      - hyponym: ENG30-15142568-n (puerperiu)
+      - hyponym: ENG30-15142836-n (lactație)
+      - hyponym: ENG30-15144371-n (vârstă)
+      - hyponym: ENG30-15157041-n (zi_calendaristică)
+      - hyponym: ENG30-15162388-n (sărbătoare)
+      - hyponym: ENG30-15164957-n (zi)
+      - hyponym: ENG30-15165289-n (dimineață)
+      - hyponym: ENG30-15167027-n (noapte)
+      - hyponym: ENG30-15167349-n (seară)
+      - hyponym: ENG30-15167474-n (somn)
+      - hyponym: ENG30-15167577-n (întunecime, noapte)
+      - hyponym: ENG30-15167778-n (ajun, preziuă)
+      - hyponym: ENG30-15167906-n (seară)
+      - hyponym: ENG30-15169873-n (săptămână)
+      - hyponym: ENG30-15170331-n (două_săptămâni)
+      - hyponym: ENG30-15170504-n (weekend)
+      - hyponym: ENG30-15185996-n (vară_indiană)
+      - hyponym: ENG30-15201505-n (an_planetar, an)
+      - hyponym: ENG30-15203229-n (școală, oră)
+      - hyponym: ENG30-15203791-n (an)
+      - hyponym: ENG30-15204297-n (an)
+      - hyponym: ENG30-15204485-n (semestru)
+      - hyponym: ENG30-15204609-n (bimestru)
+      - hyponym: ENG30-15204907-n (cincinal)
+      - hyponym: ENG30-15204983-n (deceniu)
+      - hyponym: ENG30-15205532-n (secol, veac)
+      - hyponym: ENG30-15206097-n (jumătate_de_secol)
+      - hyponym: ENG30-15206195-n (sfert_de_veac, sfert_de_secol)
+      - hyponym: ENG30-15206590-n (trimestru)
+      - hyponym: ENG30-15206744-n (faza_lunii)
+      - hyponym: ENG30-15208540-n (zi)
+      - hyponym: ENG30-15209413-n (lună, lună_calendaristică)
+      - hyponym: ENG30-15210765-n (jumătatea_lui_februarie)
+      - hyponym: ENG30-15211385-n ()
+      - hyponym: ENG30-15211711-n (mijlocul_lui_mai)
+      - hyponym: ENG30-15212070-n (mijlocul_lui_iunie)
+      - hyponym: ENG30-15212358-n (mijlocul_lui_iulie)
+      - hyponym: ENG30-15212638-n ()
+      - hyponym: ENG30-15213303-n (mijlocul_lui_octombrie, mijlocul_lunii_octombrie)
+      - hyponym: ENG30-15213669-n (mijlocul_lui_noiembrie)
+      - hyponym: ENG30-15213963-n (mijlocul_lui_decembrie)
+      - hyponym: ENG30-15224156-n (scadență, termen)
+      - hyponym: ENG30-15224486-n (răstimp, termen)
+      - hyponym: ENG30-15226732-n (trimestru)
+      - hyponym: ENG30-15228910-n (oră)
+      - hyponym: ENG30-15230790-n (Epocă_de_Aur)
+      - hyponym: ENG30-15231031-n (epoca_de_argint)
+      - hyponym: ENG30-15231263-n (epoca_bronzului)
+      - instance_hyponym: ENG30-15231415-n (epoca_bronzului)
+      - hyponym: ENG30-15231634-n (epoca_fierului)
+      - instance_hyponym: ENG30-15231765-n (epoca_fierului)
+      - instance_hyponym: ENG30-15231964-n (epoca_de_piatră)
+      - instance_hyponym: ENG30-15232406-n (paleolitic)
+      - instance_hyponym: ENG30-15233411-n (neolitic, epoca_pietrei_lustruite)
+      - hyponym: ENG30-15233614-n (an_platonic, marele_an_cosmic)
+      - hyponym: ENG30-15233778-n (timp_regulamentar)
+      - hyponym: ENG30-15233989-n (prelungire)
+      - hyponym: ENG30-15236475-n (anotimp, sezon)
+      - hyponym: ENG30-15237567-n (luna_lui_cuptor)
+      - hyponym: ENG30-15238074-n (miezul_iernii, toiul_iernii)
+      - hyponym: ENG30-15239292-n (sezon)
+      - hyponym: ENG30-15239579-n (sezon)
+      - hyponym: ENG30-15242955-n (timp_îndelungat, veșnicie)
+      - hyponym: ENG30-15243351-n (termen_lung)
+      - hyponym: ENG30-15244505-n (secetă)
+      - hyponym: ENG30-15248564-n (epocă, eră, ev)
+      - hyponym: ENG30-15249636-n (generație)
+      - hyponym: ENG30-15254550-n (preistorie)
+      - hyponym: ENG30-15260964-n (dominație, domnie, putere, stăpânire)
+      - hyponym: ENG30-15262120-n (tură)
+      - hyponym: ENG30-15266034-n (perioadă_de_început)
+      - hyponym: ENG30-15267945-n (zori)
+      - hyponym: ENG30-15270431-n (răstimp, timp, vreme)
+      - hyponym: ENG30-15273626-n (somn)
+      - hyponym: ENG30-15275727-n (maree)
+      - hyponym: ENG30-15290337-n (etapă, fază, stadiu)
+      - hyponym: ENG30-15292502-n (gardă, strajă, veghe, pază)
+      - hyponym: ENG30-15293227-n (vreme_de_pace, timp_de_pace)
+      - hyponym: ENG30-15293328-n (vreme_de_război, timp_de_război)
+      - hyponym: ENG30-15293590-n (înrolare, cătănie, militărie, stagiu_militar, serviciu_militar)
+      - hyponym: ENG30-15294382-n (prohibiție)
+      - hyponym: ENG30-15294607-n (incubație, perioadă_de_incubație, timp_de_incubație)
+      - hyponym: ENG30-15294745-n (vreme_de_restriște, zile_negre)
+      - hyponym: ENG30-15294884-n (noviciat)
+      - hyponym: ENG30-15295045-n (eflorescență, înflorire)
+      - hyponym: ENG30-15298852-n (timp_real)
+      - hyponym: ENG30-15299585-n (termen_de_plată)
+
+  Sense 19 (ID: ENG30-15113229-n):
+    Definiție: perioadă de timp
+    Literals: durată, interval_de_timp, perioadă, timp
+    PNO Scores: P=0.125, N=0.125, O=0.75
+    Relații semantice:
+      - hypernym: ENG30-13575869-n (cantitate_fundamentală)
+      - hyponym: ENG30-15115926-n (perioadă_de_probă)
+      - hyponym: ENG30-15116095-n (interval_de_timp)
+      - hyponym: ENG30-15117516-n (ceas_întreg, oră, oră_întreagă)
+      - hyponym: ENG30-15117809-n (timp_de_funcționare)
+      - hyponym: ENG30-15118228-n (timp_de_lucru)
+      - hyponym: ENG30-15118453-n (liber, pauză)
+      - hyponym: ENG30-15119185-n (spitalizare)
+      - hyponym: ENG30-15122231-n (timp)
+      - hyponym: ENG30-15131123-n (timp_scurs, timp_consumat)
+      - hyponym: ENG30-15133621-n (durată)
+      - hyponym: ENG30-15136147-n (săptămână)
+      - hyponym: ENG30-15140405-n (durată_de_viață)
+      - hyponym: ENG30-15140744-n (viață)
+      - hyponym: ENG30-15140892-n (viață)
+      - hyponym: ENG30-15141213-n (mileniu)
+      - hyponym: ENG30-15141486-n (ocupație)
+      - hyponym: ENG30-15141693-n (trecut)
+      - hyponym: ENG30-15141894-n (termen_de_garanție)
+      - hyponym: ENG30-15142568-n (puerperiu)
+      - hyponym: ENG30-15142836-n (lactație)
+      - hyponym: ENG30-15144371-n (vârstă)
+      - hyponym: ENG30-15157041-n (zi_calendaristică)
+      - hyponym: ENG30-15162388-n (sărbătoare)
+      - hyponym: ENG30-15164957-n (zi)
+      - hyponym: ENG30-15165289-n (dimineață)
+      - hyponym: ENG30-15167027-n (noapte)
+      - hyponym: ENG30-15167349-n (seară)
+      - hyponym: ENG30-15167474-n (somn)
+      - hyponym: ENG30-15167577-n (întunecime, noapte)
+      - hyponym: ENG30-15167778-n (ajun, preziuă)
+      - hyponym: ENG30-15167906-n (seară)
+      - hyponym: ENG30-15169873-n (săptămână)
+      - hyponym: ENG30-15170331-n (două_săptămâni)
+      - hyponym: ENG30-15170504-n (weekend)
+      - hyponym: ENG30-15185996-n (vară_indiană)
+      - hyponym: ENG30-15201505-n (an_planetar, an)
+      - hyponym: ENG30-15203229-n (școală, oră)
+      - hyponym: ENG30-15203791-n (an)
+      - hyponym: ENG30-15204297-n (an)
+      - hyponym: ENG30-15204485-n (semestru)
+      - hyponym: ENG30-15204609-n (bimestru)
+      - hyponym: ENG30-15204907-n (cincinal)
+      - hyponym: ENG30-15204983-n (deceniu)
+      - hyponym: ENG30-15205532-n (secol, veac)
+      - hyponym: ENG30-15206097-n (jumătate_de_secol)
+      - hyponym: ENG30-15206195-n (sfert_de_veac, sfert_de_secol)
+      - hyponym: ENG30-15206590-n (trimestru)
+      - hyponym: ENG30-15206744-n (faza_lunii)
+      - hyponym: ENG30-15208540-n (zi)
+      - hyponym: ENG30-15209413-n (lună, lună_calendaristică)
+      - hyponym: ENG30-15210765-n (jumătatea_lui_februarie)
+      - hyponym: ENG30-15211385-n ()
+      - hyponym: ENG30-15211711-n (mijlocul_lui_mai)
+      - hyponym: ENG30-15212070-n (mijlocul_lui_iunie)
+      - hyponym: ENG30-15212358-n (mijlocul_lui_iulie)
+      - hyponym: ENG30-15212638-n ()
+      - hyponym: ENG30-15213303-n (mijlocul_lui_octombrie, mijlocul_lunii_octombrie)
+      - hyponym: ENG30-15213669-n (mijlocul_lui_noiembrie)
+      - hyponym: ENG30-15213963-n (mijlocul_lui_decembrie)
+      - hyponym: ENG30-15224156-n (scadență, termen)
+      - hyponym: ENG30-15224486-n (răstimp, termen)
+      - hyponym: ENG30-15226732-n (trimestru)
+      - hyponym: ENG30-15228910-n (oră)
+      - hyponym: ENG30-15230790-n (Epocă_de_Aur)
+      - hyponym: ENG30-15231031-n (epoca_de_argint)
+      - hyponym: ENG30-15231263-n (epoca_bronzului)
+      - instance_hyponym: ENG30-15231415-n (epoca_bronzului)
+      - hyponym: ENG30-15231634-n (epoca_fierului)
+      - instance_hyponym: ENG30-15231765-n (epoca_fierului)
+      - instance_hyponym: ENG30-15231964-n (epoca_de_piatră)
+      - instance_hyponym: ENG30-15232406-n (paleolitic)
+      - instance_hyponym: ENG30-15233411-n (neolitic, epoca_pietrei_lustruite)
+      - hyponym: ENG30-15233614-n (an_platonic, marele_an_cosmic)
+      - hyponym: ENG30-15233778-n (timp_regulamentar)
+      - hyponym: ENG30-15233989-n (prelungire)
+      - hyponym: ENG30-15236475-n (anotimp, sezon)
+      - hyponym: ENG30-15237567-n (luna_lui_cuptor)
+      - hyponym: ENG30-15238074-n (miezul_iernii, toiul_iernii)
+      - hyponym: ENG30-15239292-n (sezon)
+      - hyponym: ENG30-15239579-n (sezon)
+      - hyponym: ENG30-15242955-n (timp_îndelungat, veșnicie)
+      - hyponym: ENG30-15243351-n (termen_lung)
+      - hyponym: ENG30-15244505-n (secetă)
+      - hyponym: ENG30-15248564-n (epocă, eră, ev)
+      - hyponym: ENG30-15249636-n (generație)
+      - hyponym: ENG30-15254550-n (preistorie)
+      - hyponym: ENG30-15260964-n (dominație, domnie, putere, stăpânire)
+      - hyponym: ENG30-15262120-n (tură)
+      - hyponym: ENG30-15266034-n (perioadă_de_început)
+      - hyponym: ENG30-15267945-n (zori)
+      - hyponym: ENG30-15270431-n (răstimp, timp, vreme)
+      - hyponym: ENG30-15273626-n (somn)
+      - hyponym: ENG30-15275727-n (maree)
+      - hyponym: ENG30-15290337-n (etapă, fază, stadiu)
+      - hyponym: ENG30-15292502-n (gardă, strajă, veghe, pază)
+      - hyponym: ENG30-15293227-n (vreme_de_pace, timp_de_pace)
+      - hyponym: ENG30-15293328-n (vreme_de_război, timp_de_război)
+      - hyponym: ENG30-15293590-n (înrolare, cătănie, militărie, stagiu_militar, serviciu_militar)
+      - hyponym: ENG30-15294382-n (prohibiție)
+      - hyponym: ENG30-15294607-n (incubație, perioadă_de_incubație, timp_de_incubație)
+      - hyponym: ENG30-15294745-n (vreme_de_restriște, zile_negre)
+      - hyponym: ENG30-15294884-n (noviciat)
+      - hyponym: ENG30-15295045-n (eflorescență, înflorire)
+      - hyponym: ENG30-15298852-n (timp_real)
+      - hyponym: ENG30-15299585-n (termen_de_plată)
+
+  Sense 20 (ID: ENG30-05051249-n):
+    Definiție: continuitate în timp
+    Literals: durată, răstimp, timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-05044528-n (proprietate_temporală)
+      - near_eng_derivat: ENG30-01439155-a (prelung, prelungit, îndelungat, îndelung)
+      - attribute: ENG30-01437963-a (lung)
+      - attribute: ENG30-01442186-a (scurt)
+      - hyponym: ENG30-05051896-n (prelungire, amânare)
+      - hyponym: ENG30-05052387-n (infinit, nemărginire)
+      - hyponym: ENG30-05052832-n (scurtime)
+      - hyponym: ENG30-05053042-n (brevitate)
+      - hyponym: ENG30-05053215-n (permanență)
+      - hyponym: ENG30-05054863-n (impermanență)
+
+  Sense 21 (ID: ENG30-00100592-r):
+    Definiție: fără să apară întârzieri
+    Literals: la_timp
+    PNO Scores: P=0.375, N=0.0, O=0.625
+    Relații semantice:
+      Nicio relație găsită.
+
+  Sense 22 (ID: ENG30-00064946-r):
+    Definiție: în timpul care intervine
+    Literals: între_timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      Nicio relație găsită.
+
+  Sense 23 (ID: ENG30-00065184-r):
+    Definiție: în același timp, dar în alt loc
+    Literals: între_timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      Nicio relație găsită.
+
+  Sense 24 (ID: ENG30-13805734-n):
+    Definiție: timp verbal folosit în descrierea acțiunilor în curs de desfășurare
+    Literals: timp_verbal_continuu
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-06329506-n (timp)
+
+  Sense 25 (ID: ENG30-15246353-n):
+    Definiție: Interval de timp de lungime nedeterminată (de obicei scurt) în cursul căruia se desfășoară un fenomen sau se petrece un eveniment.
+    Literals: perioadă, timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15122231-n (timp)
+      - hyponym: ENG30-15246683-n (val_de_aer_rece, curent_de_aer_rece)
+      - hyponym: ENG30-15299097-n ()
+
+  Sense 26 (ID: ENG30-15122231-n):
+    Definiție: Durată, perioadă, măsurată în ore, zile etc., care corespunde desfășurării unei acțiuni, unui fenomen, unui eveniment
+    Literals: timp
+    PNO Scores: P=0.5, N=0.0, O=0.5
+    Relații semantice:
+      - hypernym: ENG30-15113229-n (durată, interval_de_timp, perioadă, timp)
+      - near_eng_derivat: ENG30-00297906-v (potrivi, potrivi_ceasul)
+      - near_eng_derivat: ENG30-00490968-v (cronometra)
+      - hyponym: ENG30-15123115-n (zi)
+      - hyponym: ENG30-15123362-n (moarte)
+      - hyponym: ENG30-15123512-n (vremuri_grele, vremuri_de_restriște)
+      - hyponym: ENG30-15246258-n (pic, puțin)
+      - hyponym: ENG30-15246353-n (perioadă, timp)
+      - hyponym: ENG30-15246853-n (clipă, clipită, moment, secundă)
+      - hyponym: ENG30-15262794-n (era_spațială)
+
+  Sense 27 (ID: ENG30-15270431-n):
+    Definiție: perioadă de timp considerată drept resursă controlabilă și suficientă pentru realizarea unui scop
+    Literals: răstimp, timp, vreme
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15113229-n (durată, interval_de_timp, perioadă, timp)
+      - near_eng_derivat: ENG30-00490968-v (cronometra)
+
+  Sense 28 (ID: ENG30-15172212-n):
+    Definiție: interval între două perioade sau între două momente diferite
+    Literals: perioadă, răstimp, timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15269513-n (interval, răstimp, interval_de_timp)
+      - near_eng_derivat: ENG30-01988080-v (rări, spația)
+
+  Sense 29 (ID: ENG30-15293328-n):
+    Definiție: Perioadă de timp în care se desfășoară un conflict armat
+    Literals: vreme_de_război, timp_de_război
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15113229-n (durată, interval_de_timp, perioadă, timp)
+
+  Sense 30 (ID: ENG30-01065687-n):
+    Definiție: timpul disponibil pentru activități distractive
+    Literals: timp_liber
+    PNO Scores: P=0.375, N=0.0, O=0.625
+    Relații semantice:
+      - hypernym: ENG30-15137676-n (răgaz)
+
+  Sense 31 (ID: ENG30-15273241-n):
+    Definiție: Timpul dintre aplicarea unui stimul și răspunsul la el
+    Literals: timp_de_reacție, timp_de_răspuns
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15269513-n (interval, răstimp, interval_de_timp)
+
+  Sense 32 (ID: ENG30-15273241-n):
+    Definiție: Timpul dintre aplicarea unui stimul și răspunsul la el
+    Literals: timp_de_reacție, timp_de_răspuns
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15269513-n (interval, răstimp, interval_de_timp)
+
+  Sense 33 (ID: ENG30-15116095-n):
+    Definiție: Durată de timp în care este de așteptat ca ceva să se producă
+    Literals: interval_de_timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15113229-n (durată, interval_de_timp, perioadă, timp)
+
+  Sense 34 (ID: ENG30-15131123-n):
+    Definiție: timpul trecut de când a început un eveniment aflat în desfășurare
+    Literals: timp_scurs, timp_consumat
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15113229-n (durată, interval_de_timp, perioadă, timp)
+
+  Sense 35 (ID: ENG30-15131123-n):
+    Definiție: timpul trecut de când a început un eveniment aflat în desfășurare
+    Literals: timp_scurs, timp_consumat
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15113229-n (durată, interval_de_timp, perioadă, timp)
+
+  Sense 36 (ID: ENG30-00743500-n):
+    Definiție: durată de timp dedicată unei activități fără scop practic
+    Literals: pierdere_de_timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00742645-n (irosire, risipă)
+
+  Sense 37 (ID: ENG30-07086972-n):
+    Definiție: Prima bătaie a unei măsuri muzicale
+    Literals: timp_accentuat
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-07086518-n (ritm)
+
+  Sense 38 (ID: ENG30-15269128-n):
+    Definiție: timpul necesar unui cap de citire / scriere pentru a se muta la pista specificată
+    Literals: timp_de_căutare
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15269513-n (interval, răstimp, interval_de_timp)
+      - part_holonym: ENG30-15171857-n (timp_de_acces)
+      - domain_TOPIC: ENG30-06128570-n (știința_calculatoarelor)
+      - hyponym: ENG30-15269331-n (timpul_de_deplasare_între_piste_adiacente)
+
+  Sense 39 (ID: ENG30-15171857-n):
+    Definiție: (inform.) interval de timp dintre momentul în care sistemul cere date și momentul în care acestea sunt oferite de memorie
+    Literals: timp_de_acces
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15269513-n (interval, răstimp, interval_de_timp)
+      - domain_TOPIC: ENG30-06128570-n (știința_calculatoarelor)
+      - part_meronym: ENG30-15269128-n (timp_de_căutare)
+      - part_meronym: ENG30-15298011-n (timp_de_procesare)
+
+  Sense 40 (ID: ENG30-15252524-n):
+    Definiție: Timp care nu mai poate fi rememorat
+    Literals: timp_imemorial
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15120823-n (trecut)
+
+  Sense 41 (ID: ENG30-13547048-n):
+    Definiție: Procesare de date suficient de rapidă încât se petrece în același timp cu imputul acestora
+    Literals: procesare_în_timp_real, procesare_continuă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-13455487-n (procesare_de_date)
+
+  Sense 42 (ID: ENG30-15131269-n):
+    Definiție: timpul când este trimisă o transmisie de pe Pământ către o navă spațială sau un corp celest
+    Literals: timp_de_transmisie
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15130434-n (UTC)
+
+  Sense 43 (ID: ENG30-15233778-n):
+    Definiție: (sport) durata normală în care se desfășoară un joc sportiv
+    Literals: timp_regulamentar
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15113229-n (durată, interval_de_timp, perioadă, timp)
+      - part_holonym: ENG30-00463246-n (întrecere_atletică, competiție_atletică, concurs_atletic)
+      - domain_TOPIC: ENG30-00523513-n (atletism)
+      - near_antonym: ENG30-15233989-n (prelungire)
+
+  Sense 44 (ID: ENG30-15298852-n):
+    Definiție: Timpul actual în care se desfășoară un proces
+    Literals: timp_real
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15113229-n (durată, interval_de_timp, perioadă, timp)
+
+  Sense 45 (ID: ENG30-15262360-n):
+    Definiție: Timpul în care se execută un program software
+    Literals: timp_de_execuție
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15262120-n (tură)
+      - domain_TOPIC: ENG30-06128570-n (știința_calculatoarelor)
+
+  Sense 46 (ID: ENG30-01900771-a):
+    Definiție: care se produce înainte ca limita de timp să expire
+    Literals: la_vreme, la_timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - near_eng_derivat: ENG30-05049253-n (oportunitate)
+
+  Sense 47 (ID: ENG30-15117809-n):
+    Definiție: Perioadă de timp în care un element (mașină sau fabrică) este în funcțiune și apt de utilizare
+    Literals: timp_de_funcționare
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15113229-n (durată, interval_de_timp, perioadă, timp)
+      - domain_TOPIC: ENG30-03316406-n (fabrică, uzină)
+      - hyponym: ENG30-15118011-n (24/7)
+
+  Sense 48 (ID: ENG30-13806140-n):
+    Definiție: Timp al verbului care exprimă o acțiune petrecută și încheiată în trecut
+    Literals: perfect, timp_perfect
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-06329506-n (timp)
+      - hyponym: ENG30-13806404-n (perfect, perfect_compus)
+      - hyponym: ENG30-13806735-n (mai_mult_ca_perfect)
+      - hyponym: ENG30-13807178-n (viitor_anterior)
+
+  Sense 49 (ID: ENG30-00120223-r):
+    Definiție: Care se suprapun ca desfășurare în timp
+    Literals: în_același_timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - near_derived_from: ENG30-02378496-a (coincident)
+
+  Sense 50 (ID: ENG30-15294607-n):
+    Definiție: Timpul cuprins între primul contact al organismului cu microbii sau cu virușii unei boli și primele simptoame ale bolii provocate de aceștia.
+    Literals: incubație, perioadă_de_incubație, timp_de_incubație
+    PNO Scores: P=0.125, N=0.25, O=0.625
+    Relații semantice:
+      - hypernym: ENG30-15113229-n (durată, interval_de_timp, perioadă, timp)
+
+  Sense 51 (ID: ENG30-00167816-r):
+    Definiție: Fără să întârzie
+    Literals: la_timp
+    PNO Scores: P=0.0, N=0.375, O=0.625
+    Relații semantice:
+      Nicio relație găsită.
+
+  Sense 52 (ID: ENG30-15293227-n):
+    Definiție: perioadă în care nu este niciun război
+    Literals: vreme_de_pace, timp_de_pace
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15113229-n (durată, interval_de_timp, perioadă, timp)
+
+  Sense 53 (ID: ENG30-15269513-n):
+    Definiție: interval de timp între două perioade sau între două momente diferite
+    Literals: interval, răstimp, interval_de_timp
+    PNO Scores: P=0.5, N=0.0, O=0.5
+    Relații semantice:
+      - hypernym: ENG30-00033615-n (cantitate, câtime)
+      - hyponym: ENG30-15171857-n (timp_de_acces)
+      - hyponym: ENG30-15172212-n (perioadă, răstimp, timp)
+      - hyponym: ENG30-15172664-n ()
+      - hyponym: ENG30-15269128-n (timp_de_căutare)
+      - hyponym: ENG30-15270245-n (fereastră)
+      - hyponym: ENG30-15270862-n (absență)
+      - hyponym: ENG30-15271008-n (pauză)
+      - hyponym: ENG30-15272685-n (interludiu)
+      - hyponym: ENG30-15272887-n (interimat)
+      - hyponym: ENG30-15273241-n (timp_de_reacție, timp_de_răspuns)
+      - hyponym: ENG30-15273406-n (eternitate, veșnicie)
+      - hyponym: ENG30-15287830-n (ciclu)
+      - hyponym: ENG30-15289779-n (perioadă)
+      - hyponym: ENG30-15297672-n (timp_de_prelucrare)
+
+  Sense 54 (ID: ENG30-15133903-n):
+    Definiție: perioadă cât durează traversarea unui eveniment cronometrat
+    Literals: timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-15133621-n (durată)
+      - near_eng_derivat: ENG30-00490968-v (cronometra)
+
+  Sense 55 (ID: ENG30-15122011-n):
+    Definiție: bătaia (timpii accentuați ai) ritmului muzical
+    Literals: timp, bătaie
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00028270-n (timp)
+      - domain_TOPIC: ENG30-07020895-n (muzică)
+      - hyponym: ENG30-07086518-n (ritm)
+      - hyponym: ENG30-15264010-n (patru_pătrimi)
+      - hyponym: ENG30-15264363-n (tempo)
+
+  Sense 56 (ID: ENG30-00017881-r):
+    Definiție: În același timp cu
+    Literals: în_același_timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      Nicio relație găsită.
+
+  Sense 57 (ID: ENG30-00388379-r):
+    Definiție: De-a lungul timpului
+    Literals: în_timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      Nicio relație găsită.
+
+  Sense 58 (ID: ENG30-00171457-r):
+    Definiție: La ora la care trebuie
+    Literals: în_timp, la_timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      Nicio relație găsită.
+
+  Sense 59 (ID: ENG30-00171457-r):
+    Definiție: La ora la care trebuie
+    Literals: în_timp, la_timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      Nicio relație găsită.
+
+  Sense 60 (ID: ENG30-00431552-n):
+    Definiție: ocupație favorită a cuiva în afara profesiunii
+    Literals: ocupație_de_timp_liber
+    PNO Scores: P=0.125, N=0.0, O=0.875
+    Relații semantice:
+      - hypernym: ENG30-00426928-n (amuzament, distracție, divertisment)
+      - near_eng_derivat: ENG30-02375131-v (|se| antrena, |se| angrena)
+      - hyponym: ENG30-00432689-n (hobby, pasiune)
+
+  Sense 61 (ID: ENG30-01067819-n):
+    Definiție: Acțiunea deliberată de a face alte activități decât a munci
+    Literals: pierdere_de_timp, pierdere_de_vreme
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01066163-n (întârziere, amânare)
+      - near_eng_derivat: ENG30-02708123-v (|-și| pierde_vremea)
+      - near_eng_derivat: ENG30-02011685-v (pierde_vremea, tăia_frunză_la_câini, pierde_timpul)
+
+  Sense 62 (ID: ENG30-00120095-r):
+    Definiție: în același moment de timp
+    Literals: concomitent, simultan, în_același_timp
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - near_derived_from: ENG30-02378496-a (coincident)
+
+
+Cuvânt: alerga (verb)
+----------------------------------------
+  Sense 1 (ID: ENG30-01086103-v):
+    Definiție: A participa la probele de alergări în cadrul unei competiții sportive.
+    Literals: alerga
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01072262-v ([se] înfrunta, [se] întâlni, [se] întrece, [se] confrunta)
+      - near_eng_derivat: ENG30-07460104-n (alergare, cros)
+      - near_eng_derivat: ENG30-10542888-n (alergător)
+      - near_eng_derivat: ENG30-00440039-n (alergare)
+      - near_eng_derivat: ENG30-07458453-n (cursă)
+      - near_eng_derivat: ENG30-07472657-n (cursă)
+      - near_eng_derivat: ENG30-04037443-n (mașină_de_curse)
+      - near_eng_derivat: ENG30-02384858-n (animal_de_cursă)
+      - near_eng_derivat: ENG30-00449295-n (cursă)
+      - hyponym: ENG30-01086691-v ()
+      - hyponym: ENG30-01086854-v ()
+      - hyponym: ENG30-01086965-v (concura, alerga)
+      - hyponym: ENG30-01094086-v (candida)
+
+  Sense 2 (ID: ENG30-01902405-v):
+    Definiție: A se deplasa cu pași repezi, a se mișca iute într-o direcție, a merge în fugă
+    Literals: alerga, fugi, [se] grăbi
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01926311-v (alerga, fugi)
+      - near_eng_derivat: ENG30-00556142-n (da_bir_cu_fugiții)
+
+  Sense 3 (ID: ENG30-01914947-v):
+    Definiție: a fugi pe o anumită distanță
+    Literals: alerga
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02050132-v (trece)
+      - near_eng_derivat: ENG30-00293916-n (alergare, alergătură)
+      - near_eng_derivat: ENG30-07460104-n (alergare, cros)
+      - verb_group: ENG30-01926311-v (alerga, fugi)
+
+  Sense 4 (ID: ENG30-02058994-v):
+    Definiție: A acționa sau a face pe cineva să acționeze (mai) repede.
+    Literals: goni, alerga
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01835496-v (|se| deplasa, merge)
+      - near_eng_derivat: ENG30-15282696-n (viteză)
+      - near_eng_derivat: ENG30-05058140-n (iuțeală, rapiditate, viteză, repeziciune)
+      - near_eng_derivat: ENG30-00330160-n (grabă, viteză, zor)
+      - near_also_see: ENG30-00438178-v (accelera, iuți)
+      - near_eng_derivat: ENG30-00555648-n (grabă, repezeală)
+      - near_antonym: ENG30-02058590-v (zăbovi)
+      - hyponym: ENG30-01996574-v ([se] grăbi)
+      - hyponym: ENG30-02055267-v ([se] năpusti, năvăli, da_năvală, tăbărî)
+      - hyponym: ENG30-02061495-v (avânta, sări, |se| arunca, |se| azvârli, |se| repezi)
+
+  Sense 5 (ID: ENG30-02073065-v):
+    Definiție: (figurativ (Despre vreme sau despre unități de timp)) A trece repede, a se scurge rapid.
+    Literals: alerga, fugi, goni, zbura
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - verb_group: ENG30-00153061-v ([se] evapora, vaporiza)
+      - hypernym: ENG30-02072849-v ([se] scurge, trece)
+
+  Sense 6 (ID: ENG30-02092309-v):
+    Definiție: a determina un animal să se miște repede
+    Literals: alerga, fugări, goni
+    PNO Scores: P=0.0, N=0.125, O=0.875
+    Relații semantice:
+      - hypernym: ENG30-01850315-v ()
+      - near_eng_derivat: ENG30-00293916-n (alergare, alergătură)
+      - near_eng_derivat: ENG30-07460104-n (alergare, cros)
+      - verb_group: ENG30-01143838-v (vâna)
+
+  Sense 7 (ID: ENG30-01086965-v):
+    Definiție: a participa la o cursă de cai
+    Literals: concura, alerga
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01086103-v (alerga)
+
+  Sense 8 (ID: ENG30-02099829-v):
+    Definiție: A umbla de colo până colo, fără o țintă precisă.
+    Literals: alerga
+    PNO Scores: P=0.0, N=0.5, O=0.5
+    Relații semantice:
+      - verb_group: ENG30-01926984-v (fugi, da_fuga, trage_o_fugă)
+      - hypernym: ENG30-01835496-v (|se| deplasa, merge)
+      - near_eng_derivat: ENG30-13995935-n (conducere, șefie)
+      - verb_group: ENG30-02421921-v (da_drumul)
+
+  Sense 9 (ID: ENG30-01928390-v):
+    Definiție: a face o alergare ușoară pentru întreținerea sănătății
+    Literals: alerga, face_jogging
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01926311-v (alerga, fugi)
+      - domain_TOPIC: ENG30-00523513-n (atletism)
+      - near_eng_derivat: ENG30-00294190-n (alergare_ușoară)
+      - near_eng_derivat: ENG30-10223459-n ()
+      - near_eng_derivat: ENG30-00628390-n (jogging)
+
+  Sense 10 (ID: ENG30-01926311-v):
+    Definiție: A se deplasa cu pași repezi, a se mișca iute într-o direcție, a merge în fugă;
+    Literals: alerga, fugi
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - verb_group: ENG30-01914947-v (alerga)
+      - hypernym: ENG30-02055649-v (accelera, iuți, zori, |se| grăbi)
+      - near_eng_derivat: ENG30-00293916-n (alergare, alergătură)
+      - near_eng_derivat: ENG30-07460104-n (alergare, cros)
+      - near_eng_derivat: ENG30-10542761-n (alergător)
+      - near_also_see: ENG30-01883716-v (|se| zbengui, zburda)
+      - near_also_see: ENG30-02075049-v (fugi, scăpa, [o] lua_la_goană, [se] face_nevăzut)
+      - hyponym: ENG30-01901447-v (|se| grăbi, [o] lua_la_trap)
+      - hyponym: ENG30-01902405-v (alerga, fugi, [se] grăbi)
+      - hyponym: ENG30-01926878-v (alerga_sprinten)
+      - hyponym: ENG30-01927330-v ()
+      - hyponym: ENG30-01927447-v ()
+      - hyponym: ENG30-01927608-v (întrece, depăși, lăsa_în_urmă)
+      - hyponym: ENG30-01928390-v (alerga, face_jogging)
+      - hyponym: ENG30-01928579-v (sprinta)
+      - hyponym: ENG30-01928730-v ()
+      - hyponym: ENG30-02059770-v (fi_la_balon)
+
+  Sense 11 (ID: ENG30-01926878-v):
+    Definiție: A alerga ușor și relativ repde
+    Literals: alerga_sprinten
+    PNO Scores: P=0.125, N=0.0, O=0.875
+    Relații semantice:
+      - hypernym: ENG30-01926311-v (alerga, fugi)
+      - near_eng_derivat: ENG30-10538154-n (neastâmpărat, nebunatic, zburdalnic)
+
+
+Cuvânt: mânca (verb)
+----------------------------------------
+  Sense 1 (ID: ENG30-01196802-v):
+    Definiție: a mânca toată mâncarea dintr-o farfurie
+    Literals: mânca_tot
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01168468-v (mânca)
+      - hyponym: ENG30-01173208-v (|se| ghiftui, îmbuiba, îndopa)
+
+  Sense 2 (ID: ENG30-01254324-v):
+    Definiție: a produce sau a suferi o eroziune; a (se) roade
+    Literals: eroda, mânca
+    PNO Scores: P=0.0, N=0.5, O=0.5
+    Relații semantice:
+      - hypernym: ENG30-00173338-v (îndepărta, înlătura)
+      - hyponym: ENG30-01254013-v (toci)
+
+  Sense 3 (ID: ENG30-01250908-v):
+    Definiție: A produce o senzație de mâncărime.
+    Literals: mânca
+    PNO Scores: P=0.0, N=0.25, O=0.75
+    Relații semantice:
+      - hypernym: ENG30-01205696-v (întâlni, atinge, lua_contact)
+      - near_eng_derivat: ENG30-14286549-n (zgârietură)
+      - near_eng_derivat: ENG30-14333136-n (rosătură)
+      - near_eng_derivat: ENG30-11459538-n (frecare)
+
+  Sense 4 (ID: ENG30-01195804-v):
+    Definiție: (peior.) a risipi, a irosi bani pe ceva, cu cineva etc.
+    Literals: risipi, mânca
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01158181-v (arunca_banii_pe_fereastră, cheltui, risipi, zvârli)
+      - entailment: ENG30-01157517-v (consuma, mânca, dovedi)
+      - near_eng_derivat: ENG30-00742645-n (irosire, risipă)
+
+  Sense 5 (ID: ENG30-00274283-v):
+    Definiție: A se distruge printr-o acțiune lentă și îndelungată de măcinare, de frecare, datorată acțiunii apei, a aerului sau a unui acid.
+    Literals: ataca, mânca, |se| roade
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00258857-v (strica)
+      - near_eng_derivat: ENG30-14889479-n (rugină)
+      - near_eng_derivat: ENG30-13552270-n (ruginire)
+      - near_eng_derivat: ENG30-00587376-a (caustic, coroziv)
+      - near_eng_derivat: ENG30-13453428-n (coroziune)
+      - verb_group: ENG30-00273963-v (|se| rugini, |se| coroda)
+
+  Sense 6 (ID: ENG30-01179865-v):
+    Definiție: a hrăni animalele cu furaje
+    Literals: mânca
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01156834-v (consuma, obișnui, sevi)
+      - near_eng_derivat: ENG30-00838367-n (mâncare, mâncat, hrănire)
+      - near_eng_derivat: ENG30-07800091-n (furaj, nutreț)
+      - near_eng_derivat: ENG30-10042300-n (mâncător)
+      - verb_group: ENG30-01168468-v (mânca)
+      - hyponym: ENG30-01177699-v ([se] hrăni)
+      - hyponym: ENG30-01576165-v (paște, pășuna)
+
+  Sense 7 (ID: ENG30-01168468-v):
+    Definiție: A mesteca un aliment în gură și a-l înghiți
+    Literals: mânca
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01166351-v (lua_masa)
+      - verb_group: ENG30-01179865-v (mânca)
+      - entailment: ENG30-01201089-v (mesteca)
+      - entailment: ENG30-01201856-v (înghiți, ingera)
+      - hypernym: ENG30-01156834-v (consuma, obișnui, sevi)
+      - near_eng_derivat: ENG30-10042300-n (mâncător)
+      - near_eng_derivat: ENG30-00838367-n (mâncare, mâncat, hrănire)
+      - hyponym: ENG30-01167290-v (uda)
+      - hyponym: ENG30-01169067-v ([se] ghiftui, [se] îndopa, [se] îmbuiba)
+      - hyponym: ENG30-01169205-v (devora)
+      - hyponym: ENG30-01169328-v ()
+      - hyponym: ENG30-01172969-v ()
+      - hyponym: ENG30-01173057-v ()
+      - hyponym: ENG30-01173656-v (ciuguli, ciupi)
+      - hyponym: ENG30-01173933-v (înfuleca)
+      - hyponym: ENG30-01174099-v (|se| îndopa)
+      - hyponym: ENG30-01174294-v (ciuguli, ciupi, piguli)
+      - hyponym: ENG30-01174555-v (rumega)
+      - hyponym: ENG30-01192312-v (înmuia, muia, întinge)
+      - hyponym: ENG30-01196653-v (hăpăi, devora, [se] lăcomi)
+      - hyponym: ENG30-01196802-v (mânca_tot)
+      - hyponym: ENG30-01197014-v (devora)
+      - hyponym: ENG30-01203893-v ([se] sătura)
+
+  Sense 8 (ID: ENG30-02730682-v):
+    Definiție: (Precedat de un pron. pers. la acuz.; despre corp sau despre părți ale corpului) A produce o senzație de mâncărime.
+    Literals: mânca
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02730471-v (|se| simți)
+
+  Sense 9 (ID: ENG30-01167537-v):
+    Definiție: a mânca acasă
+    Literals: mânca_acasă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01166351-v (lua_masa)
+      - near_antonym: ENG30-01167640-v ()
+
+  Sense 10 (ID: ENG30-02702674-v):
+    Definiție: A costa o anumită sună de bani
+    Literals: mânca, păpa
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02702508-v (costa, fi, face)
+
+  Sense 11 (ID: ENG30-01157517-v):
+    Definiție: A întrebuința, a folosi ceva pentru satisfacerea unor trebuințe proprii sau pentru a obține alte produse
+    Literals: consuma, mânca, dovedi
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02267060-v (cheltui)
+      - near_eng_derivat: ENG30-00356621-n (epuizare, isprăvire, terminare)
+      - near_eng_derivat: ENG30-14017332-n (secătuire, epuizare)
+      - near_eng_derivat: ENG30-00356199-n (epuizare, secătuire, sleire)
+      - hyponym: ENG30-00561714-v (epuiza, isprăvi, termina, sfârși)
+      - hyponym: ENG30-01158022-v (seca, stoarce, slei, secătui)
+      - hyponym: ENG30-01191645-v (huzuri, lăfăi)
+      - hyponym: ENG30-01205000-v (arde)
+      - hyponym: ENG30-02267529-v (cheltui)
+      - verb_group: ENG30-02267989-v (dura, lua)
+      - hyponym: ENG30-02280869-v (epuiza, isprăvi, consuma)
+
+  Sense 12 (ID: ENG30-01766273-v):
+    Definiție: (figurativ (Despre nenorociri, stări sufletești etc.)) A face pe cineva să sufere
+    Literals: frământa, mânca, roade
+    PNO Scores: P=0.25, N=0.0, O=0.75
+    Relații semantice:
+      - hypernym: ENG30-01765908-v (neliniști, îngrijora)
+
+
+Cuvânt: vorbi (verb)
+----------------------------------------
+  Sense 1 (ID: ENG30-00830761-v):
+    Definiție: A face o expunere; a ține un discurs
+    Literals: ține_o_prelegere, conferenția, vorbi
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00829107-v (învăța, instrui)
+      - near_eng_derivat: ENG30-07240549-n (conferință_publică, prelegere)
+      - near_eng_derivat: ENG30-10630188-n (conferențiar, orator, vorbitor)
+      - near_eng_derivat: ENG30-00892861-n (lecție)
+      - near_eng_derivat: ENG30-10252222-n (lector)
+      - near_eng_derivat: ENG30-10252547-n (lector, cititor)
+      - hyponym: ENG30-00828003-v (predica, propovădui)
+
+  Sense 2 (ID: ENG30-00915830-v):
+    Definiție: A vorbi încet, în taină, a spune ceva în șoaptă
+    Literals: șopti, vorbi_încet, șușoti, șopoti
+    PNO Scores: P=0.0, N=0.25, O=0.75
+    Relații semantice:
+      - hypernym: ENG30-00941990-v (spune, vorbi, zice)
+      - near_eng_derivat: ENG30-07130341-n (șoaptă, șușoteală, șușotit)
+      - near_eng_derivat: ENG30-10777299-n (șoptitor)
+      - near_antonym: ENG30-00912473-v (țipa, striga)
+
+  Sense 3 (ID: ENG30-00941990-v):
+    Definiție: A exprima prin viu grai un gând, o părere
+    Literals: spune, vorbi, zice
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00740577-v (mărturisi, spune, comunica)
+      - near_eng_derivat: ENG30-10630188-n (conferențiar, orator, vorbitor)
+      - near_eng_derivat: ENG30-06721949-n (impertinență, insolență, obrăznicie)
+      - near_eng_derivat: ENG30-10335801-n (vorbitor)
+      - near_eng_derivat: ENG30-05301908-n (gură)
+      - near_eng_derivat: ENG30-05302499-n (gură, cavitate_bucală)
+      - hyponym: ENG30-01051956-v (declama)
+      - near_eng_derivat: ENG30-07109847-n (exprimare, rostire)
+      - near_eng_derivat: ENG30-07130050-n (cuvânt, cuvântare, discurs)
+      - near_eng_derivat: ENG30-07129867-n (vorbire)
+      - near_eng_derivat: ENG30-07139316-n ()
+      - near_eng_derivat: ENG30-07135734-n (convorbire, dialog, discuție)
+      - hyponym: ENG30-00626428-v (citi)
+      - hyponym: ENG30-00745187-v (vocaliza)
+      - hyponym: ENG30-00745383-v (tărăgăna)
+      - hyponym: ENG30-00747640-v (începe)
+      - hyponym: ENG30-00912473-v (țipa, striga)
+      - hyponym: ENG30-00915830-v (șopti, vorbi_încet, șușoti, șopoti)
+      - hyponym: ENG30-00916011-v (pițigăia)
+      - hyponym: ENG30-00916274-v ([se] repezi)
+      - hyponym: ENG30-00916679-v ([se] entuziasma)
+      - hyponym: ENG30-00941037-v (bolborosi, îndruga, îngâna, îngăima, îngăla, înghiți)
+      - hyponym: ENG30-00943281-v (vorbi, vorbi_verzi_și_uscate, îndruga_verzi_și_uscate)
+      - hyponym: ENG30-00943563-v (vorbi)
+      - hyponym: ENG30-00944788-v (zumzăi)
+      - hyponym: ENG30-00981544-v (bâlbâi)
+      - hyponym: ENG30-00981814-v ()
+      - hyponym: ENG30-00981944-v (trânti, scăpa, strecura)
+      - hyponym: ENG30-00982293-v (modula)
+      - hyponym: ENG30-00989602-v (rosti, ține)
+      - hyponym: ENG30-01022906-v (generaliza)
+      - hyponym: ENG30-01036804-v (melița, flecări, leorbăi, pălăvrăgi, sporovăi, trăncăni)
+      - hyponym: ENG30-01037303-v (clămpăni)
+      - hyponym: ENG30-01037498-v (melița, flecări, leorbăi, pălăvrăgi, sporovăi, trăncăni)
+      - hyponym: ENG30-01041298-v (vorbi_liber)
+      - hyponym: ENG30-01042531-v ([se] tângui, [se] jeli, [se] văicări)
+      - hyponym: ENG30-01044114-v (murmura)
+      - hyponym: ENG30-01044533-v (îndruga, bombăni, molfăi, mormăi, îngăima)
+      - hyponym: ENG30-01047596-v ([se] răsti, urla)
+      - hyponym: ENG30-01048073-v (mârâi)
+      - hyponym: ENG30-01054186-v (sâsâi)
+      - hyponym: ENG30-01056554-v (chicoti, hâhâi)
+      - hyponym: ENG30-01065630-v (gângăvi)
+      - hyponym: ENG30-01066775-v (scanda)
+      - hyponym: ENG30-01067002-v (sorbi)
+      - hyponym: ENG30-01729431-v (cânta, intona)
+
+  Sense 4 (ID: ENG30-00943281-v):
+    Definiție: a vorbi mult și fără rost
+    Literals: vorbi, vorbi_verzi_și_uscate, îndruga_verzi_și_uscate
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00941990-v (spune, vorbi, zice)
+
+  Sense 5 (ID: ENG30-00943281-v):
+    Definiție: a vorbi mult și fără rost
+    Literals: vorbi, vorbi_verzi_și_uscate, îndruga_verzi_și_uscate
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00941990-v (spune, vorbi, zice)
+
+  Sense 6 (ID: ENG30-00943563-v):
+    Definiție: a discuta sau a menționa
+    Literals: vorbi
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00941990-v (spune, vorbi, zice)
+      - hyponym: ENG30-00813978-v (discuta, vorbi)
+
+  Sense 7 (ID: ENG30-00962447-v):
+    Definiție: a face schimb de gânduri, de idei, a vorbi cu
+    Literals: conversa, dialoga, discuta, vorbi
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00740577-v (mărturisi, spune, comunica)
+      - near_eng_derivat: ENG30-07110457-n (conversație, discuție)
+      - near_eng_derivat: ENG30-00496938-a (comunicativ, expansiv, sociabil, volubil)
+      - near_eng_derivat: ENG30-07139316-n ()
+      - near_eng_derivat: ENG30-07135734-n (convorbire, dialog, discuție)
+      - hyponym: ENG30-00781000-v (continua, urma)
+      - hyponym: ENG30-00814621-v (vorbi)
+      - hyponym: ENG30-00828754-v (pontifica)
+      - hyponym: ENG30-00828901-v (perora)
+      - hyponym: ENG30-00963283-v (dogmatiza)
+      - hyponym: ENG30-00963452-v (fi_necuviincios)
+      - hyponym: ENG30-00964478-v (monologa)
+      - hyponym: ENG30-00964694-v (conversa, discuta)
+      - hyponym: ENG30-01037910-v (cocheta, flirta)
+      - hyponym: ENG30-01041954-v (bârfi, cleveti)
+      - hyponym: ENG30-01042432-v (pălăvrăgi, sporovăi, trăncăni)
+
+  Sense 8 (ID: ENG30-00963570-v):
+    Definiție: a articula cuvinte
+    Literals: grăi, vorbi
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00740577-v (mărturisi, spune, comunica)
+      - near_eng_derivat: ENG30-07135734-n (convorbire, dialog, discuție)
+      - near_eng_derivat: ENG30-10630188-n (conferențiar, orator, vorbitor)
+      - near_eng_derivat: ENG30-05650820-n (limbă, limbaj, vorbire)
+      - near_eng_derivat: ENG30-07129867-n (vorbire)
+      - hyponym: ENG30-00964110-v (vorbi_murdar)
+
+  Sense 9 (ID: ENG30-02601456-v):
+    Definiție: a folosi, în dialogul cu cineva, o anumită formulă, titlu sau nume
+    Literals: [se] adresa, vorbi, spune
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - verb_group: ENG30-01028748-v (denumi, numi, spune, boteza)
+      - hypernym: ENG30-00897564-v (|se| adresa)
+
+  Sense 10 (ID: ENG30-00813978-v):
+    Definiție: a sta de vorbă cu cineva despre ceva
+    Literals: discuta, vorbi
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00943563-v (vorbi)
+      - near_eng_derivat: ENG30-07140659-n (discuție)
+      - hyponym: ENG30-00761713-v (negocia, trata)
+      - hyponym: ENG30-00762478-v (negocia, parlamenta, trata)
+      - hyponym: ENG30-00812580-v (delibera, dezbate)
+      - hyponym: ENG30-00813044-v (chibzui, cântări)
+      - hyponym: ENG30-00813651-v (schimba_câteva_cuvinte)
+      - hyponym: ENG30-00813790-v (modera, prezida)
+      - hyponym: ENG30-00872886-v (îndruma, consilia, povățui, sfătui)
+      - hyponym: ENG30-00876665-v ([se] consfătui, [se] consulta, [se] sfătui)
+      - hyponym: ENG30-00964911-v (aduce_vorba, deschide_subiectul)
+      - hyponym: ENG30-01064151-v (dezbate, discuta, diseca)
+
+  Sense 11 (ID: ENG30-01034312-v):
+    Definiție: A analiza, a interpreta critic textul unei opere literare, istorice, un articol de lege etc
+    Literals: discuta, vorbi, comenta, analiza, interpreta
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01033527-v (aborda, trata)
+      - near_eng_derivat: ENG30-07138085-n (dezbatere, discuție)
+      - hyponym: ENG30-01034647-v (vorbi_pe_larg)
+
+  Sense 12 (ID: ENG30-07136578-n):
+    Definiție: A vorbi în așa fel încât doar cei care își desfășoară activitatea în același domeniu pot înțelege
+    Literals: vorbi_în_jargon
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-07135734-n (convorbire, dialog, discuție)
+
+  Sense 13 (ID: ENG30-00848169-v):
+    Definiție: A vorbi în termeni injurioși sau calomniatori de cineva
+    Literals: vorbi_de_rău, bârfi
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00846509-v (defăima, calomnia, ponegri, denigra, detracta)
+      - near_eng_derivat: ENG30-06719579-n (calomnie, defăimare)
+      - near_eng_derivat: ENG30-09999135-n (calomniator, clevetitor, denigrator, ponegritor)
+      - near_eng_derivat: ENG30-06720216-n (calomniere, defăimare, ponegrire)
+
+  Sense 14 (ID: ENG30-00980176-v):
+    Definiție: a vorbi rar, lungind fiecare silabă.
+    Literals: vorbi_tărăgănat, tărăgăna_vorba
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00978549-v (articula, pronunța, rosti)
+      - near_eng_derivat: ENG30-07131741-n (tărăgănare)
+
+  Sense 15 (ID: ENG30-01034647-v):
+    Definiție: A vorbi în amănunțime despre un subiect
+    Literals: vorbi_pe_larg
+    PNO Scores: P=0.25, N=0.0, O=0.75
+    Relații semantice:
+      - hypernym: ENG30-01034312-v (discuta, vorbi, comenta, analiza, interpreta)
+
+  Sense 16 (ID: ENG30-01041298-v):
+    Definiție: A vorbi fără inhibiții
+    Literals: vorbi_liber
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00941990-v (spune, vorbi, zice)
+      - near_antonym: ENG30-01041061-v (amuți, muți, tăcea)
+
+  Sense 17 (ID: ENG30-00964110-v):
+    Definiție: a folosi un limbaj vulgar sau termeni argotici
+    Literals: vorbi_murdar
+    PNO Scores: P=0.0, N=0.25, O=0.75
+    Relații semantice:
+      - hypernym: ENG30-00963570-v (grăi, vorbi)
+      - near_eng_derivat: ENG30-07157273-n (jargon)
+
+  Sense 18 (ID: ENG30-00814621-v):
+    Definiție: A ține un discurs
+    Literals: vorbi
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00962447-v (conversa, dialoga, discuta, vorbi)
+      - near_eng_derivat: ENG30-06409085-n (disertație)
+
+  Sense 19 (ID: ENG30-00952841-v):
+    Definiție: A destăinui informații despre cineva sau ceva
+    Literals: vorbi
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - verb_group: ENG30-00937208-v (lua_gura_pe_dinainte, ciripi, trăncăni, turna)
+      - hypernym: ENG30-00952524-v (comunica, transmite, zice, spune)
+      - near_eng_derivat: ENG30-07135734-n (convorbire, dialog, discuție)
+
+  Sense 20 (ID: ENG30-01027668-v):
+    Definiție: A vorbi fără teamă sau ezitare
+    Literals: vorbi_deschis
+    PNO Scores: P=0.0, N=0.625, O=0.375
+    Relații semantice:
+      - hypernym: ENG30-01010118-v (declara, afirma)
+      - near_eng_derivat: ENG30-06782019-n (opinie, părere, idee, punct_de_vedere)
+
+
+Cuvânt: frumos (adj)
+----------------------------------------
+  Sense 1 (ID: ENG30-00220082-a):
+    Definiție: plăcut, armonios, estetic.
+    Literals: frumos
+    PNO Scores: P=0.875, N=0.125, O=0.0
+    Relații semantice:
+      - similar_to: ENG30-00217728-a (frumos)
+      - near_eng_derivat: ENG30-04685649-n (drăgălășenie)
+
+  Sense 2 (ID: ENG30-01130932-a):
+    Definiție: Expresie: A fi frumos (din partea cuiva) = a se cuveni, a fi cuviincios; a fi lăudabil
+    Literals: frumos
+    PNO Scores: P=0.75, N=0.0, O=0.25
+    Relații semantice:
+      - similar_to: ENG30-01129977-a (bun)
+
+  Sense 3 (ID: ENG30-01484342-a):
+    Definiție: feminin și atrăgător
+    Literals: frumos
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - near_eng_derivat: ENG30-04685396-n (drăgălășenie, farmec)
+
+  Sense 4 (ID: ENG30-01052611-a):
+    Definiție: Care răspândește un miros plăcut
+    Literals: frumos_mirositor, odorant, odorifer
+    PNO Scores: P=0.125, N=0.0, O=0.875
+    Relații semantice:
+      - near_eng_derivat: ENG30-04980463-n (aromă, mireasmă, parfum)
+
+  Sense 5 (ID: ENG30-00242006-r):
+    Definiție: De o manieră plăcută ochiului
+    Literals: agreabil, drăguț, estetic, frumos, plăcut
+    PNO Scores: P=0.375, N=0.0, O=0.625
+    Relații semantice:
+      - near_antonym: ENG30-00242172-r (neatrăgător)
+      - near_derived_from: ENG30-00166146-a (atractiv, atrăgător)
+      - near_derived_from: ENG30-00217728-a (frumos)
+
+  Sense 6 (ID: ENG30-00187028-r):
+    Definiție: În mod plăcut, armonios, estetic
+    Literals: frumos
+    PNO Scores: P=0.25, N=0.0, O=0.75
+    Relații semantice:
+      - near_derived_from: ENG30-01586342-a (plăcut)
+
+  Sense 7 (ID: ENG30-00431396-r):
+    Definiție: De o manieră frumoasă
+    Literals: frumos
+    PNO Scores: P=0.5, N=0.0, O=0.5
+    Relații semantice:
+      - near_derived_from: ENG30-00220082-a (frumos)
+
+  Sense 8 (ID: ENG30-00069531-a):
+    Definiție: care privește frumosul, care corespunde cerințelor esteticii
+    Literals: frumos
+    PNO Scores: P=0.625, N=0.0, O=0.375
+    Relații semantice:
+      - near_eng_derivat: ENG30-06161223-n (estetică)
+      - near_eng_derivat: ENG30-05968971-n (estetic)
+
+  Sense 9 (ID: ENG30-02519666-v):
+    Definiție: A avea o conduită manierată
+    Literals: [se] comporta_frumos, [se] purta_frumos
+    PNO Scores: P=0.375, N=0.0, O=0.625
+    Relații semantice:
+      - hypernym: ENG30-02367363-v (acționa)
+      - near_eng_derivat: ENG30-04910377-n (ținută, atitudine)
+      - near_antonym: ENG30-02517202-v (face_prostii)
+      - hyponym: ENG30-02518839-v (merge, [o] duce, fi)
+
+  Sense 10 (ID: ENG30-02519666-v):
+    Definiție: A avea o conduită manierată
+    Literals: [se] comporta_frumos, [se] purta_frumos
+    PNO Scores: P=0.375, N=0.0, O=0.625
+    Relații semantice:
+      - hypernym: ENG30-02367363-v (acționa)
+      - near_eng_derivat: ENG30-04910377-n (ținută, atitudine)
+      - near_antonym: ENG30-02517202-v (face_prostii)
+      - hyponym: ENG30-02518839-v (merge, [o] duce, fi)
+
+  Sense 11 (ID: ENG30-01800764-a):
+    Definiție: (Despre timp) Senin, calm ( din punctul de vedere al stării atmosferice).
+    Literals: frumos
+    PNO Scores: P=0.625, N=0.0, O=0.375
+    Relații semantice:
+      - similar_to: ENG30-01800349-a (plăcut, agreabil)
+
+  Sense 12 (ID: ENG30-00217728-a):
+    Definiție: Care place pentru armonia liniilor, mișcărilor, culorilor etc.
+    Literals: frumos
+    PNO Scores: P=0.75, N=0.0, O=0.25
+    Relații semantice:
+      - also_see: ENG30-00166146-a (atractiv, atrăgător)
+      - also_see: ENG30-01139352-a (delicat, grațios, suav)
+      - also_see: ENG30-01807219-a (plăcut)
+      - attribute: ENG30-04683814-n (frumusețe)
+      - near_antonym: ENG30-00220956-a (urât)
+      - similar_to: ENG30-00218440-a (atrăgător)
+      - similar_to: ENG30-00218950-a (arătos, chipeș)
+      - similar_to: ENG30-00219389-a (splendid)
+      - similar_to: ENG30-00219705-a (minunat)
+      - similar_to: ENG30-00219809-a (încântător, minunat, drăguț)
+      - similar_to: ENG30-00220082-a (frumos)
+      - similar_to: ENG30-00220600-a (pitoresc)
+
+
+Cuvânt: bun (adj)
+----------------------------------------
+  Sense 1 (ID: ENG30-00053097-n):
+    Definiție: faptul de a pleca cum se cuvine de undeva
+    Literals: bun_rămas
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00042757-n (îndepărtare, depărtare, plecare, pornire)
+      - near_eng_derivat: ENG30-02030158-v (împrăștia, despărți, răspândi, risipi, separa)
+      - near_eng_derivat: ENG30-02014165-v (pleca, porni, |se| duce)
+      - near_eng_derivat: ENG30-02015598-v (ieși)
+      - near_eng_derivat: ENG30-02009433-v (pleca)
+      - near_eng_derivat: ENG30-00613683-v (lăsa)
+      - hyponym: ENG30-00053525-n (salutare)
+
+  Sense 2 (ID: ENG30-05848541-n):
+    Definiție: regulă (nescrisă) care indică modul corect de comportare în anumite situații
+    Literals: regulă_de_bun_simț
+    PNO Scores: P=0.125, N=0.0, O=0.875
+    Relații semantice:
+      - hypernym: ENG30-05846054-n (regulă)
+
+  Sense 3 (ID: ENG30-03076708-n):
+    Definiție: Bunuri de larg consum.
+    Literals: bun
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00021939-n (artifact)
+      - hyponym: ENG30-02800793-n (coșul_zilnic)
+      - hyponym: ENG30-03093574-n (bunuri_de_larg_consum, bunuri)
+      - hyponym: ENG30-03252064-n (confecție)
+      - hyponym: ENG30-03306207-n (export)
+      - hyponym: ENG30-03403169-n (fungibil)
+      - hyponym: ENG30-03564667-n (import)
+      - hyponym: ENG30-03748886-n (marfă, produs)
+
+  Sense 4 (ID: ENG30-02290956-v):
+    Definiție: a fi benefic pentru cineva
+    Literals: fi_bun
+    PNO Scores: P=0.875, N=0.0, O=0.125
+    Relații semantice:
+      - hypernym: ENG30-00082081-v (ajuta)
+      - near_eng_derivat: ENG30-10191613-n (umanitarist)
+      - near_eng_derivat: ENG30-05142641-n (avantaj, beneficiu, câștig, profit)
+
+  Sense 5 (ID: ENG30-01129977-a):
+    Definiție: Care se achită de obligațiile morale și sociale
+    Literals: bun
+    PNO Scores: P=1.0, N=0.0, O=0.0
+    Relații semantice:
+      - also_see: ENG30-01123148-a (bun)
+      - also_see: ENG30-01548193-a (etic, moral)
+      - also_see: ENG30-02034828-a (corect)
+      - also_see: ENG30-02036578-a (drept)
+      - also_see: ENG30-02584981-a (valoros, meritoriu)
+      - near_eng_derivat: ENG30-04849241-n (blândețe, bunătate)
+      - near_antonym: ENG30-01131043-a (rău)
+      - similar_to: ENG30-01130261-a (angelic, serafic)
+      - similar_to: ENG30-01130733-a (izbăvitor, mântuitor, salvator)
+      - similar_to: ENG30-01130932-a (frumos)
+
+  Sense 6 (ID: ENG30-01123148-a):
+    Definiție: Care are calități.
+    Literals: bun
+    PNO Scores: P=0.75, N=0.0, O=0.25
+    Relații semantice:
+      - also_see: ENG30-00227507-a (cel_mai_bun)
+      - also_see: ENG30-00995775-a (favorabil)
+      - also_see: ENG30-01129977-a (bun)
+      - also_see: ENG30-01612053-a (obedient)
+      - also_see: ENG30-01993140-a (respectabil)
+      - attribute: ENG30-04723816-n (însușire, calitate, particularitate, trăsătură)
+      - near_eng_derivat: ENG30-05142180-n (bine, bun)
+      - near_antonym: ENG30-01125429-a (rău)
+      - similar_to: ENG30-01123879-a (tare, mișto)
+      - similar_to: ENG30-01124342-a (bunicel, bunișor)
+      - similar_to: ENG30-01124441-a (tare)
+      - similar_to: ENG30-01124574-a (compensator)
+      - similar_to: ENG30-01124768-a (convenabil, mulțumitor, satisfăcător)
+      - similar_to: ENG30-01125006-a (solid, substanțial, temeinic)
+      - similar_to: ENG30-01125154-a (excepțional, extraordinar, ideal, magistral, minunat, perfect, superb)
+      - similar_to: ENG30-01125241-a (binecrescut, manierat)
+
+  Sense 7 (ID: ENG30-01116026-a):
+    Definiție: Care este recunoscut, admis, acceptat ca fiind bun, adevărat, autentic.
+    Literals: bun, valabil
+    PNO Scores: P=0.5, N=0.0, O=0.5
+    Relații semantice:
+      - similar_to: ENG30-01115349-a (autentic)
+
+  Sense 8 (ID: ENG30-13329641-n):
+    Definiție: Ceea ce este util sau necesar societății sau individului pentru a-i asigura existența, bunăstarea.
+    Literals: bun
+    PNO Scores: P=0.25, N=0.0, O=0.75
+    Relații semantice:
+      - hypernym: ENG30-00032613-n (posesiune, proprietate)
+      - domain_USAGE: ENG30-06295235-n (plural, formă_de_plural)
+      - hyponym: ENG30-13285176-n (parte, participație)
+      - hyponym: ENG30-13309776-n (bază_de_impozitare)
+      - hyponym: ENG30-13330283-n (bani_de_primit)
+      - hyponym: ENG30-13330591-n (buzunar_adânc)
+      - hyponym: ENG30-13330764-n (capital_de_rezervă)
+      - hyponym: ENG30-13331198-n (sumă)
+      - hyponym: ENG30-13331778-n (resursă, rezervă)
+      - hyponym: ENG30-13332670-n (bun_intangibil)
+      - hyponym: ENG30-13333047-n (activ_lichid, activ_disponibil, disponibilități)
+      - hyponym: ENG30-13333237-n (investiție)
+      - hyponym: ENG30-13344071-n (asigurare)
+      - hyponym: ENG30-13353156-n (resurse_materiale)
+      - hyponym: ENG30-13353607-n (capital)
+      - hyponym: ENG30-13354420-n (mijloc)
+      - hyponym: ENG30-13356112-n (bani, finanțe, fonduri)
+      - hyponym: ENG30-13378518-n (credit)
+      - hyponym: ENG30-13407208-n (cont_debitor)
+
+  Sense 9 (ID: ENG30-13371030-n):
+    Definiție: (Concr.) Ceea ce este important, valoros
+    Literals: bun, valoare
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-13370669-n (comoară, tezaur)
+      - near_eng_derivat: ENG30-02500884-a (valoros)
+      - hyponym: ENG30-13371489-n (metal)
+
+  Sense 10 (ID: ENG30-10143172-n):
+    Definiție: un părinte al tatălui sau al mamei.
+    Literals: bunic, bun
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-10102369-n (străbun, strămoș)
+      - hyponym: ENG30-10142391-n (bunel, bunic, tată_mare, tataie)
+      - hyponym: ENG30-10142747-n (bunică, mamă-mare, mamaie)
+
+  Sense 11 (ID: ENG30-09876454-n):
+    Definiție: Fiecare dintre indivizii de sex masculin născuți din aceeași mamă și din același tată.
+    Literals: frate, frate_bun, frate_adevărat
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-10286084-n (frate)
+      - near_eng_derivat: ENG30-00291471-a (fratern, frățesc)
+      - near_antonym: ENG30-10602985-n (soră)
+      - hyponym: ENG30-09853467-n (frate_mai_mare)
+      - hyponym: ENG30-10267311-n (frățior)
+      - hyponym: ENG30-10654321-n (frate_vitreg)
+
+  Sense 12 (ID: ENG30-10135953-n):
+    Definiție: persoană care nu este utilă
+    Literals: bun_de_nimic, parazit, nepriceput
+    PNO Scores: P=0.125, N=0.125, O=0.75
+    Relații semantice:
+      - hypernym: ENG30-10197967-n (pierde-vară, târâie-brâu)
+      - near_eng_derivat: ENG30-02502578-a (bun_de_nimic)
+
+  Sense 13 (ID: ENG30-04007894-n):
+    Definiție: Bun material rezultat dintr-un proces de muncă
+    Literals: bun, produs
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-03129123-n (creație)
+      - near_eng_derivat: ENG30-01621555-v (produce, face, fabrica)
+      - hyponym: ENG30-02870092-n (tom, volum)
+      - hyponym: ENG30-02930492-n (produs_secundar)
+      - hyponym: ENG30-03287178-n (produs_final, rezultat)
+      - hyponym: ENG30-03574004-n (operă)
+      - hyponym: ENG30-03599761-n (lucru)
+      - hyponym: ENG30-03704210-n (revistă)
+      - hyponym: ENG30-03822171-n (ziar)
+      - hyponym: ENG30-03860882-n (producție)
+      - hyponym: ENG30-04599396-n (lucrare, rezultat)
+      - hyponym: ENG30-04612722-n (producție, produs, product)
+      - hyponym: ENG30-06613686-n (film, peliculă)
+
+  Sense 14 (ID: ENG30-05615147-n):
+    Definiție: Capacitate a omului de a înțelege, de a judeca, de a aprecia; înclinare, aptitudine pentru ceva.;
+    Literals: bun_simț, simț
+    PNO Scores: P=0.25, N=0.0, O=0.75
+    Relații semantice:
+      - hypernym: ENG30-05614657-n (bun-simț, judecată_sănătoasă)
+      - domain_REGION: ENG30-08860123-n (Marea_Britanie, Regatul_Unit_al_Marii_Britanii_și_al_Irlandei_de_Nord)
+
+  Sense 15 (ID: ENG30-00486018-v):
+    Definiție: A înfăptui ceva cu succes
+    Literals: duce_la_bun_sfârșit
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-00484166-v (încheia, lichida, sfârși, termina)
+      - near_eng_derivat: ENG30-01127379-n (îndeplinire, implementare, aplicare)
+      - near_eng_derivat: ENG30-03377582-n (continuare, urmare)
+      - near_eng_derivat: ENG30-00211593-n (duce_la_bun_sfârșit)
+      - near_eng_derivat: ENG30-00143251-n (reexaminare)
+      - near_eng_derivat: ENG30-00455348-n (continuare)
+      - hyponym: ENG30-00486557-v (urma_un_plan)
+      - verb_group: ENG30-01640855-v (împlini, îndeplini, înfăptui, realiza)
+
+  Sense 16 (ID: ENG30-01109259-v):
+    Definiție: " Scopul este să dăm ce e mai bun din noi la concurs "
+    Literals: da_totul, da_ce_e_mai_bun
+    PNO Scores: P=0.125, N=0.0, O=0.875
+    Relații semantice:
+      - hypernym: ENG30-01101913-v (bate, învinge)
+      - hyponym: ENG30-01110247-v (păcăli)
+
+  Sense 17 (ID: ENG30-13245626-n):
+    Definiție: partea de proprietate diferită de bunurile imobile
+    Literals: proprietate_personală, proprietate_mobiliară, bun_mobiliar
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-13244109-n (posesiune, proprietate, stăpânire)
+      - hyponym: ENG30-13245846-n (bunuri_personale)
+      - hyponym: ENG30-13246079-n (efect, lucru)
+      - hyponym: ENG30-13251154-n (calabalâc, catrafuse)
+
+  Sense 18 (ID: ENG30-13332670-n):
+    Definiție: bun care poate fi vândut, deși nu este material sau fizic
+    Literals: bun_intangibil
+    PNO Scores: P=0.0, N=0.625, O=0.375
+    Relații semantice:
+      - hypernym: ENG30-13329641-n (bun)
+
+  Sense 19 (ID: ENG30-06629392-n):
+    Definiție: exprimarea dorințelor de bine la despărțirea de cineva
+    Literals: bun_rămas, rămas_bun, numai_bine, cu_bine
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-06628861-n (înștiințare, anunț)
+      - hyponym: ENG30-06629610-n (la_revedere, pa, ciao)
+      - hyponym: ENG30-06632671-n (bună_dimineața, 'neața)
+      - hyponym: ENG30-06632807-n (bună_ziua, ziua_bună)
+      - hyponym: ENG30-06632947-n (noapte_bună)
+
+  Sense 20 (ID: ENG30-06629392-n):
+    Definiție: exprimarea dorințelor de bine la despărțirea de cineva
+    Literals: bun_rămas, rămas_bun, numai_bine, cu_bine
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-06628861-n (înștiințare, anunț)
+      - hyponym: ENG30-06629610-n (la_revedere, pa, ciao)
+      - hyponym: ENG30-06632671-n (bună_dimineața, 'neața)
+      - hyponym: ENG30-06632807-n (bună_ziua, ziua_bună)
+      - hyponym: ENG30-06632947-n (noapte_bună)
+
+  Sense 21 (ID: ENG30-10792506-n):
+    Definiție: cuvânt folosit adesea ironic; expresie : bun de plată
+    Literals: bun
+    PNO Scores: P=0.5, N=0.0, O=0.5
+    Relații semantice:
+      - hypernym: ENG30-10200781-n (persoană_importantă, persoană_influentă)
+      - near_eng_derivat: ENG30-02584981-a (valoros, meritoriu)
+
+  Sense 22 (ID: ENG30-09851371-n):
+    Definiție: Prietenul cel mai apropiat
+    Literals: cel_mai_bun_prieten
+    PNO Scores: P=0.375, N=0.0, O=0.625
+    Relații semantice:
+      - hypernym: ENG30-10112591-n (amic, prieten)
+
+  Sense 23 (ID: ENG30-10159289-n):
+    Definiție: persoană îndemânatică la diverse treburi mărunte
+    Literals: bun_de_mână, bun_la_toate
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-10521100-n (depanator, reparator)
+
+  Sense 24 (ID: ENG30-10159289-n):
+    Definiție: persoană îndemânatică la diverse treburi mărunte
+    Literals: bun_de_mână, bun_la_toate
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-10521100-n (depanator, reparator)
+
+  Sense 25 (ID: ENG30-06687701-n):
+    Definiție: Exprimă o aprobare
+    Literals: bun, așa, bine
+    PNO Scores: P=0.125, N=0.125, O=0.75
+    Relații semantice:
+      - hypernym: ENG30-06687358-n (autorizație)
+      - near_eng_derivat: ENG30-00806502-v (fi_de_acord)
+
+  Sense 26 (ID: ENG30-00211593-n):
+    Definiție: A termina cu bine un proiect sau o misiune
+    Literals: duce_la_bun_sfârșit
+    PNO Scores: P=0.125, N=0.0, O=0.875
+    Relații semantice:
+      - hypernym: ENG30-00211110-n (încheiere)
+      - near_eng_derivat: ENG30-00486018-v (duce_la_bun_sfârșit)
+
+  Sense 27 (ID: ENG30-09542697-n):
+    Definiție: spirit care ajută
+    Literals: spirit_bun
+    PNO Scores: P=0.75, N=0.0, O=0.25
+    Relații semantice:
+      - hypernym: ENG30-09540055-n (înger_păzitor)
+      - domain_REGION: ENG30-08780881-n (Grecia, Republica_Elenă)
+      - near_antonym: ENG30-09542541-n ()
+
+  Sense 28 (ID: ENG30-01428203-v):
+    Definiție: a fi bun pentru reproducere (dirijată) între animale domestice (de rasă)
+    Literals: fi_bun_de_prăsilă
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-01428011-v (folosi)
+      - domain_TOPIC: ENG30-00917211-n (creșterea_animalelor)
+
+  Sense 29 (ID: ENG30-09851165-n):
+    Definiție: persoană care se deosebește de celelalte persoane sau care le depășește
+    Literals: cel_mai_bun, cel_mai_tare
+    PNO Scores: P=0.375, N=0.0, O=0.625
+    Relații semantice:
+      - hypernym: ENG30-00007846-n (individ, om, persoană)
+      - near_eng_derivat: ENG30-02687385-v (depăși, devansa, întrece)
+      - near_eng_derivat: ENG30-02669081-v (depăși, devansa, întrece)
+
+  Sense 30 (ID: ENG30-08326266-n):
+    Definiție: Comitet însărcinat să primească noi rezidenți în comunitate
+    Literals: comitet_de_bun_venit
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-08325686-n (comitete)
+
+  Sense 31 (ID: ENG30-01808329-a):
+    Definiție: Capabil să placă
+    Literals: bun
+    PNO Scores: P=0.625, N=0.0, O=0.375
+    Relații semantice:
+      - similar_to: ENG30-01807219-a (plăcut)
+
+  Sense 32 (ID: ENG30-00106020-a):
+    Definiție: care are o cantitate considerată normală
+    Literals: bun, întreg
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - similar_to: ENG30-00105746-a (amplu)
+
+  Sense 33 (ID: ENG30-02273643-a):
+    Definiție: Câștigător din punct de vedere financiar
+    Literals: bun, sigur
+    PNO Scores: P=0.5, N=0.0, O=0.5
+    Relații semantice:
+      - similar_to: ENG30-02273326-a (sigur)
+      - near_eng_derivat: ENG30-13344071-n (asigurare)
+      - near_eng_derivat: ENG30-04670022-n (încredere)
+
+  Sense 34 (ID: ENG30-00852197-a):
+    Definiție: care poate fi ales ca soț, logodnic etc.
+    Literals: bun, potrivit
+    PNO Scores: P=0.5, N=0.0, O=0.5
+    Relații semantice:
+      - near_eng_derivat: ENG30-04715487-n (adecvare)
+      - near_eng_derivat: ENG30-04686935-n (sex_appeal)
+
+  Sense 35 (ID: ENG30-02502578-a):
+    Definiție: Fără calități
+    Literals: bun_de_nimic
+    PNO Scores: P=0.5, N=0.0, O=0.5
+    Relații semantice:
+      - similar_to: ENG30-02502163-a (nevaloros)
+      - near_eng_derivat: ENG30-10135953-n (bun_de_nimic, parazit, nepriceput)
+
+  Sense 36 (ID: ENG30-13250244-n):
+    Definiție: (Despre drepturi, bunuri) Care, potrivit legii sau voinței părților, nu poate fi înstrăinat
+    Literals: bun_inalienabil
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-13246475-n (proprietate, proprietate_imobiliară)
+      - domain_TOPIC: ENG30-08059412-n (breaslă, corporație)
+
+  Sense 37 (ID: ENG30-01333477-a):
+    Definiție: care se adresează minții
+    Literals: bun
+    PNO Scores: P=0.75, N=0.0, O=0.25
+    Relații semantice:
+      - near_eng_derivat: ENG30-05142180-n (bine, bun)
+
+  Sense 38 (ID: ENG30-01586752-a):
+    Definiție: agreabil sau încântător
+    Literals: bun, plăcut
+    PNO Scores: P=1.0, N=0.0, O=0.0
+    Relații semantice:
+      - similar_to: ENG30-01586342-a (plăcut)
+
+  Sense 39 (ID: ENG30-05142180-n):
+    Definiție: Ceea ce corespunde cu morala, ceea ce este recomandabil din punct de vedere etic.   
+    Literals: bine, bun
+    PNO Scores: P=0.625, N=0.0, O=0.375
+    Relații semantice:
+      - hypernym: ENG30-04723816-n (însușire, calitate, particularitate, trăsătură)
+      - near_eng_derivat: ENG30-01661289-a (potrivit, bun, nimerit)
+      - near_eng_derivat: ENG30-01333477-a (bun)
+      - near_eng_derivat: ENG30-01166413-a (salutar, bun)
+      - near_eng_derivat: ENG30-00064787-a (convenabil, benefic)
+      - near_eng_derivat: ENG30-01123148-a (bun)
+      - near_antonym: ENG30-05144079-n (rău)
+      - hyponym: ENG30-04806804-n (onorabilitate, respectabilitate, demnitate)
+      - hyponym: ENG30-05141840-n (dezirabilitate)
+      - hyponym: ENG30-05142641-n (avantaj, beneficiu, câștig, profit)
+      - hyponym: ENG30-05143690-n ()
+      - hyponym: ENG30-05143864-n (optim)
+      - hyponym: ENG30-05159948-n (chibzuință, înțelepciune)
+
+  Sense 40 (ID: ENG30-13370938-n):
+    Definiție: Cantitate abundentă de bunuri materiale, de materii prime, de bani, de obiecte prețioase etc.
+    Literals: avere, avut, avuție, bogăție, bun, situație, stare
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-13370669-n (comoară, tezaur)
+
+  Sense 41 (ID: ENG30-00227507-a):
+    Definiție: Superlativul lui bun
+    Literals: cel_mai_bun
+    PNO Scores: P=0.75, N=0.0, O=0.25
+    Relații semantice:
+      - also_see: ENG30-01123148-a (bun)
+      - also_see: ENG30-02341266-a (superior)
+      - also_see: ENG30-02439949-a (superior)
+      - near_eng_derivat: ENG30-00127531-n ()
+      - similar_to: ENG30-00228025-a (campion)
+      - similar_to: ENG30-00228645-a (optim)
+
+  Sense 42 (ID: ENG30-02005756-a):
+    Definiție: care ține minte
+    Literals: bun, sănătos
+    PNO Scores: P=0.375, N=0.5, O=0.125
+    Relații semantice:
+      - also_see: ENG30-01977155-a (conștient)
+      - near_eng_derivat: ENG30-04864515-n (dârzenie, încăpățânare, îndărătnicie, perseverență, stăruință, tenacitate)
+      - near_eng_derivat: ENG30-00607780-v (ști, [-și] aminti)
+      - near_eng_derivat: ENG30-05651399-n (ținere_de_minte, memorie)
+      - near_eng_derivat: ENG30-02701628-v (reține, ține)
+      - near_eng_derivat: ENG30-00610010-v (reține, ține_minte)
+      - near_antonym: ENG30-02006031-a (uituc)
+
+  Sense 43 (ID: ENG30-02388773-a):
+    Definiție: care este foarte maleabil și ascultă de ordine
+    Literals: ascultător, bun, cuminte, docil, supus
+    PNO Scores: P=0.5, N=0.0, O=0.5
+    Relații semantice:
+      - similar_to: ENG30-02388145-a (domesticit, îmblânzit)
+      - near_eng_derivat: ENG30-04905697-n (docilitate)
+
+  Sense 44 (ID: ENG30-00510348-a):
+    Definiție: care este în stare să facă lucrurile bine
+    Literals: abil, bun, capabil
+    PNO Scores: P=0.125, N=0.0, O=0.875
+    Relații semantice:
+      - similar_to: ENG30-00510050-a (capabil, priceput, competent)
+      - near_eng_derivat: ENG30-05202497-n (capabilitate)
+      - near_eng_derivat: ENG30-05623181-n (posibilitate, potențial, capabilitate)
+      - near_eng_derivat: ENG30-05616246-n (destoinicie, iscusință, potențial, pricepere)
+      - near_eng_derivat: ENG30-05200169-n (abilitate, destoinicie)
+
+  Sense 45 (ID: ENG30-00523364-a):
+    Definiție: De calitate superioară
+    Literals: adevărat, minuțios, bun
+    PNO Scores: P=0.625, N=0.0, O=0.375
+    Relații semantice:
+      - similar_to: ENG30-00520214-a (complet)
+
+  Sense 46 (ID: ENG30-00523786-a):
+    Definiție: puternic
+    Literals: strașnic, zdravăn, bun
+    PNO Scores: P=0.625, N=0.0, O=0.375
+    Relații semantice:
+      - similar_to: ENG30-00520214-a (complet)
+
+  Sense 47 (ID: ENG30-02587936-a):
+    Definiție: suficient de valoros să justifice investiția de timp sau interest
+    Literals: bun
+    PNO Scores: P=0.375, N=0.0, O=0.625
+    Relații semantice:
+      - similar_to: ENG30-02584981-a (valoros, meritoriu)
+
+  Sense 48 (ID: ENG30-01068306-a):
+    Definiție: Care nu s-a stricat
+    Literals: nealterat, nestricat, bun
+    PNO Scores: P=0.375, N=0.125, O=0.5
+    Relații semantice:
+      - similar_to: ENG30-01067694-a (proaspăt)
+
+  Sense 49 (ID: ENG30-02563194-a):
+    Definiție: (Prin extensiune) mai mult decât..., și mai bine
+    Literals: comod, confortabil, bun
+    PNO Scores: P=0.25, N=0.0, O=0.75
+    Relații semantice:
+      - similar_to: ENG30-02563068-a (întins)
+
+  Sense 50 (ID: ENG30-02563120-v):
+    Definiție: A face ceva cât se poate de bine
+    Literals: da_totul, da_ce_e_mai_bun, da_tot_ce_e_mai_bun
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02561995-v (face)
+
+  Sense 51 (ID: ENG30-02563120-v):
+    Definiție: A face ceva cât se poate de bine
+    Literals: da_totul, da_ce_e_mai_bun, da_tot_ce_e_mai_bun
+    PNO Scores: P=0.0, N=0.0, O=1.0
+    Relații semantice:
+      - hypernym: ENG30-02561995-v (face)
+
+  Sense 52 (ID: ENG30-01661289-a):
+    Definiție: Potrivit, apt pentru un anumit scop 
+    Literals: potrivit, bun, nimerit
+    PNO Scores: P=0.375, N=0.0, O=0.625
+    Relații semantice:
+      - similar_to: ENG30-01660994-a (oportun)
+      - near_eng_derivat: ENG30-05142180-n (bine, bun)
+
+  Sense 53 (ID: ENG30-01048762-a):
+    Definiție: Care face sau prinde bine
+    Literals: bun
+    PNO Scores: P=0.625, N=0.0, O=0.375
+    Relații semantice:
+      - similar_to: ENG30-01047874-a (norocos)
+
+  Sense 54 (ID: ENG30-01166413-a):
+    Definiție: folositor vieții și sănătății
+    Literals: salutar, bun
+    PNO Scores: P=0.875, N=0.0, O=0.125
+    Relații semantice:
+      - similar_to: ENG30-01164763-a (sănătos, salutar, salubru)
+      - near_eng_derivat: ENG30-05142180-n (bine, bun)
+
+  Sense 55 (ID: ENG30-00177547-a):
+    Definiție: care poate aduce noroc
+    Literals: favorabil, propice, oportun, de_bun_augur, prielnic
+    PNO Scores: P=0.75, N=0.0, O=0.25
+    Relații semantice:
+      - near_eng_derivat: ENG30-14473655-n (noroc, șansă, baftă)
+      - near_eng_derivat: ENG30-05160796-n ()
+
+  Sense 56 (ID: ENG30-02558184-a):
+    Definiție: Prielnic sănătății
+    Literals: sănătos, bun
+    PNO Scores: P=0.875, N=0.0, O=0.125
+    Relații semantice:
+      - similar_to: ENG30-02557357-a (sănătos)
+      - near_eng_derivat: ENG30-04790238-n (salubritate)
+
+  Sense 57 (ID: ENG30-01372049-a):
+    Definiție: Care face în mod obișnuit bine altora, care se poartă bine cu alții
+    Literals: drăguț, bun, binevoitor, amabil
+    PNO Scores: P=0.625, N=0.0, O=0.375
+    Relații semantice:
+      - also_see: ENG30-00226618-a (benign)
+      - also_see: ENG30-01133876-a (senin)
+      - also_see: ENG30-01156112-a (moale, molatec, molatic)
+      - near_eng_derivat: ENG30-04840011-n (bunătate, bunăvoință)
+      - near_eng_derivat: ENG30-00034574-n (bine)
+      - similar_to: ENG30-01372568-a (binevoitor)
+      - similar_to: ENG30-01372773-a (blajin, blând)
+      - similar_to: ENG30-01372948-a (binevoitor, amabil)
+      - similar_to: ENG30-01373314-a (afectuos, tandru, delicat)
+
+

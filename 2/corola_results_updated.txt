@@ -1,0 +1,260 @@
+NLP Assignment Part 2: COROLA Word Embeddings
+Word, Lemma, and Lemma+POS Neighbors
+============================================================
+
+Input Original: bucurie
+Lemma: bucurie | POS: NOUN | Lemma+POS: bucurie_NOUN
+----------------------------------------
+[1] Nearest Neighbors (Word Form: 'bucurie'):
+  - bucuria (0.8155)
+  - fericire (0.8144)
+  - veselie (0.7885)
+  - încântare (0.7720)
+  - emoție (0.7429)
+  - tristețe (0.7390)
+  - mulțumire (0.7366)
+  - bucurii (0.7333)
+  - întristare (0.7297)
+  - încîntare (0.7242)
+
+[2] Nearest Neighbors (Lemma: 'bucurie'):
+  - Same as Word Form.
+
+[3] Nearest Neighbors (Lemma+POS: 'bucurie_NOUN'):
+  - [Note] Using word-model 'bucurie' as representative for Lemma+POS category.
+  - (Results same as Lemma results in this unified word model)
+
+========================================
+
+Input Original: succes
+Lemma: succes | POS: NOUN | Lemma+POS: succes_NOUN
+----------------------------------------
+[1] Nearest Neighbors (Word Form: 'succes'):
+  - succesul (0.7607)
+  - succese (0.7173)
+  - succesului (0.6989)
+  - reușită (0.6982)
+  - success (0.6980)
+  - insucces (0.6533)
+  - reușite (0.6423)
+  - răsunător (0.6132)
+  - insuccesul (0.6113)
+  - încununate (0.6105)
+
+[2] Nearest Neighbors (Lemma: 'succes'):
+  - Same as Word Form.
+
+[3] Nearest Neighbors (Lemma+POS: 'succes_NOUN'):
+  - [Note] Using word-model 'succes' as representative for Lemma+POS category.
+  - (Results same as Lemma results in this unified word model)
+
+========================================
+
+Input Original: om
+Lemma: om | POS: NOUN | Lemma+POS: om_NOUN
+----------------------------------------
+[1] Nearest Neighbors (Word Form: 'om'):
+  - omul (0.7599)
+  - individ (0.6625)
+  - bărbat (0.6604)
+  - înțelept (0.6574)
+  - iubitor (0.6471)
+  - tânăr (0.6427)
+  - țăran (0.6317)
+  - muritor (0.6269)
+  - băiat (0.6261)
+  - deștept (0.6204)
+
+[2] Nearest Neighbors (Lemma: 'om'):
+  - Same as Word Form.
+
+[3] Nearest Neighbors (Lemma+POS: 'om_NOUN'):
+  - [Note] Using word-model 'om' as representative for Lemma+POS category.
+  - (Results same as Lemma results in this unified word model)
+
+========================================
+
+Input Original: alerga
+Lemma: alerga | POS: AUX | Lemma+POS: alerga_AUX
+----------------------------------------
+[1] Nearest Neighbors (Word Form: 'alerga'):
+  - alergai (0.8102)
+  - alergând (0.7944)
+  - alerge (0.7919)
+  - alergase (0.7918)
+  - alergat (0.7880)
+  - alergată (0.7815)
+  - alergară (0.7803)
+  - alergau (0.7791)
+  - alergam (0.7647)
+  - alergînd (0.7554)
+
+[2] Nearest Neighbors (Lemma: 'alerga'):
+  - Same as Word Form.
+
+[3] Nearest Neighbors (Lemma+POS: 'alerga_AUX'):
+  - [Note] Using word-model 'alerga' as representative for Lemma+POS category.
+  - (Results same as Lemma results in this unified word model)
+
+========================================
+
+Input Original: mânca
+Lemma: mânca | POS: VERB | Lemma+POS: mânca_VERB
+----------------------------------------
+[1] Nearest Neighbors (Word Form: 'mânca'):
+  - mâncat (0.7850)
+  - mînca (0.7757)
+  - mâncai (0.7723)
+  - mănânce (0.7592)
+  - mâncă (0.7552)
+  - mănâncă (0.7518)
+  - mâncare (0.7456)
+  - mănânci (0.7416)
+  - mâncase (0.7280)
+  - mânce (0.7225)
+
+[2] Nearest Neighbors (Lemma: 'mânca'):
+  - Same as Word Form.
+
+[3] Nearest Neighbors (Lemma+POS: 'mânca_VERB'):
+  - [Note] Using word-model 'mânca' as representative for Lemma+POS category.
+  - (Results same as Lemma results in this unified word model)
+
+========================================
+
+Input Original: vorbi
+Lemma: vorbi | POS: NOUN | Lemma+POS: vorbi_NOUN
+----------------------------------------
+[1] Nearest Neighbors (Word Form: 'vorbi'):
+  - vorbind (0.7133)
+  - vorbim (0.7099)
+  - vorbit (0.7032)
+  - gândi (0.7007)
+  - vorbește (0.6933)
+  - explica (0.6786)
+  - vorbească (0.6782)
+  - spune (0.6778)
+  - vorbesc (0.6747)
+  - vorbescă (0.6617)
+
+[2] Nearest Neighbors (Lemma: 'vorbi'):
+  - Same as Word Form.
+
+[3] Nearest Neighbors (Lemma+POS: 'vorbi_NOUN'):
+  - [Note] Using word-model 'vorbi' as representative for Lemma+POS category.
+  - (Results same as Lemma results in this unified word model)
+
+========================================
+
+Input Original: frumos
+Lemma: frumos | POS: ADV | Lemma+POS: frumos_ADV
+----------------------------------------
+[1] Nearest Neighbors (Word Form: 'frumos'):
+  - frumosă (0.7846)
+  - minunat (0.7483)
+  - plăcut (0.7070)
+  - frumoasă (0.7003)
+  - superb (0.6988)
+  - splendid (0.6936)
+  - adorabil (0.6851)
+  - frumosul (0.6836)
+  - drag (0.6820)
+  - preafrumos (0.6728)
+
+[2] Nearest Neighbors (Lemma: 'frumos'):
+  - Same as Word Form.
+
+[3] Nearest Neighbors (Lemma+POS: 'frumos_ADV'):
+  - [Note] Using word-model 'frumos' as representative for Lemma+POS category.
+  - (Results same as Lemma results in this unified word model)
+
+========================================
+
+Input Original: bun
+Lemma: bun | POS: ADJ | Lemma+POS: bun_ADJ
+----------------------------------------
+[1] Nearest Neighbors (Word Form: 'bun'):
+  - augur (0.6037)
+  - excelent (0.5866)
+  - rău (0.5747)
+  - înțelept (0.5746)
+  - deștept (0.5720)
+  - bunu (0.5510)
+  - bunul (0.5473)
+  - valoros (0.5447)
+  - harnic (0.5420)
+  - folositor (0.5377)
+
+[2] Nearest Neighbors (Lemma: 'bun'):
+  - Same as Word Form.
+
+[3] Nearest Neighbors (Lemma+POS: 'bun_ADJ'):
+  - [Note] Using word-model 'bun' as representative for Lemma+POS category.
+  - (Results same as Lemma results in this unified word model)
+
+========================================
+
+Input Original: mare
+Lemma: mare | POS: ADJ | Lemma+POS: mare_ADJ
+----------------------------------------
+[1] Nearest Neighbors (Word Form: 'mare'):
+  - mică (0.7064)
+  - mic (0.6596)
+  - dar (0.5873)
+  - scipomar (0.5651)
+  - mai (0.5469)
+  - cel (0.5429)
+  - oarecare (0.5365)
+  - considerabilă (0.5337)
+  - cea (0.5228)
+  - apreciabilă (0.5188)
+
+[2] Nearest Neighbors (Lemma: 'mare'):
+  - Same as Word Form.
+
+[3] Nearest Neighbors (Lemma+POS: 'mare_ADJ'):
+  - [Note] Using word-model 'mare' as representative for Lemma+POS category.
+  - (Results same as Lemma results in this unified word model)
+
+========================================
+
+Input Original: rece
+Lemma: rece | POS: ADJ | Lemma+POS: rece_ADJ
+----------------------------------------
+[1] Nearest Neighbors (Word Form: 'rece'):
+  - caldă (0.6985)
+  - cald (0.6888)
+  - reci (0.6803)
+  - fierbinte (0.6774)
+  - fierbintea (0.6154)
+  - răcea (0.6034)
+  - răcoros (0.6032)
+  - răcoroasă (0.6023)
+  - friguroasă (0.6015)
+  - dezgheață (0.5992)
+
+[2] Nearest Neighbors (Lemma: 'rece'):
+  - Same as Word Form.
+
+[3] Nearest Neighbors (Lemma+POS: 'rece_ADJ'):
+  - [Note] Using word-model 'rece' as representative for Lemma+POS category.
+  - (Results same as Lemma results in this unified word model)
+
+========================================
+
+
+Analogies (Vector Arithmetic)
+----------------------------------------
+Analogy: rege - bărbat + femeie
+  -> regină (0.8015)
+  -> regele (0.7429)
+  -> regelui (0.7211)
+
+Analogy: Paris - Franța + România
+  Error: "Key 'Paris' not present in vocabulary"
+
+Analogy: bun - bine + rău
+  -> augur (0.5446)
+  -> răutăcios (0.5163)
+  -> nenorocit (0.5158)
+
