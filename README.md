@@ -1,0 +1,1 @@
+# NLP_Assign1-2WordNet_and_Corola_word_plus_lemma_embeddings
